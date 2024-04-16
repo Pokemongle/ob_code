@@ -5,6 +5,34 @@
       "path": "必学工具/Git.md"
     },
     {
+      "basename": "Vim",
+      "path": "必学工具/Vim.md"
+    },
+    {
+      "basename": "双链示例",
+      "path": "00 Obsidian使用教程/双链示例.md"
+    },
+    {
+      "basename": "ppt_test",
+      "path": "00 Obsidian使用教程/ppt_test.md"
+    },
+    {
+      "basename": "Markdown语法示例",
+      "path": "00 Obsidian使用教程/Markdown语法示例.md"
+    },
+    {
+      "basename": "使用技巧",
+      "path": "00 Obsidian使用教程/使用技巧.md"
+    },
+    {
+      "basename": "插件",
+      "path": "00 Obsidian使用教程/插件.md"
+    },
+    {
+      "basename": "日记模板",
+      "path": "00 模板/日记模板.md"
+    },
+    {
       "basename": "2024-04-16",
       "path": "01 日记/2024-04-16.md"
     },
@@ -55,30 +83,6 @@
     {
       "basename": "2023-07-29",
       "path": "01 日记/2023-07-29.md"
-    },
-    {
-      "basename": "插件",
-      "path": "00 Obsidian使用教程/插件.md"
-    },
-    {
-      "basename": "ppt_test",
-      "path": "00 Obsidian使用教程/ppt_test.md"
-    },
-    {
-      "basename": "Markdown语法示例",
-      "path": "00 Obsidian使用教程/Markdown语法示例.md"
-    },
-    {
-      "basename": "双链示例",
-      "path": "00 Obsidian使用教程/双链示例.md"
-    },
-    {
-      "basename": "使用技巧",
-      "path": "00 Obsidian使用教程/使用技巧.md"
-    },
-    {
-      "basename": "日记模板",
-      "path": "00 模板/日记模板.md"
     },
     {
       "basename": "未命名",
