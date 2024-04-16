@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ec6e5e86c6864314",
+            "id": "a3428d44fdd1411c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming language/mit-missing semester/Topic 2：Shell Tools and Scripting.md",
+                "file": "01 日记/2024-04-16.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming language/mit-missing semester/Topic 2：Shell Tools and Scripting.md"
+                "file": "01 日记/2024-04-16.md"
               }
             }
           },
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming language/mit-missing semester/Topic 2：Shell Tools and Scripting.md",
+                "file": "01 日记/2024-04-16.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming language/mit-missing semester/Topic 2：Shell Tools and Scripting.md",
+                "file": "01 日记/2024-04-16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -173,8 +173,9 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "ec6e5e86c6864314",
+  "active": "a3428d44fdd1411c",
   "lastOpenFiles": [
+    "01 日记/2024-04-16.md",
     "Programming language/mit-missing semester/Topic 1：The Shell.md",
     "Programming language/黑马程序员-Python基础/第6章 数据容器.md",
     "Programming language/黑马程序员-Python基础/第2章.md",
@@ -211,7 +212,6 @@
     "Computer Network/Stanford CS144",
     "Computer Network",
     "未命名 1.md",
-    "00 Inbox/Markdown语法示例.md",
     "attachment/Pasted image 20230729013601.png"
   ]
 }
