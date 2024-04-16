@@ -1,0 +1,217 @@
+{
+  "main": {
+    "id": "2e31e8d22aaa5d8d",
+    "type": "split",
+    "children": [
+      {
+        "id": "b64a1b47870bc669",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ec6e5e86c6864314",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming language/mit-missing semester/Topic 2：Shell Tools and Scripting.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8e8cc7f08c28183d",
+    "type": "split",
+    "children": [
+      {
+        "id": "687f0779dc840724",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3a8201c8c12fa4cb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e08e00643065211d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6624bb821b0ffe05",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "1e6893e5de55476c",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "1bd954b4346845fe",
+    "type": "split",
+    "children": [
+      {
+        "id": "cc205b02ad8e11ed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fffcc9945173914a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Programming language/mit-missing semester/Topic 2：Shell Tools and Scripting.md"
+              }
+            }
+          },
+          {
+            "id": "4046b8dc5bee2243",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8775e4e7df73f7f2",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "400a551cfac57a4f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0ba8c72bfd2fc2f5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Programming language/mit-missing semester/Topic 2：Shell Tools and Scripting.md",
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "17f93d7c7fde9325",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Programming language/mit-missing semester/Topic 2：Shell Tools and Scripting.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 237.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "audio-recorder:开始/结束录音": false,
+      "workspaces:管理工作区布局": false,
+      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
+    }
+  },
+  "active": "ec6e5e86c6864314",
+  "lastOpenFiles": [
+    "Programming language/mit-missing semester/Topic 1：The Shell.md",
+    "Programming language/黑马程序员-Python基础/第6章 数据容器.md",
+    "Programming language/黑马程序员-Python基础/第2章.md",
+    "Programming language/黑马程序员-JAVA/02-Java基础概念.md",
+    "Programming language/黑马程序员-JAVA/01-Java入门.md",
+    "application/SuperMagic-Readme.md",
+    "application/resume.md",
+    "application/DIP-Readme.md",
+    "application/仪器系统设计.md",
+    "application/电路综合.md",
+    "01 日记/2023-07-29.md",
+    "00 Obsidian使用教程/插件.md",
+    "00 Obsidian使用教程/ppt_test.md",
+    "00 Obsidian使用教程/Markdown语法示例.md",
+    "00 Obsidian使用教程/双链示例.md",
+    "00 Obsidian使用教程/使用技巧.md",
+    "00 模板/日记模板.md",
+    "Computer Network/Stanford CS144/未命名.md",
+    "Programming language/mit-missing semester/Topic 2：Shell Tools and Scripting.md",
+    "未命名",
+    "Programming language/黑马程序员-Python基础/第5章 函数.md",
+    "Programming language/黑马程序员-JAVA",
+    "Data Structure and Algorithms/CS61B",
+    "Data Structure and Algorithms",
+    "application",
+    "Programming language/黑马程序员-Python基础/第4章.md",
+    "未命名.canvas",
+    "Programming language/黑马程序员-Python基础/第3章.md",
+    "黑马程序员-Python基础.md",
+    "Programming language/黑马程序员-Python基础",
+    "Programming language/UCB-CS61A/未命名.md",
+    "Programming language/UCB-CS61A",
+    "Programming language",
+    "Computer Network/Stanford CS144",
+    "Computer Network",
+    "未命名 1.md",
+    "00 Inbox/Markdown语法示例.md",
+    "attachment/Pasted image 20230729013601.png"
+  ]
+}

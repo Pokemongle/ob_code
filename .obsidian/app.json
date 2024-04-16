@@ -1,0 +1,13 @@
+{
+  "showLineNumber": true,
+  "trashOption": "local",
+  "newFileLocation": "root",
+  "newFileFolderPath": "",
+  "attachmentFolderPath": "attachment",
+  "strictLineBreaks": true,
+  "readableLineLength": false,
+  "autoPairBrackets": true,
+  "autoPairMarkdown": true,
+  "showFrontmatter": false,
+  "smartIndentList": true
+}
