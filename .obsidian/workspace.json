@@ -173,8 +173,10 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "a3428d44fdd1411c",
+  "active": "3a8201c8c12fa4cb",
   "lastOpenFiles": [
+    "未命名",
+    "必学工具",
     "01 日记/2024-04-16.md",
     "Programming language/mit-missing semester/Topic 1：The Shell.md",
     "Programming language/黑马程序员-Python基础/第6章 数据容器.md",
@@ -195,7 +197,6 @@
     "00 模板/日记模板.md",
     "Computer Network/Stanford CS144/未命名.md",
     "Programming language/mit-missing semester/Topic 2：Shell Tools and Scripting.md",
-    "未命名",
     "Programming language/黑马程序员-Python基础/第5章 函数.md",
     "Programming language/黑马程序员-JAVA",
     "Data Structure and Algorithms/CS61B",
@@ -211,7 +212,6 @@
     "Programming language",
     "Computer Network/Stanford CS144",
     "Computer Network",
-    "未命名 1.md",
     "attachment/Pasted image 20230729013601.png"
   ]
 }
