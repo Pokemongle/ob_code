@@ -8,7 +8,7 @@
 - Primitive Basics
 	- Primitive expressions ` >>> 3`
 	- Arithmetic expressions
-		- `+ - * // / %`
+		`+ - * // / %`
 	- Assignment statements `=`
 ---
 - doctest
