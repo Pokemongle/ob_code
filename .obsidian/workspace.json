@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "编程入门/Python/UCB-CS61A/Lab 0.md",
+                "file": "编程入门/Python/UCB-CS61A/SICP/Chapter1_Building Abstractions with Functions.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "编程入门/Python/UCB-CS61A/Lab 0.md"
+                "file": "编程入门/Python/UCB-CS61A/SICP/Chapter1_Building Abstractions with Functions.md"
               }
             }
           },
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "编程入门/Python/UCB-CS61A/Lab 0.md",
+                "file": "编程入门/Python/UCB-CS61A/SICP/Chapter1_Building Abstractions with Functions.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "编程入门/Python/UCB-CS61A/Lab 0.md",
+                "file": "编程入门/Python/UCB-CS61A/SICP/Chapter1_Building Abstractions with Functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -175,21 +175,26 @@
   },
   "active": "5695672f2302c02c",
   "lastOpenFiles": [
-    "编程入门/Python/UCB-CS61A/wk1.md",
-    "编程入门/Python/UCB-CS61A/Lab 0.md",
-    "Programming language/黑马程序员-Python基础/第2章.md",
+    "编程入门/Python/UCB-CS61A/Course/Lab 0.md",
+    "编程入门/Python/UCB-CS61A/SICP/Chapter1_Building Abstractions with Functions.md",
+    "编程入门/Python/UCB-CS61A/Course",
+    "编程入门/Python/UCB-CS61A/SICP",
+    "编程入门/Python/UCB-CS61A/Course/wk1.md",
+    "必学工具/Vim.md",
     "必学工具/Git.md",
+    "01 日记/2023-07-29.md",
+    "01 日记/2024-04-16.md",
+    "编程入门/Python/概览.md",
+    "Programming language/黑马程序员-Python基础/第2章.md",
     "编程入门/Python",
     "编程入门",
     "Git讲义.pdf",
-    "必学工具/Vim.md",
     "00 Obsidian使用教程/双链示例.md",
     "00 Obsidian使用教程/ppt_test.md",
     "00 Obsidian使用教程/Markdown语法示例.md",
     "00 Obsidian使用教程/使用技巧.md",
     "00 Obsidian使用教程/插件.md",
     "00 模板/日记模板.md",
-    "01 日记/2024-04-16.md",
     "必学工具",
     "Programming language/mit-missing semester/Topic 1：The Shell.md",
     "Programming language/黑马程序员-Python基础/第6章 数据容器.md",
@@ -200,18 +205,13 @@
     "application/DIP-Readme.md",
     "application/仪器系统设计.md",
     "application/电路综合.md",
-    "01 日记/2023-07-29.md",
     "Computer Network/Stanford CS144/未命名.md",
     "Programming language/mit-missing semester/Topic 2：Shell Tools and Scripting.md",
-    "Programming language/黑马程序员-Python基础/第5章 函数.md",
     "Programming language/黑马程序员-JAVA",
     "Data Structure and Algorithms/CS61B",
     "Data Structure and Algorithms",
     "application",
-    "Programming language/黑马程序员-Python基础/第4章.md",
     "未命名.canvas",
-    "Programming language/黑马程序员-Python基础",
-    "编程入门/Python/UCB-CS61A",
     "attachment/Pasted image 20230729013601.png"
   ]
 }

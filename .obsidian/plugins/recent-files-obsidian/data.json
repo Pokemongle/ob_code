@@ -1,28 +1,44 @@
 {
   "recentFiles": [
     {
+      "basename": "Chapter1_Building Abstractions with Functions",
+      "path": "编程入门/Python/UCB-CS61A/SICP/Chapter1_Building Abstractions with Functions.md"
+    },
+    {
       "basename": "Lab 0",
-      "path": "编程入门/Python/UCB-CS61A/Lab 0.md"
+      "path": "编程入门/Python/UCB-CS61A/Course/Lab 0.md"
     },
     {
       "basename": "wk1",
-      "path": "编程入门/Python/UCB-CS61A/wk1.md"
+      "path": "编程入门/Python/UCB-CS61A/Course/wk1.md"
     },
     {
-      "basename": "第2章",
-      "path": "Programming language/黑马程序员-Python基础/第2章.md"
+      "basename": "Vim",
+      "path": "必学工具/Vim.md"
     },
     {
       "basename": "Git",
       "path": "必学工具/Git.md"
     },
     {
-      "basename": "Git讲义",
-      "path": "Git讲义.pdf"
+      "basename": "2023-07-29",
+      "path": "01 日记/2023-07-29.md"
     },
     {
-      "basename": "Vim",
-      "path": "必学工具/Vim.md"
+      "basename": "2024-04-16",
+      "path": "01 日记/2024-04-16.md"
+    },
+    {
+      "basename": "概览",
+      "path": "编程入门/Python/概览.md"
+    },
+    {
+      "basename": "第2章",
+      "path": "Programming language/黑马程序员-Python基础/第2章.md"
+    },
+    {
+      "basename": "Git讲义",
+      "path": "Git讲义.pdf"
     },
     {
       "basename": "双链示例",
@@ -47,10 +63,6 @@
     {
       "basename": "日记模板",
       "path": "00 模板/日记模板.md"
-    },
-    {
-      "basename": "2024-04-16",
-      "path": "01 日记/2024-04-16.md"
     },
     {
       "basename": "Topic 2：Shell Tools and Scripting",
@@ -91,10 +103,6 @@
     {
       "basename": "电路综合",
       "path": "application/电路综合.md"
-    },
-    {
-      "basename": "2023-07-29",
-      "path": "01 日记/2023-07-29.md"
     },
     {
       "basename": "未命名",
