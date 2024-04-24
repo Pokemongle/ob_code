@@ -9,5 +9,6 @@
   "autoPairBrackets": true,
   "autoPairMarkdown": true,
   "showFrontmatter": false,
-  "smartIndentList": true
+  "smartIndentList": true,
+  "promptDelete": false
 }

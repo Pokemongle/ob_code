@@ -5,6 +5,26 @@
       "path": "编程入门/Python/UCB-CS61A/SICP/Chapter1_Building Abstractions with Functions.md"
     },
     {
+      "basename": "概览",
+      "path": "编程入门/Python/概览.md"
+    },
+    {
+      "basename": "电路综合",
+      "path": "application/电路综合.md"
+    },
+    {
+      "basename": "Git讲义",
+      "path": "Git讲义.pdf"
+    },
+    {
+      "basename": "Topic 2：Shell Tools and Scripting",
+      "path": "必学工具/mit-missing semester/Topic 2：Shell Tools and Scripting.md"
+    },
+    {
+      "basename": "Topic 1：The Shell",
+      "path": "必学工具/mit-missing semester/Topic 1：The Shell.md"
+    },
+    {
       "basename": "Lab 0",
       "path": "编程入门/Python/UCB-CS61A/Course/Lab 0.md"
     },
@@ -27,18 +47,6 @@
     {
       "basename": "2024-04-16",
       "path": "01 日记/2024-04-16.md"
-    },
-    {
-      "basename": "概览",
-      "path": "编程入门/Python/概览.md"
-    },
-    {
-      "basename": "第2章",
-      "path": "Programming language/黑马程序员-Python基础/第2章.md"
-    },
-    {
-      "basename": "Git讲义",
-      "path": "Git讲义.pdf"
     },
     {
       "basename": "双链示例",
@@ -65,26 +73,6 @@
       "path": "00 模板/日记模板.md"
     },
     {
-      "basename": "Topic 2：Shell Tools and Scripting",
-      "path": "Programming language/mit-missing semester/Topic 2：Shell Tools and Scripting.md"
-    },
-    {
-      "basename": "Topic 1：The Shell",
-      "path": "Programming language/mit-missing semester/Topic 1：The Shell.md"
-    },
-    {
-      "basename": "第6章 数据容器",
-      "path": "Programming language/黑马程序员-Python基础/第6章 数据容器.md"
-    },
-    {
-      "basename": "02-Java基础概念",
-      "path": "Programming language/黑马程序员-JAVA/02-Java基础概念.md"
-    },
-    {
-      "basename": "01-Java入门",
-      "path": "Programming language/黑马程序员-JAVA/01-Java入门.md"
-    },
-    {
       "basename": "SuperMagic-Readme",
       "path": "application/SuperMagic-Readme.md"
     },
@@ -99,26 +87,6 @@
     {
       "basename": "仪器系统设计",
       "path": "application/仪器系统设计.md"
-    },
-    {
-      "basename": "电路综合",
-      "path": "application/电路综合.md"
-    },
-    {
-      "basename": "未命名",
-      "path": "Computer Network/Stanford CS144/未命名.md"
-    },
-    {
-      "basename": "第5章 函数",
-      "path": "Programming language/黑马程序员-Python基础/第5章 函数.md"
-    },
-    {
-      "basename": "第4章",
-      "path": "Programming language/黑马程序员-Python基础/第4章.md"
-    },
-    {
-      "basename": "第3章",
-      "path": "Programming language/黑马程序员-Python基础/第3章.md"
     },
     {
       "basename": "ppt_test",
