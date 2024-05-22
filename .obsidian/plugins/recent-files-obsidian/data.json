@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "1. Getting Started",
+      "path": "必学工具/Git/ProGit/1. Getting Started.md"
+    },
+    {
+      "basename": "Git",
+      "path": "必学工具/Git/Git.md"
+    },
+    {
+      "basename": "Git讲义",
+      "path": "必学工具/Git/Git讲义.pdf"
+    },
+    {
+      "basename": "Lab 0",
+      "path": "编程入门/Python/UCB-CS61A/Course/Lab 0.md"
+    },
+    {
+      "basename": "wk1",
+      "path": "编程入门/Python/UCB-CS61A/Course/wk1.md"
+    },
+    {
+      "basename": "Topic 2：Shell Tools and Scripting",
+      "path": "必学工具/mit-missing semester/Topic 2：Shell Tools and Scripting.md"
+    },
+    {
+      "basename": "Topic 1：The Shell",
+      "path": "必学工具/mit-missing semester/Topic 1：The Shell.md"
+    },
+    {
       "basename": "Chapter1_Building Abstractions with Functions",
       "path": "编程入门/Python/UCB-CS61A/SICP/Chapter1_Building Abstractions with Functions.md"
     },
@@ -13,32 +41,8 @@
       "path": "application/电路综合.md"
     },
     {
-      "basename": "Git讲义",
-      "path": "Git讲义.pdf"
-    },
-    {
-      "basename": "Topic 2：Shell Tools and Scripting",
-      "path": "必学工具/mit-missing semester/Topic 2：Shell Tools and Scripting.md"
-    },
-    {
-      "basename": "Topic 1：The Shell",
-      "path": "必学工具/mit-missing semester/Topic 1：The Shell.md"
-    },
-    {
-      "basename": "Lab 0",
-      "path": "编程入门/Python/UCB-CS61A/Course/Lab 0.md"
-    },
-    {
-      "basename": "wk1",
-      "path": "编程入门/Python/UCB-CS61A/Course/wk1.md"
-    },
-    {
       "basename": "Vim",
       "path": "必学工具/Vim.md"
-    },
-    {
-      "basename": "Git",
-      "path": "必学工具/Git.md"
     },
     {
       "basename": "2023-07-29",

@@ -10,5 +10,6 @@
   "autoPairMarkdown": true,
   "showFrontmatter": false,
   "smartIndentList": true,
-  "promptDelete": false
+  "promptDelete": false,
+  "vimMode": false
 }

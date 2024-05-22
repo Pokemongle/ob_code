@@ -1,7 +1,11 @@
 # Basic Git Guide & IDE 
  [[Git讲义.pdf]]
+
+---
 # E-book:
 [GitPro](https://git-scm.com/book/en/v2)
+
+---
 # Guide for `git commit`
 [How to Write a Git Commit Message](https://cbea.ms/git-commit/)
 ## The seven rules of a great Git commit message
@@ -33,5 +37,10 @@
 	`Release version 1.0.0`
 6. Wrap the body at 72 characters(?)
 7. Use the body to explain what and why vs. how!
+
+
+
+
+
 
  

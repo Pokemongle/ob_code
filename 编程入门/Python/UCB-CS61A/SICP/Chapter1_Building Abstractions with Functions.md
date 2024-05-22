@@ -11,10 +11,19 @@ Python prompt `>>>`
 	- statements: Carry out some action `exit()`
 - Functions
 	- encapsulate log that manipulates data
-	`shakespeare = urlopen("http://composingprograms.com/shakespeare.txt")`
-	`words = set(shakespeare.read().decode().split())`
+```python
+	shakespeare = urlopen("http://composingprograms.com/shakespeare.txt")
+	words = set(shakespeare.read().decode().split())
+```
+
+
 - Objects
 	- data & logic to manipulate data
-	`{w for w in words if len(w)=6 and w[::-1] in words}`
+	- An example of `set`
+```python
+{w for w in words if len(w)=6 and w[::-1] in words}
+// w[::-1] represents for the reverse of w
+```
+
 - Interpreters
 	- A program that implements such a procedure, evaluating compound expressions
