@@ -1,8 +1,16 @@
 {
+  "obsidian-git:commit": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "C"
+    }
+  ],
   "obsidian-git:push2": [
     {
       "modifiers": [
-        "Mod"
+        "Alt"
       ],
       "key": "="
     }
@@ -10,17 +18,9 @@
   "obsidian-git:pull": [
     {
       "modifiers": [
-        "Mod"
-      ],
-      "key": "-"
-    }
-  ],
-  "obsidian-git:commit": [
-    {
-      "modifiers": [
         "Alt"
       ],
-      "key": "C"
+      "key": "-"
     }
   ]
 }
