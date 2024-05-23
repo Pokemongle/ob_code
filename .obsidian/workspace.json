@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b64a1b47870bc669",
+        "id": "8f873f5fbec97c85",
         "type": "tabs",
         "children": [
           {
-            "id": "712731d8a9bcd77e",
+            "id": "1fdb3f2c7459a3f8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "必学工具/Git/ProGit/1. Getting Started.md",
+                "file": "必学工具/Git/ProGit/2. Git Basics.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "必学工具/Git/ProGit/1. Getting Started.md"
+                "file": "必学工具/Git/ProGit/2. Git Basics.md"
               }
             }
           },
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "必学工具/Git/ProGit/1. Getting Started.md",
+                "file": "必学工具/Git/ProGit/2. Git Basics.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "必学工具/Git/ProGit/1. Getting Started.md",
+                "file": "必学工具/Git/ProGit/2. Git Basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -174,19 +174,20 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "712731d8a9bcd77e",
+  "active": "1fdb3f2c7459a3f8",
   "lastOpenFiles": [
-    "必学工具/Git/Git.md",
+    "必学工具/mit-missing semester/Topic 1：The Shell.md",
+    "必学工具/Git/ProGit/2. Git Basics.md",
     "必学工具/Git/ProGit/1. Getting Started.md",
-    "必学工具/Git/ProGit",
+    "必学工具/Git/Git.md",
     "必学工具/Git/Git讲义.pdf",
+    "必学工具/Git/ProGit",
     "必学工具/Git/MIT-Git.md",
     "必学工具/Git",
     "必学工具/未命名.md",
     "编程入门/Python/UCB-CS61A/Course/Lab 0.md",
     "编程入门/Python/UCB-CS61A/Course/wk1.md",
     "必学工具/mit-missing semester/Topic 2：Shell Tools and Scripting.md",
-    "必学工具/mit-missing semester/Topic 1：The Shell.md",
     "编程入门/Python/UCB-CS61A/SICP/Chapter1_Building Abstractions with Functions.md",
     "编程入门/Python/概览.md",
     "application/电路综合.md",

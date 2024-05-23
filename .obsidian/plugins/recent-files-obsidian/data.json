@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "2. Git Basics",
+      "path": "必学工具/Git/ProGit/2. Git Basics.md"
+    },
+    {
+      "basename": "Topic 1：The Shell",
+      "path": "必学工具/mit-missing semester/Topic 1：The Shell.md"
+    },
+    {
       "basename": "1. Getting Started",
       "path": "必学工具/Git/ProGit/1. Getting Started.md"
     },
@@ -23,10 +31,6 @@
     {
       "basename": "Topic 2：Shell Tools and Scripting",
       "path": "必学工具/mit-missing semester/Topic 2：Shell Tools and Scripting.md"
-    },
-    {
-      "basename": "Topic 1：The Shell",
-      "path": "必学工具/mit-missing semester/Topic 1：The Shell.md"
     },
     {
       "basename": "Chapter1_Building Abstractions with Functions",
