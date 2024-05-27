@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8f873f5fbec97c85",
+        "id": "30b1c6726a8e0a2f",
         "type": "tabs",
         "children": [
           {
-            "id": "bd7df97e15b32e4e",
+            "id": "2fef679ed009ef93",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "必学工具/Git/ProGit/3 Git Branching.md",
+                "file": "必学工具/Git/ProGit/4 Git on the Server.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.5
+    "width": 269.5,
+    "collapsed": true
   },
   "right": {
     "id": "1bd954b4346845fe",
@@ -94,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "必学工具/Git/ProGit/3 Git Branching.md"
+                "file": "必学工具/Git/ProGit/4 Git on the Server.md"
               }
             }
           },
@@ -129,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "必学工具/Git/ProGit/3 Git Branching.md",
+                "file": "必学工具/Git/ProGit/4 Git on the Server.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -146,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "必学工具/Git/ProGit/3 Git Branching.md",
+                "file": "必学工具/Git/ProGit/4 Git on the Server.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -173,10 +174,11 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "bd7df97e15b32e4e",
+  "active": "2fef679ed009ef93",
   "lastOpenFiles": [
-    "必学工具/Git/ProGit/2. Git Basics.md",
+    "必学工具/Git/ProGit/4 Git on the Server.md",
     "必学工具/Git/ProGit/3 Git Branching.md",
+    "必学工具/Git/ProGit/2. Git Basics.md",
     "必学工具/Git/ProGit/1. Getting Started.md",
     "必学工具/Git/Git讲义.pdf",
     "必学工具/Git/Git.md",
@@ -207,7 +209,6 @@
     "编程入门/Python",
     "编程入门",
     "00 Obsidian使用教程/双链示例.md",
-    "00 Obsidian使用教程/ppt_test.md",
     "必学工具",
     "Programming language/黑马程序员-JAVA",
     "Data Structure and Algorithms/CS61B",
