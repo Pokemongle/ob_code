@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2fef679ed009ef93",
+            "id": "4a1f3d455d35ac2e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "必学工具/Git/ProGit/4 Git on the Server.md",
+                "file": "必学工具/Git/ProGit/5 Distributed Git.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "必学工具/Git/ProGit/4 Git on the Server.md"
+                "file": "必学工具/Git/ProGit/5 Distributed Git.md"
               }
             }
           },
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "必学工具/Git/ProGit/4 Git on the Server.md",
+                "file": "必学工具/Git/ProGit/5 Distributed Git.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "必学工具/Git/ProGit/4 Git on the Server.md",
+                "file": "必学工具/Git/ProGit/5 Distributed Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -174,9 +174,10 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "2fef679ed009ef93",
+  "active": "4a1f3d455d35ac2e",
   "lastOpenFiles": [
     "必学工具/Git/ProGit/4 Git on the Server.md",
+    "必学工具/Git/ProGit/5 Distributed Git.md",
     "必学工具/Git/ProGit/3 Git Branching.md",
     "必学工具/Git/ProGit/2. Git Basics.md",
     "必学工具/Git/ProGit/1. Getting Started.md",
@@ -208,7 +209,6 @@
     "01 日记/2024-04-16.md",
     "编程入门/Python",
     "编程入门",
-    "00 Obsidian使用教程/双链示例.md",
     "必学工具",
     "Programming language/黑马程序员-JAVA",
     "Data Structure and Algorithms/CS61B",
