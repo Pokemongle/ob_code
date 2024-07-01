@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Chapter1_Building Abstractions with Functions",
+      "path": "编程入门/Python/UCB-CS61A/SICP/Chapter1_Building Abstractions with Functions.md"
+    },
+    {
+      "basename": "DIP-Readme",
+      "path": "application/DIP-Readme.md"
+    },
+    {
+      "basename": "resume",
+      "path": "application/resume.md"
+    },
+    {
+      "basename": "SuperMagic-Readme",
+      "path": "application/SuperMagic-Readme.md"
+    },
+    {
       "basename": "5 Distributed Git",
       "path": "必学工具/Git/ProGit/5 Distributed Git.md"
     },
@@ -45,10 +61,6 @@
       "path": "必学工具/mit-missing semester/Topic 2：Shell Tools and Scripting.md"
     },
     {
-      "basename": "Chapter1_Building Abstractions with Functions",
-      "path": "编程入门/Python/UCB-CS61A/SICP/Chapter1_Building Abstractions with Functions.md"
-    },
-    {
       "basename": "概览",
       "path": "编程入门/Python/概览.md"
     },
@@ -91,18 +103,6 @@
     {
       "basename": "日记模板",
       "path": "00 模板/日记模板.md"
-    },
-    {
-      "basename": "SuperMagic-Readme",
-      "path": "application/SuperMagic-Readme.md"
-    },
-    {
-      "basename": "resume",
-      "path": "application/resume.md"
-    },
-    {
-      "basename": "DIP-Readme",
-      "path": "application/DIP-Readme.md"
     },
     {
       "basename": "仪器系统设计",

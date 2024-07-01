@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "必学工具/Git/ProGit/5 Distributed Git.md",
+                "file": "编程入门/Python/UCB-CS61A/SICP/Chapter1_Building Abstractions with Functions.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "必学工具/Git/ProGit/5 Distributed Git.md"
+                "file": "编程入门/Python/UCB-CS61A/SICP/Chapter1_Building Abstractions with Functions.md"
               }
             }
           },
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "必学工具/Git/ProGit/5 Distributed Git.md",
+                "file": "编程入门/Python/UCB-CS61A/SICP/Chapter1_Building Abstractions with Functions.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "必学工具/Git/ProGit/5 Distributed Git.md",
+                "file": "编程入门/Python/UCB-CS61A/SICP/Chapter1_Building Abstractions with Functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -173,10 +173,13 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "3a8201c8c12fa4cb",
+  "active": "4a1f3d455d35ac2e",
   "lastOpenFiles": [
-    "必学工具/Git/ProGit/4 Git on the Server.md",
+    "application/DIP-Readme.md",
+    "application/resume.md",
+    "application/SuperMagic-Readme.md",
     "必学工具/Git/ProGit/5 Distributed Git.md",
+    "必学工具/Git/ProGit/4 Git on the Server.md",
     "必学工具/Git/ProGit/3 Git Branching.md",
     "必学工具/Git/ProGit/2. Git Basics.md",
     "必学工具/Git/ProGit/1. Getting Started.md",
@@ -203,9 +206,6 @@
     "Programming language/黑马程序员-Python基础/第2章.md",
     "编程入门/Python/UCB-CS61A/Course",
     "编程入门/Python/UCB-CS61A/SICP",
-    "必学工具/Vim.md",
-    "01 日记/2023-07-29.md",
-    "01 日记/2024-04-16.md",
     "编程入门/Python",
     "编程入门",
     "必学工具",
