@@ -1,6 +1,54 @@
 {
   "recentFiles": [
     {
+      "basename": "2024-07-02 Day2 in roommates' dormitory",
+      "path": "01 日记/2024-07-02 Day2 in roommates' dormitory.md"
+    },
+    {
+      "basename": "2024-04-16",
+      "path": "01 日记/2024-04-16.md"
+    },
+    {
+      "basename": "2024-W27-Transition before moving into dormitory",
+      "path": "01 日记/2024-W27-Transition before moving into dormitory.md"
+    },
+    {
+      "basename": "日记模板",
+      "path": "00 模板/日记模板.md"
+    },
+    {
+      "basename": "Markdown语法示例",
+      "path": "00 Obsidian使用教程/Markdown语法示例.md"
+    },
+    {
+      "basename": "2023-07-29",
+      "path": "01 日记/2023-07-29.md"
+    },
+    {
+      "basename": "2. Git Basics",
+      "path": "必学工具/Git/ProGit/2. Git Basics.md"
+    },
+    {
+      "basename": "3 Git Branching",
+      "path": "必学工具/Git/ProGit/3 Git Branching.md"
+    },
+    {
+      "basename": "4 Git on the Server",
+      "path": "必学工具/Git/ProGit/4 Git on the Server.md"
+    },
+    {
+      "basename": "Git",
+      "path": "必学工具/Git/Git.md"
+    },
+    {
+      "basename": "5 Distributed Git",
+      "path": "必学工具/Git/ProGit/5 Distributed Git.md"
+    },
+    {
+      "basename": "1. Getting Started",
+      "path": "必学工具/Git/ProGit/1. Getting Started.md"
+    },
+    {
       "basename": "Chapter1_Building Abstractions with Functions",
       "path": "编程入门/Python/UCB-CS61A/SICP/Chapter1_Building Abstractions with Functions.md"
     },
@@ -17,32 +65,8 @@
       "path": "application/SuperMagic-Readme.md"
     },
     {
-      "basename": "5 Distributed Git",
-      "path": "必学工具/Git/ProGit/5 Distributed Git.md"
-    },
-    {
-      "basename": "4 Git on the Server",
-      "path": "必学工具/Git/ProGit/4 Git on the Server.md"
-    },
-    {
-      "basename": "3 Git Branching",
-      "path": "必学工具/Git/ProGit/3 Git Branching.md"
-    },
-    {
-      "basename": "2. Git Basics",
-      "path": "必学工具/Git/ProGit/2. Git Basics.md"
-    },
-    {
-      "basename": "1. Getting Started",
-      "path": "必学工具/Git/ProGit/1. Getting Started.md"
-    },
-    {
       "basename": "Git讲义",
       "path": "必学工具/Git/Git讲义.pdf"
-    },
-    {
-      "basename": "Git",
-      "path": "必学工具/Git/Git.md"
     },
     {
       "basename": "Topic 1：The Shell",
@@ -73,14 +97,6 @@
       "path": "必学工具/Vim.md"
     },
     {
-      "basename": "2023-07-29",
-      "path": "01 日记/2023-07-29.md"
-    },
-    {
-      "basename": "2024-04-16",
-      "path": "01 日记/2024-04-16.md"
-    },
-    {
       "basename": "双链示例",
       "path": "00 Obsidian使用教程/双链示例.md"
     },
@@ -89,20 +105,12 @@
       "path": "00 Obsidian使用教程/ppt_test.md"
     },
     {
-      "basename": "Markdown语法示例",
-      "path": "00 Obsidian使用教程/Markdown语法示例.md"
-    },
-    {
       "basename": "使用技巧",
       "path": "00 Obsidian使用教程/使用技巧.md"
     },
     {
       "basename": "插件",
       "path": "00 Obsidian使用教程/插件.md"
-    },
-    {
-      "basename": "日记模板",
-      "path": "00 模板/日记模板.md"
     },
     {
       "basename": "仪器系统设计",
