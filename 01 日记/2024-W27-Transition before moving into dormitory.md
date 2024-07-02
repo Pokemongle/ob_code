@@ -8,10 +8,10 @@
 - [ ] Sign temporal dormitory list🔼 
 - [ ] Apply for Xixi District Dormitory🔼 
 
-# 趣事
+# Funny things
 
 
-# 记事
+# Records
 
 
-# 回顾
+# Reviews
