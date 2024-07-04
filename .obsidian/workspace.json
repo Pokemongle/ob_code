@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 日记/2024-07-02 Day2 in roommates' dormitory.md",
+                "file": "01 日记/2024-07-03 Try to learn.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.5
+    "width": 200
   },
   "right": {
     "id": "1bd954b4346845fe",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 日记/2024-07-02 Day2 in roommates' dormitory.md"
+                "file": "01 日记/2024-07-03 Try to learn.md"
               }
             }
           },
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 日记/2024-07-02 Day2 in roommates' dormitory.md",
+                "file": "01 日记/2024-07-03 Try to learn.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 日记/2024-07-02 Day2 in roommates' dormitory.md",
+                "file": "01 日记/2024-07-03 Try to learn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -175,18 +175,24 @@
   },
   "active": "25351d12aeee93eb",
   "lastOpenFiles": [
+    "01 日记/2024-07-05 Have a nice day!.md",
+    "01 日记/2024-07-04 Do not stay up too lat.md",
+    "01 日记/2024-07-03 Try to learn.md",
     "01 日记/2024-W27-Transition before moving into dormitory.md",
     "01 日记/2024-07-02 Day2 in roommates' dormitory.md",
     "01 日记/2024-04-16.md",
+    "01 日记/2023-07-29.md",
+    "编程入门/Python/概览.md",
+    "编程入门/Python/UCB-CS61A/Course/wk1.md",
+    "编程入门/Python/UCB-CS61A/Course/Lab 0.md",
+    "必学工具/Git/ProGit/2. Git Basics.md",
+    "必学工具/Git/ProGit/1. Getting Started.md",
+    "必学工具/Git/ProGit/4 Git on the Server.md",
     "00 模板/日记模板.md",
     "00 Obsidian使用教程/Markdown语法示例.md",
-    "01 日记/2023-07-29.md",
-    "必学工具/Git/ProGit/2. Git Basics.md",
     "必学工具/Git/ProGit/3 Git Branching.md",
-    "必学工具/Git/ProGit/4 Git on the Server.md",
     "必学工具/Git/Git.md",
     "必学工具/Git/ProGit/5 Distributed Git.md",
-    "必学工具/Git/ProGit/1. Getting Started.md",
     "编程入门/Python/UCB-CS61A/SICP/Chapter1_Building Abstractions with Functions.md",
     "application/DIP-Readme.md",
     "application/resume.md",
@@ -197,13 +203,7 @@
     "必学工具/Git/MIT-Git.md",
     "必学工具/Git",
     "必学工具/未命名.md",
-    "编程入门/Python/UCB-CS61A/Course/Lab 0.md",
-    "编程入门/Python/UCB-CS61A/Course/wk1.md",
     "必学工具/mit-missing semester/Topic 2：Shell Tools and Scripting.md",
-    "编程入门/Python/概览.md",
-    "application/电路综合.md",
-    "Computer Network/Stanford CS144/未命名.md",
-    "Programming language/黑马程序员-JAVA/02-Java基础概念.md",
     "编程入门/Python/UCB-CS61A/Course",
     "编程入门/Python/UCB-CS61A/SICP",
     "编程入门/Python",

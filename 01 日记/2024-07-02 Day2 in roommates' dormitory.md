@@ -8,9 +8,18 @@
 - [ ] Learn video Clip
 
 # Funny things
-- Try Batleys whiskey. Sweet and spicy, burns my throat
+- Try Batleys whiskey. Sweet and spicy, burns my throat, makes my eyes red, my body hot.
 
 # Record
-
+data in the form of .mat is not simple array like [59, 2400, n], is in the form of directory
+```python
+import numpy as np
+data = zeros(59,2400,48)
+data = np.array(data)
+sample_matdata_dir = {
+	"datas":data	   
+}
+# now save sample_matdata_dir into .mat file
+```
 
 # Review
