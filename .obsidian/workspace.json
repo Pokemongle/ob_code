@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 日记/2024-07-03 Try to learn.md",
+                "file": "01 日记/2024-07/2024-W27-Transition before moving into dormitory.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 日记/2024-07-03 Try to learn.md"
+                "file": "01 日记/2024-07/2024-W27-Transition before moving into dormitory.md"
               }
             }
           },
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 日记/2024-07-03 Try to learn.md",
+                "file": "01 日记/2024-07/2024-W27-Transition before moving into dormitory.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 日记/2024-07-03 Try to learn.md",
+                "file": "01 日记/2024-07/2024-W27-Transition before moving into dormitory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -175,11 +175,12 @@
   },
   "active": "25351d12aeee93eb",
   "lastOpenFiles": [
-    "01 日记/2024-07-05 Have a nice day!.md",
-    "01 日记/2024-07-04 Do not stay up too lat.md",
-    "01 日记/2024-07-03 Try to learn.md",
-    "01 日记/2024-W27-Transition before moving into dormitory.md",
-    "01 日记/2024-07-02 Day2 in roommates' dormitory.md",
+    "01 日记/2024-07/2024-07-02 Day2 in roommates' dormitory.md",
+    "01 日记/2024-07/2024-W27-Transition before moving into dormitory.md",
+    "01 日记/2024-07",
+    "01 日记/2024-07/2024-07-05 Have a nice day!.md",
+    "01 日记/2024-07/2024-07-03 Try to learn.md",
+    "01 日记/2024-07/2024-07-04 Do not stay up too lat.md",
     "01 日记/2024-04-16.md",
     "01 日记/2023-07-29.md",
     "编程入门/Python/概览.md",
@@ -203,14 +204,12 @@
     "必学工具/Git/MIT-Git.md",
     "必学工具/Git",
     "必学工具/未命名.md",
-    "必学工具/mit-missing semester/Topic 2：Shell Tools and Scripting.md",
     "编程入门/Python/UCB-CS61A/Course",
     "编程入门/Python/UCB-CS61A/SICP",
     "编程入门/Python",
     "编程入门",
     "必学工具",
     "Programming language/黑马程序员-JAVA",
-    "Data Structure and Algorithms/CS61B",
     "未命名.canvas",
     "attachment/Pasted image 20230729013601.png"
   ]
