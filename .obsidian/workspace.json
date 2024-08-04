@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "256751835158be28",
+        "id": "332487e012fe7042",
         "type": "tabs",
         "children": [
           {
-            "id": "e6570a4350dca191",
+            "id": "9be1f907610628d6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 日记/2024-08-01.md",
+                "file": "深度学习/动手学深度学习.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 日记/2024-08-01.md"
+                "file": "深度学习/动手学深度学习.md"
               }
             }
           },
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 日记/2024-08-01.md",
+                "file": "深度学习/动手学深度学习.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 日记/2024-08-01.md",
+                "file": "深度学习/动手学深度学习.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -158,7 +158,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 237.5
+    "width": 237.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -173,15 +174,17 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "e6570a4350dca191",
+  "active": "9be1f907610628d6",
   "lastOpenFiles": [
-    "01 日记/2024-07-31.md",
+    "数学基础/1. Differentiation.md",
+    "深度学习/动手学深度学习.md",
+    "深度学习",
     "01 日记/2024-08-01.md",
+    "01 日记/2024-07-31.md",
     "01 日记/2024-07-20.md",
     "必学工具/Git/ProGit/1. Getting Started.md",
     "编程入门/Python/UCB-CS61A/Course/Lab 0.md",
     "编程入门/Python/UCB-CS61A/Course/wk1.md",
-    "数学基础/1. Differentiation.md",
     "Results.md",
     "数学基础/MIT18.01&18.02 Calculus",
     "数学基础",
@@ -203,14 +206,12 @@
     "00 模板/日记模板.md",
     "01 日记/2024-07/wk1/2024-07-07-Sleepy but need to learn AI.md",
     "01 日记/2024-07/wk1/2024-07-06-I hate power drill.md",
-    "01 日记/2024-07/wk1/2024-07-05 Have a nice day!.md",
     "01 日记/2024-07",
     "必学工具/Git/Git讲义.pdf",
     "必学工具/Git/ProGit",
     "必学工具/Git",
     "编程入门/Python/UCB-CS61A/Course",
     "编程入门/Python/UCB-CS61A/SICP",
-    "编程入门/Python",
     "未命名.canvas",
     "attachment/Pasted image 20230729013601.png"
   ]

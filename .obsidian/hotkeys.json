@@ -1,4 +1,10 @@
 {
+ "completr:confirm-suggestion": [
+    {
+      "key": "Enter",
+      "modifiers": []
+    }
+  ],
   "obsidian-git:commit": [
     {
       "modifiers": [
@@ -22,5 +28,8 @@
       ],
       "key": "-"
     }
-  ]
+  ],
+  "obsidian-completr:completr-fake-enter": [],
+  "obsidian-completr:completr-fake-arrow-up": [],
+  "obsidian-completr:completr-fake-arrow-down": []
 }

@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "动手学深度学习",
+      "path": "深度学习/动手学深度学习.md"
+    },
+    {
+      "basename": "1. Differentiation",
+      "path": "数学基础/1. Differentiation.md"
+    },
+    {
       "basename": "2024-08-01",
       "path": "01 日记/2024-08-01.md"
     },
@@ -23,10 +31,6 @@
     {
       "basename": "wk1",
       "path": "编程入门/Python/UCB-CS61A/Course/wk1.md"
-    },
-    {
-      "basename": "1. Differentiation",
-      "path": "数学基础/1. Differentiation.md"
     },
     {
       "basename": "Results",
@@ -195,10 +199,6 @@
     {
       "basename": "双链示例",
       "path": "00 Inbox/双链示例.md"
-    },
-    {
-      "basename": "使用技巧",
-      "path": "00 Inbox/使用技巧.md"
     }
   ],
   "omittedPaths": [],
