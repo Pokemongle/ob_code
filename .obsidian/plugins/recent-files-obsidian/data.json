@@ -1,24 +1,76 @@
 {
   "recentFiles": [
     {
-      "basename": "动手学深度学习",
-      "path": "深度学习/动手学深度学习.md"
-    },
-    {
       "basename": "1. Differentiation",
       "path": "数学基础/1. Differentiation.md"
     },
     {
-      "basename": "2024-08-01",
-      "path": "01 日记/2024-08-01.md"
+      "basename": "2024-07-02 Day2 in roommates' dormitory",
+      "path": "01 日记/2024-07/wk1/2024-07-02 Day2 in roommates' dormitory.md"
+    },
+    {
+      "basename": "2024-07-03 Try to learn",
+      "path": "01 日记/2024-07/wk1/2024-07-03 Try to learn.md"
+    },
+    {
+      "basename": "2024-07-04 Do not stay up too lat",
+      "path": "01 日记/2024-07/wk1/2024-07-04 Do not stay up too lat.md"
+    },
+    {
+      "basename": "2024-07-05 Have a nice day!",
+      "path": "01 日记/2024-07/wk1/2024-07-05 Have a nice day!.md"
+    },
+    {
+      "basename": "2024-07-06-I hate power drill",
+      "path": "01 日记/2024-07/wk1/2024-07-06-I hate power drill.md"
+    },
+    {
+      "basename": "2024-07-07-Sleepy but need to learn AI",
+      "path": "01 日记/2024-07/wk1/2024-07-07-Sleepy but need to learn AI.md"
+    },
+    {
+      "basename": "2024-04-16",
+      "path": "01 日记/2024-04-16.md"
+    },
+    {
+      "basename": "2023-07-29",
+      "path": "01 日记/2023-07-29.md"
+    },
+    {
+      "basename": "2024-07-12",
+      "path": "01 日记/2024-07-12.md"
+    },
+    {
+      "basename": "2024-07-13",
+      "path": "01 日记/2024-07-13.md"
+    },
+    {
+      "basename": "2024-07-14",
+      "path": "01 日记/2024-07-14.md"
+    },
+    {
+      "basename": "2024-07-20",
+      "path": "01 日记/2024-07-20.md"
     },
     {
       "basename": "2024-07-31",
       "path": "01 日记/2024-07-31.md"
     },
     {
-      "basename": "2024-07-20",
-      "path": "01 日记/2024-07-20.md"
+      "basename": "2024-08-01",
+      "path": "01 日记/2024-08-01.md"
+    },
+    {
+      "basename": "2024-08-14",
+      "path": "01 日记/2024-08-14.md"
+    },
+    {
+      "basename": "2024-08-15",
+      "path": "01 日记/2024-08-15.md"
+    },
+    {
+      "basename": "动手学深度学习",
+      "path": "深度学习/动手学深度学习.md"
     },
     {
       "basename": "1. Getting Started",
@@ -49,18 +101,6 @@
       "path": "必学工具/Git/ProGit/5 Distributed Git.md"
     },
     {
-      "basename": "2024-07-14",
-      "path": "01 日记/2024-07-14.md"
-    },
-    {
-      "basename": "2024-07-13",
-      "path": "01 日记/2024-07-13.md"
-    },
-    {
-      "basename": "2024-07-12",
-      "path": "01 日记/2024-07-12.md"
-    },
-    {
       "basename": "2024-07-08",
       "path": "01 日记/2024-07/2024-07-08.md"
     },
@@ -73,44 +113,12 @@
       "path": "01 日记/2024-07/2024-07-10.md"
     },
     {
-      "basename": "2023-07-29",
-      "path": "01 日记/2023-07-29.md"
-    },
-    {
-      "basename": "2024-04-16",
-      "path": "01 日记/2024-04-16.md"
-    },
-    {
       "basename": "2024-W27-Transition before moving into dormitory",
       "path": "01 日记/2024-07/wk1/2024-W27-Transition before moving into dormitory.md"
     },
     {
-      "basename": "2024-07-02 Day2 in roommates' dormitory",
-      "path": "01 日记/2024-07/wk1/2024-07-02 Day2 in roommates' dormitory.md"
-    },
-    {
       "basename": "日记模板",
       "path": "00 模板/日记模板.md"
-    },
-    {
-      "basename": "2024-07-07-Sleepy but need to learn AI",
-      "path": "01 日记/2024-07/wk1/2024-07-07-Sleepy but need to learn AI.md"
-    },
-    {
-      "basename": "2024-07-06-I hate power drill",
-      "path": "01 日记/2024-07/wk1/2024-07-06-I hate power drill.md"
-    },
-    {
-      "basename": "2024-07-05 Have a nice day!",
-      "path": "01 日记/2024-07/wk1/2024-07-05 Have a nice day!.md"
-    },
-    {
-      "basename": "2024-07-04 Do not stay up too lat",
-      "path": "01 日记/2024-07/wk1/2024-07-04 Do not stay up too lat.md"
-    },
-    {
-      "basename": "2024-07-03 Try to learn",
-      "path": "01 日记/2024-07/wk1/2024-07-03 Try to learn.md"
     },
     {
       "basename": "概览",
@@ -191,14 +199,6 @@
     {
       "basename": "ppt_test",
       "path": "00 Inbox/ppt_test.md"
-    },
-    {
-      "basename": "Markdown语法示例",
-      "path": "00 Inbox/Markdown语法示例.md"
-    },
-    {
-      "basename": "双链示例",
-      "path": "00 Inbox/双链示例.md"
     }
   ],
   "omittedPaths": [],
