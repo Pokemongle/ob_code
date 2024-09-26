@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "1. Differentiation",
-      "path": "数学基础/1. Differentiation.md"
+      "basename": "Chapter1_Building Abstractions with Functions",
+      "path": "编程入门/Python/UCB-CS61A/SICP/Chapter1_Building Abstractions with Functions.md"
+    },
+    {
+      "basename": "Lab 0",
+      "path": "编程入门/Python/UCB-CS61A/Course/Lab 0.md"
+    },
+    {
+      "basename": "wk1",
+      "path": "编程入门/Python/UCB-CS61A/Course/wk1.md"
+    },
+    {
+      "basename": "2024-09-19",
+      "path": "02 English/2024-09-19.md"
+    },
+    {
+      "basename": "The Geometry of Linear Equations",
+      "path": "数学基础/MIT18.06 Linear Algebra/Unix I - Ax=b and the four subspaces/The Geometry of Linear Equations.md"
     },
     {
       "basename": "2024-07-02 Day2 in roommates' dormitory",
@@ -77,14 +93,6 @@
       "path": "必学工具/Git/ProGit/1. Getting Started.md"
     },
     {
-      "basename": "Lab 0",
-      "path": "编程入门/Python/UCB-CS61A/Course/Lab 0.md"
-    },
-    {
-      "basename": "wk1",
-      "path": "编程入门/Python/UCB-CS61A/Course/wk1.md"
-    },
-    {
       "basename": "Results",
       "path": "Results.md"
     },
@@ -141,10 +149,6 @@
       "path": "必学工具/Git/ProGit/3 Git Branching.md"
     },
     {
-      "basename": "Chapter1_Building Abstractions with Functions",
-      "path": "编程入门/Python/UCB-CS61A/SICP/Chapter1_Building Abstractions with Functions.md"
-    },
-    {
       "basename": "DIP-Readme",
       "path": "application/DIP-Readme.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "仪器系统设计",
       "path": "application/仪器系统设计.md"
-    },
-    {
-      "basename": "ppt_test",
-      "path": "00 Inbox/ppt_test.md"
     }
   ],
   "omittedPaths": [],

@@ -1,9 +1,25 @@
-# List command
+# Using the terminal
+Install git first
+![image.png](https://cdn.jsdelivr.net/gh/Pokemongle/img_bed_0@main/img/202409262244507.png)
+-  `$` indicates Bash
+---
+Try `echo $HOME`
+![image.png](https://cdn.jsdelivr.net/gh/Pokemongle/img_bed_0@main/img/202409262245192.png)
+- Reply the application path of the shell
+---
+View python version
+![image.png](https://cdn.jsdelivr.net/gh/Pokemongle/img_bed_0@main/img/202409262246588.png)
+- What happens? -The environment arguments
+	![image.png](https://cdn.jsdelivr.net/gh/Pokemongle/img_bed_0@main/img/202409262249119.png)
+
+
+# Terminal command
 - `ls`
 - `cd <path to directory>`
 - `mkdir <directory name>`
 - `mv <source path> <destination path>`
----
+- `unzip  <filename>`
+
 # Python Basics
 - Primitive Basics
 	- Primitive expressions ` >>> 3`
@@ -22,7 +38,7 @@ def twenty_twenty():
   
     return 0+2020*1-0  
 ```
-- docstring ` ``` `
+start doctest `python -m doctest <python filename>`
 - tips
 	open explorer: ` start .`
 	

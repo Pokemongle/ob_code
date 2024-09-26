@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "332487e012fe7042",
+        "id": "087ec53490d4a3c5",
         "type": "tabs",
         "children": [
           {
-            "id": "9be1f907610628d6",
+            "id": "96113f86802ff4ad",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数学基础/1. Differentiation.md",
+                "file": "编程入门/Python/UCB-CS61A/SICP/Chapter1_Building Abstractions with Functions.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 313.5
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "1bd954b4346845fe",
@@ -94,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数学基础/1. Differentiation.md"
+                "file": "编程入门/Python/UCB-CS61A/SICP/Chapter1_Building Abstractions with Functions.md"
               }
             }
           },
@@ -130,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数学基础/1. Differentiation.md",
+                "file": "编程入门/Python/UCB-CS61A/SICP/Chapter1_Building Abstractions with Functions.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -147,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数学基础/1. Differentiation.md",
+                "file": "编程入门/Python/UCB-CS61A/SICP/Chapter1_Building Abstractions with Functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -158,7 +159,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 237.5
+    "width": 237.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -173,9 +175,16 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "9be1f907610628d6",
+  "active": "96113f86802ff4ad",
   "lastOpenFiles": [
+    "编程入门/Python/UCB-CS61A/Course/Lab 0.md",
+    "编程入门/Python/UCB-CS61A/Course/wk1.md",
+    "02 English/2024-09-19.md",
+    "02 English",
+    "数学基础/MIT18.06 Linear Algebra/Unix I - Ax=b and the four subspaces/The Geometry of Linear Equations.md",
     "01 日记/2024-07/wk1/2024-07-02 Day2 in roommates' dormitory.md",
+    "数学基础/1. Differentiation.md",
+    "数学基础/MIT18.06 Linear Algebra/Unix I - Ax=b and the four subspaces",
     "数学基础/MIT18.06 Linear Algebra",
     "01 日记/2024-07/wk1/2024-07-03 Try to learn.md",
     "01 日记/2024-07/wk1/2024-07-04 Do not stay up too lat.md",
@@ -193,23 +202,16 @@
     "01 日记/2024-08-14.md",
     "01 日记/2024-08-15.md",
     "深度学习/动手学深度学习.md",
-    "数学基础/1. Differentiation.md",
     "深度学习",
     "必学工具/Git/ProGit/1. Getting Started.md",
-    "编程入门/Python/UCB-CS61A/Course/Lab 0.md",
-    "编程入门/Python/UCB-CS61A/Course/wk1.md",
     "Results.md",
     "数学基础/MIT18.01&18.02 Calculus",
     "数学基础",
     "01 日记/2024-07-16.md",
-    "必学工具/Git/Git.md",
-    "必学工具/Git/ProGit/5 Distributed Git.md",
     "01 日记/2024-07/wk1",
     "01 日记/2024-07",
     "必学工具/Git/Git讲义.pdf",
     "必学工具/Git/ProGit",
-    "必学工具/Git",
-    "编程入门/Python/UCB-CS61A/Course",
     "未命名.canvas",
     "attachment/Pasted image 20230729013601.png"
   ]
