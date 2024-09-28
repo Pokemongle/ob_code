@@ -30,3 +30,20 @@ def pressure(v, t, n=6.022e23):
         k = 1.38e-23  # Boltzmann's constant
         return n * k * t / v
 ```
+
+Doc Test
+`python -m doctest <python_source_file>`
+
+Higher Functions
+	Pass function to function
+![image.png](https://cdn.jsdelivr.net/gh/Pokemongle/img_bed_0@main/img/202409280006847.png)
+
+Boolean
+`True and not False or not True and False` equals to
+`(True and (not False)) or ((not True) and False)`
+
+Lambda Functions
+```Python
+lambda x : x * x
+put x into lambda will return x * x
+```
