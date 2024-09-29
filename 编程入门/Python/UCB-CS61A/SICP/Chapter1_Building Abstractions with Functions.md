@@ -47,3 +47,13 @@ Lambda Functions
 lambda x : x * x
 put x into lambda will return x * x
 ```
+
+`*args` stands for all the arguments sent to function f
+```Python
+def printed(f):
+	def print_and_return(*args):
+		result = f(*args)
+		print('Result:', result)
+		return result
+	return print_and_return
+```

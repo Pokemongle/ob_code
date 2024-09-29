@@ -11,6 +11,7 @@ novels
 nothing
 nightmare
 new
+name
 To
 Try
 Take
@@ -33,6 +34,8 @@ directory
 doctest
 docstring
 discovery
+definition
+domain
 list
 linear
 learning
@@ -84,6 +87,7 @@ all
 almost
 always
 action
+argument
 exercise
 ee
 edit
@@ -97,6 +101,7 @@ expressions
 encapsulate
 example
 evaluating
+equals
 min
 make
 mini
@@ -125,6 +130,7 @@ Funny
 Finally
 First
 Functions
+Function
 things
 to
 transcript
@@ -160,6 +166,7 @@ freedom
 featured
 from
 factories
+function
 MIT
 Morning
 Min
@@ -177,6 +184,8 @@ Right
 Do
 Day
 Did
+Default
+Doc
 plastic
 piano
 print
@@ -190,6 +199,7 @@ places
 prompt
 program
 procedure
+parameter
 hrs
 hr
 house
@@ -222,6 +232,7 @@ roommates
 rest
 red
 redefined
+range
 School
 Science
 Sour
@@ -240,6 +251,7 @@ it
 in
 import
 implements
+intent
 but
 burpee
 brought
@@ -275,6 +287,7 @@ compound
 Learn
 Li
 List
+Lambda
 Afternoon
 AI
 Achieved
@@ -292,6 +305,7 @@ whiskey
 women
 who
 week
+write
 Computer
 Changsha
 Ctrl
@@ -308,6 +322,7 @@ How
 Hollywood
 Honing
 Hilestone
+Higher
 Zhao
 Guizhou
 Get
@@ -318,6 +333,7 @@ British
 Batleys
 Basics
 Better
+Boolean
 Pot
 Poor
 Poops
@@ -325,6 +341,7 @@ PyCharm
 Python
 Primitive
 Programming
+Pass
 yesterday
 year
 ve
