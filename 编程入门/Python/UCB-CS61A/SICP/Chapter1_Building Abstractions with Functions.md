@@ -57,3 +57,5 @@ def printed(f):
 		return result
 	return print_and_return
 ```
+
+This operator `/` will result in a float number
