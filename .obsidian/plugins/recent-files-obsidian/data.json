@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Chapter 2",
+      "path": "编程入门/Python/UCB-CS61A/SICP/Chapter 2.md"
+    },
+    {
       "basename": "Chapter1_Building Abstractions with Functions",
       "path": "编程入门/Python/UCB-CS61A/SICP/Chapter1_Building Abstractions with Functions.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "插件",
       "path": "00 Obsidian使用教程/插件.md"
-    },
-    {
-      "basename": "仪器系统设计",
-      "path": "application/仪器系统设计.md"
     }
   ],
   "omittedPaths": [],
