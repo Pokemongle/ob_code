@@ -58,3 +58,16 @@
 		- `s.splitlines()`
 		- `s.lower()`
 		- `a_list = s.split(<sth>)`
+---
+# Objects
+- The same object or not
+	- Identity: `is` or `is not`
+		- is the same list object
+	- Equality:  `==`
+		- has the same value
+
+- Tuple
+```python
+nest = (10, 20, [30, 40])
+nest[2].pop()
+```
