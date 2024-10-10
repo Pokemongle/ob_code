@@ -65,18 +65,23 @@
 		- is the same list object
 	- Equality:  `==`
 		- has the same value
-
+---
 - Tuple
 	num of elements are immutable, but contents of mutable elements are changeable
 ```python
 nest = (10, 20, [30, 40])
 nest[2].pop()
 ```
+---
 - Dictionary
 Create a dictionary
 ```python
 >>> dict([(3, 9), (4, 16), (5, 25)])
 {3: 9, 4: 16, 5: 25}
 ```
+
 get the value through the key
 `dict.get(<key>, <default value>)`
+
+Comprehension
+`{x: x*x for x in range(3,6)}`
