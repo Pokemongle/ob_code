@@ -14,7 +14,8 @@
 		`[x for <statement>]` 
 			e.g. `[x for x in odds]`
 			`[x for x in odds if 25 % x == 0]`
-			
+	- Copy a list
+		`new_list = list(old_list)` 
 	- Slicing
 		`a_list[A:B:C]`
 		
