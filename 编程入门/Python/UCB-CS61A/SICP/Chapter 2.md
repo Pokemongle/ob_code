@@ -67,6 +67,7 @@
 		- has the same value
 
 - Tuple
+	num of elements are immutable, but contents of mutable elements are changable
 ```python
 nest = (10, 20, [30, 40])
 nest[2].pop()
