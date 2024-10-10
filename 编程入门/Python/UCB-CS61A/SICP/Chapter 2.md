@@ -19,7 +19,9 @@
 		`a_list[A:B:C]`
 		
 	- Add item
-		`append, extend, insert`
+		`append(element)`
+		`extend([a list of elements])`
+		`insert(index, element)`
 		
 	- Search for item 
 		`count(item)`
