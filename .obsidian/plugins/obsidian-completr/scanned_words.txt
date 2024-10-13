@@ -13,6 +13,7 @@ nothing
 nightmare
 new
 name
+num
 To
 Try
 Take
@@ -42,6 +43,7 @@ definition
 domain
 decimal
 different
+dictionary
 list
 linear
 learning
@@ -78,6 +80,7 @@ separated
 square
 string
 sth
+same
 algebra
 abs
 after
@@ -119,6 +122,7 @@ evaluating
 equals
 environment
 explorer
+elements
 min
 make
 mini
@@ -133,6 +137,7 @@ magazine
 men
 manipulates
 manipulate
+mutable
 oxygen
 other
 ok
@@ -144,6 +149,7 @@ or
 outstanding
 out
 open
+object
 Funny
 Finally
 First
@@ -169,6 +175,7 @@ that
 terminal
 tips
 takes
+through
 game
 gloves
 going
@@ -213,6 +220,7 @@ Did
 Default
 Doc
 Delete
+Dictionary
 plastic
 piano
 print
@@ -244,6 +252,7 @@ hot
 hundred
 history
 happens
+has
 English
 Evening
 Electrical
@@ -252,6 +261,7 @@ Essays
 Exercise
 Example
 Expressions
+Equality
 rent
 request
 run
@@ -326,6 +336,8 @@ compound
 can
 calculation
 comas
+contents
+changeable
 Learn
 Li
 List
@@ -359,6 +371,8 @@ Compute
 Carry
 Creating
 Create
+Copy
+Comprehension
 Had
 Hot
 Have
@@ -403,6 +417,7 @@ Interactive
 Interpreters
 Install
 Iteration
+Identity
 One
 Objects
 Washington
@@ -411,3 +426,4 @@ What
 Using
 View
 Just
+key

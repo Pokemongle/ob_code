@@ -23,7 +23,7 @@
 		`append(element)`
 		`extend([a list of elements])`
 		`insert(index, element)`
-		
+		![image.png](https://cdn.jsdelivr.net/gh/Pokemongle/img_bed_0@main/img/202410140315394.png)
 	- Search for item 
 		`count(item)`
 		`in <list>`
@@ -80,7 +80,7 @@ Create a dictionary
 {3: 9, 4: 16, 5: 25}
 ```
 
-get the value through the key
+Get the value through the key
 `dict.get(<key>, <default value>)`
 
 Comprehension
