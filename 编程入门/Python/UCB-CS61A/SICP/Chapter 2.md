@@ -60,15 +60,8 @@
 		- `s.lower()`
 		- `a_list = s.split(<sth>)`
 ---
-# Objects
-- The same object or not
-	- Identity: `is` or `is not`
-		- is the same list object
-	- Equality:  `==`
-		- has the same value
----
 - Tuple
-	num of elements are immutable, but contents of mutable elements are changeable
+	Num of elements are immutable, but contents of mutable elements are changeable
 ```python
 nest = (10, 20, [30, 40])
 nest[2].pop()
@@ -86,3 +79,12 @@ Get the value through the key
 
 Comprehension
 `{x: x*x for x in range(3,6)}`
+
+# Objects
+- The same object or not
+	- Identity: `is` or `is not`
+		- is the same list object
+	- Equality:  `==`
+		- has the same value
+---
+
