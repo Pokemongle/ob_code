@@ -24,6 +24,7 @@
 		`extend([a list of elements])`
 		`insert(index, element)`
 		![image.png](https://cdn.jsdelivr.net/gh/Pokemongle/img_bed_0@main/img/202410140315394.png)
+		
 	- Search for item 
 		`count(item)`
 		`in <list>`
