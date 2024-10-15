@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Chapter 2",
-      "path": "编程入门/Python/UCB-CS61A/SICP/Chapter 2.md"
+      "basename": "Disc05_Sequences, Mutability, Object-Oriented Programming",
+      "path": "编程入门/Python/UCB-CS61A/Course/Disc05_Sequences, Mutability, Object-Oriented Programming.md"
     },
     {
       "basename": "Lab 0",
       "path": "编程入门/Python/UCB-CS61A/Course/Lab 0.md"
+    },
+    {
+      "basename": "Chapter 2",
+      "path": "编程入门/Python/UCB-CS61A/SICP/Chapter 2.md"
     },
     {
       "basename": "Chapter1_Building Abstractions with Functions",
