@@ -24,6 +24,7 @@ Throughout
 Terminal
 Tuple
 Think
+True
 do
 dl
 dinner
@@ -55,6 +56,7 @@ late
 later
 log
 logic
+len
 study
 surgery
 send
@@ -106,6 +108,7 @@ application
 arguments
 as
 apart
+append
 exercise
 ee
 edit
@@ -123,6 +126,7 @@ equals
 environment
 explorer
 elements
+extend
 min
 make
 mini
@@ -138,6 +142,7 @@ men
 manipulates
 manipulate
 mutable
+main
 oxygen
 other
 ok
@@ -155,6 +160,7 @@ Finally
 First
 Functions
 Function
+False
 things
 to
 transcript
@@ -206,6 +212,7 @@ Mu
 My
 Milk
 MintHealth
+Mutability
 Record
 Review
 RA
@@ -238,6 +245,7 @@ parameter
 path
 python
 point
+pop
 hrs
 hr
 house
@@ -300,6 +308,9 @@ indicates
 int
 item
 immutable
+if
+iss
+insert
 but
 burpee
 brought
@@ -316,6 +327,7 @@ broke
 brackets
 NumPy
 Nancy
+Num
 uws
 use
 up
@@ -338,6 +350,7 @@ calculation
 comas
 contents
 changeable
+creates
 Learn
 Li
 List
