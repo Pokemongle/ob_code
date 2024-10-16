@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "考研万年历",
+      "path": "have_fun/考研万年历.md"
+    },
+    {
       "basename": "hw04_Python Lists, Object-Oriented Programming",
       "path": "编程入门/Python/UCB-CS61A/Course/hw04_Python Lists, Object-Oriented Programming.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "ppt_test",
       "path": "00 Obsidian使用教程/ppt_test.md"
-    },
-    {
-      "basename": "使用技巧",
-      "path": "00 Obsidian使用教程/使用技巧.md"
     }
   ],
   "omittedPaths": [],

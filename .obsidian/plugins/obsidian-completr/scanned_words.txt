@@ -109,6 +109,7 @@ arguments
 as
 apart
 append
+add
 exercise
 ee
 edit
@@ -155,6 +156,8 @@ outstanding
 out
 open
 object
+objects
+only
 Funny
 Finally
 First
@@ -246,6 +249,7 @@ path
 python
 point
 pop
+parentheses
 hrs
 hr
 house
@@ -270,6 +274,7 @@ Exercise
 Example
 Expressions
 Equality
+Error
 rent
 request
 run
@@ -351,6 +356,7 @@ comas
 contents
 changeable
 creates
+created
 Learn
 Li
 List
@@ -386,6 +392,7 @@ Creating
 Create
 Copy
 Comprehension
+Can
 Had
 Hot
 Have
@@ -395,6 +402,7 @@ Hollywood
 Honing
 Hilestone
 Higher
+Hello
 Zhao
 Guizhou
 Get
@@ -437,6 +445,7 @@ Washington
 Wallstreet
 What
 Using
+Use
 View
 Just
 key
