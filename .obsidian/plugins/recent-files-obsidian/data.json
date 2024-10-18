@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Project3_Ants",
+      "path": "Project3_Ants.md"
+    },
+    {
+      "basename": "概览",
+      "path": "编程入门/Python/概览.md"
+    },
+    {
       "basename": "考研万年历",
       "path": "have_fun/考研万年历.md"
     },
@@ -141,10 +149,6 @@
       "path": "00 模板/日记模板.md"
     },
     {
-      "basename": "概览",
-      "path": "编程入门/Python/概览.md"
-    },
-    {
       "basename": "2. Git Basics",
       "path": "必学工具/Git/ProGit/2. Git Basics.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "双链示例",
       "path": "00 Obsidian使用教程/双链示例.md"
-    },
-    {
-      "basename": "ppt_test",
-      "path": "00 Obsidian使用教程/ppt_test.md"
     }
   ],
   "omittedPaths": [],
