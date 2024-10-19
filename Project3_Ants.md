@@ -5,4 +5,4 @@ How to traverse the list while do some modification like remove?
 2. Iterator `reverse()`
 
 How to check if a subclass instance belongs to a superclass?
-`isinstance(obj,superclassc)`
+	`isinstance(obj,superclass)`
