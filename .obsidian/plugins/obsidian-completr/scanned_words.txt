@@ -25,6 +25,7 @@ Terminal
 Tuple
 Think
 True
+Traverse
 do
 dl
 dinner
@@ -83,6 +84,10 @@ square
 string
 sth
 same
+second
+stands
+subclass
+superclass
 algebra
 abs
 after
@@ -110,6 +115,7 @@ as
 apart
 append
 add
+ahead
 exercise
 ee
 edit
@@ -128,6 +134,8 @@ environment
 explorer
 elements
 extend
+exact
+element
 min
 make
 mini
@@ -144,6 +152,8 @@ manipulates
 manipulate
 mutable
 main
+modification
+means
 oxygen
 other
 ok
@@ -158,6 +168,7 @@ open
 object
 objects
 only
+order
 Funny
 Finally
 First
@@ -185,6 +196,7 @@ terminal
 tips
 takes
 through
+traverse
 game
 gloves
 going
@@ -287,6 +299,9 @@ rest
 red
 redefined
 range
+remove
+reversely
+refers
 School
 Science
 Sour
@@ -316,6 +331,8 @@ immutable
 if
 iss
 insert
+index
+instance
 but
 burpee
 brought
@@ -330,6 +347,7 @@ body
 by
 broke
 brackets
+belongs
 NumPy
 Nancy
 Num
@@ -357,6 +375,7 @@ contents
 changeable
 creates
 created
+check
 Learn
 Li
 List
@@ -380,6 +399,7 @@ women
 who
 week
 write
+while
 Computer
 Changsha
 Ctrl
@@ -439,11 +459,13 @@ Interpreters
 Install
 Iteration
 Identity
+Iterator
 One
 Objects
 Washington
 Wallstreet
 What
+While
 Using
 Use
 View
