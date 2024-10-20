@@ -14,6 +14,7 @@ nightmare
 new
 name
 num
+number
 To
 Try
 Take
@@ -26,6 +27,7 @@ Tuple
 Think
 True
 Traverse
+This
 do
 dl
 dinner
@@ -88,6 +90,7 @@ second
 stands
 subclass
 superclass
+sent
 algebra
 abs
 after
@@ -169,6 +172,7 @@ object
 objects
 only
 order
+operator
 Funny
 Finally
 First
@@ -302,6 +306,7 @@ range
 remove
 reversely
 refers
+result
 School
 Science
 Sour

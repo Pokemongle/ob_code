@@ -52,6 +52,7 @@
 		- `str()`
 		- `str1 + str2`
 		- 'sth'. join (list)
+		- `str * 2`
 	- format  
 		- `print("{0:.1f}{1}".format(size, suffix))`
 		- `'1000{0[0]} = 1{0[1]}'.format(si_suffixes)`
