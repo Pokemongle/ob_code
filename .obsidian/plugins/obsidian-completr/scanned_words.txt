@@ -48,6 +48,7 @@ domain
 decimal
 different
 dictionary
+display
 list
 linear
 learning
@@ -157,6 +158,7 @@ mutable
 main
 modification
 means
+machine
 oxygen
 other
 ok
@@ -281,6 +283,7 @@ hundred
 history
 happens
 has
+human
 English
 Evening
 Electrical
@@ -307,6 +310,7 @@ remove
 reversely
 refers
 result
+return
 School
 Science
 Sour
