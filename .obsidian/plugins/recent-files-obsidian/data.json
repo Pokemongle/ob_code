@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Disc06",
+      "path": "Disc06.md"
+    },
+    {
       "basename": "Chapter 2",
       "path": "编程入门/Python/UCB-CS61A/SICP/Chapter 2.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Vim",
       "path": "必学工具/Vim.md"
-    },
-    {
-      "basename": "双链示例",
-      "path": "00 Obsidian使用教程/双链示例.md"
     }
   ],
   "omittedPaths": [],
