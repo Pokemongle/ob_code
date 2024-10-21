@@ -84,11 +84,13 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 294.5
+    "width": 294.5,
+    "collapsed": true
   },
   "right": {
     "id": "1bd954b4346845fe",
@@ -194,7 +196,7 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "3a8201c8c12fa4cb",
+  "active": "1f0ec0ed27941ebd",
   "lastOpenFiles": [
     "编程入门/Python/UCB-CS61A/SICP/Chapter1_Building Abstractions with Functions.md",
     "编程入门/Python/UCB-CS61A/Course/Disc06.md",
