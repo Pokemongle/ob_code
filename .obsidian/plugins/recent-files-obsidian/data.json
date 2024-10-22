@@ -2,11 +2,27 @@
   "recentFiles": [
     {
       "basename": "Lab07 Linked Lists Trees Tree Mutation",
-      "path": "Lab07 Linked Lists Trees Tree Mutation.md"
+      "path": "编程入门/Python/UCB-CS61A/Course/Lab/Lab07 Linked Lists Trees Tree Mutation.md"
+    },
+    {
+      "basename": "Project3_Ants",
+      "path": "编程入门/Python/UCB-CS61A/Course/Project/Project3_Ants.md"
+    },
+    {
+      "basename": "电路综合",
+      "path": "application/电路综合.md"
+    },
+    {
+      "basename": "考研万年历",
+      "path": "have_fun/考研万年历.md"
+    },
+    {
+      "basename": "Lab 0",
+      "path": "编程入门/Python/UCB-CS61A/Course/Lab/Lab 0.md"
     },
     {
       "basename": "Disc06",
-      "path": "编程入门/Python/UCB-CS61A/Course/Disc06.md"
+      "path": "编程入门/Python/UCB-CS61A/Course/Disc/Disc06.md"
     },
     {
       "basename": "Chapter1_Building Abstractions with Functions",
@@ -17,28 +33,16 @@
       "path": "编程入门/Python/UCB-CS61A/SICP/Chapter 2.md"
     },
     {
-      "basename": "Project3_Ants",
-      "path": "编程入门/Python/UCB-CS61A/Course/Project3_Ants.md"
-    },
-    {
       "basename": "概览",
       "path": "编程入门/Python/概览.md"
     },
     {
-      "basename": "考研万年历",
-      "path": "have_fun/考研万年历.md"
-    },
-    {
       "basename": "hw04_Python Lists, Object-Oriented Programming",
-      "path": "编程入门/Python/UCB-CS61A/Course/hw04_Python Lists, Object-Oriented Programming.md"
+      "path": "编程入门/Python/UCB-CS61A/Course/Hw/hw04_Python Lists, Object-Oriented Programming.md"
     },
     {
       "basename": "Disc05_Sequences, Mutability, Object-Oriented Programming",
-      "path": "编程入门/Python/UCB-CS61A/Course/Disc05_Sequences, Mutability, Object-Oriented Programming.md"
-    },
-    {
-      "basename": "Lab 0",
-      "path": "编程入门/Python/UCB-CS61A/Course/Lab 0.md"
+      "path": "编程入门/Python/UCB-CS61A/Course/Disc/Disc05_Sequences, Mutability, Object-Oriented Programming.md"
     },
     {
       "basename": "2024-09-19",
@@ -121,10 +125,6 @@
       "path": "必学工具/Git/ProGit/1. Getting Started.md"
     },
     {
-      "basename": "Results",
-      "path": "Results.md"
-    },
-    {
       "basename": "2024-07-16",
       "path": "01 日记/2024-07-16.md"
     },
@@ -195,10 +195,6 @@
     {
       "basename": "Topic 2：Shell Tools and Scripting",
       "path": "必学工具/mit-missing semester/Topic 2：Shell Tools and Scripting.md"
-    },
-    {
-      "basename": "电路综合",
-      "path": "application/电路综合.md"
     }
   ],
   "omittedPaths": [],
