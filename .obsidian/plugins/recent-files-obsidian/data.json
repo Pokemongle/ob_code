@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Lab07 Linked Lists Trees Tree Mutation",
+      "path": "Lab07 Linked Lists Trees Tree Mutation.md"
+    },
+    {
       "basename": "Disc06",
       "path": "编程入门/Python/UCB-CS61A/Course/Disc06.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "电路综合",
       "path": "application/电路综合.md"
-    },
-    {
-      "basename": "Vim",
-      "path": "必学工具/Vim.md"
     }
   ],
   "omittedPaths": [],
