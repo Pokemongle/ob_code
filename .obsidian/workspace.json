@@ -84,7 +84,8 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -195,7 +196,7 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "496c52d675846d13",
+  "active": "1e6893e5de55476c",
   "lastOpenFiles": [
     "编程入门/Python/UCB-CS61A/Course/Project/Project3_Ants.md",
     "application/电路综合.md",
