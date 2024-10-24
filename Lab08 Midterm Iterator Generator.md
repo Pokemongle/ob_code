@@ -1,3 +1,5 @@
+[Lab 08](https://cs61a.vercel.app/lab/lab08/index.html)
+
 # Q1 - repeated
 简单的，搞清楚题目在问什么，找迭代器中第 1 个连续出现 k 次的数
 算法复杂度：`O(n)`
@@ -13,3 +15,8 @@
 # Q4 - add leaves
 树结构给深度为 n 的子节点添加树叶
 注意防止给新添加的子叶添加新的子叶陷入无限递归
+
+# Q5 subseqs
+Find the all subsets of a set
+Use the recursion leap of faith : )
+Check if the base case is `return []` or `return [[]]`
