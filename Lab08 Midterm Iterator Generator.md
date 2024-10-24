@@ -42,3 +42,6 @@ This quiz is easy:
 2. `__iter__`
 	1. Just remember to return `self`
 
+# Q11 long paths
+ This is easy
+	 Add a new reverse_link sub-function
