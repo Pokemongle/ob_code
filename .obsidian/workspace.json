@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c123477e59c676a9",
+        "id": "865e8f1c8029c7f3",
         "type": "tabs",
         "children": [
           {
-            "id": "7f75731ee7d56074",
+            "id": "00b0d691fc10da8d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -195,8 +195,9 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "7f75731ee7d56074",
+  "active": "00b0d691fc10da8d",
   "lastOpenFiles": [
+    "00 Obsidian使用教程/Markdown语法示例.md",
     "Lab08 Midterm Iterator Generator.md",
     "编程入门/Python/UCB-CS61A/Course/Lab/Lab07 Linked Lists Trees Tree Mutation.md",
     "编程入门/Python/UCB-CS61A/Course/Project/Project3_Ants.md",
@@ -230,7 +231,6 @@
     "01 日记/2024-07/wk1/2024-07-07-Sleepy but need to learn AI.md",
     "01 日记/2024-04-16.md",
     "01 日记/2023-07-29.md",
-    "01 日记/2024-07-12.md",
     "深度学习",
     "数学基础/MIT18.01&18.02 Calculus",
     "未命名.canvas",

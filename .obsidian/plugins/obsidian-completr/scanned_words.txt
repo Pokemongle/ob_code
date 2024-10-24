@@ -53,6 +53,7 @@ display
 divided
 design
 demo
+deep
 list
 linear
 learning
@@ -132,6 +133,7 @@ apart
 append
 add
 ahead
+aa
 exercise
 ee
 edit
@@ -173,6 +175,7 @@ modification
 means
 machine
 module
+merge
 oxygen
 other
 ok
@@ -319,6 +322,7 @@ Example
 Expressions
 Equality
 Error
+Enter
 rent
 request
 run
@@ -338,6 +342,7 @@ result
 return
 reading
 remaining
+repeated
 School
 Science
 Sour
@@ -376,6 +381,7 @@ instance
 initial
 interface
 infomation
+iterator
 but
 burpee
 brought

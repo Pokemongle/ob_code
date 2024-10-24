@@ -5,6 +5,10 @@
       "path": "Lab08 Midterm Iterator Generator.md"
     },
     {
+      "basename": "Markdown语法示例",
+      "path": "00 Obsidian使用教程/Markdown语法示例.md"
+    },
+    {
       "basename": "Lab07 Linked Lists Trees Tree Mutation",
       "path": "编程入门/Python/UCB-CS61A/Course/Lab/Lab07 Linked Lists Trees Tree Mutation.md"
     },
@@ -167,10 +171,6 @@
     {
       "basename": "4 Git on the Server",
       "path": "必学工具/Git/ProGit/4 Git on the Server.md"
-    },
-    {
-      "basename": "Markdown语法示例",
-      "path": "00 Obsidian使用教程/Markdown语法示例.md"
     },
     {
       "basename": "3 Git Branching",
