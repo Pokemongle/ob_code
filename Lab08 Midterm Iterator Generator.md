@@ -18,8 +18,8 @@
 
 # Q6 subseqs
 Find the all subsets of a set
-Use the recursion leap of faith : )
-Check if the base case is `return []` or `return [[]]`
+1. Use the recursion leap of faith : )
+2. Check if the base case is `return []` or `return [[]]`
 
 # Q7 Non-Decreasing Subseq
 Add a constraint to all subsets: Non-Decreasing
@@ -29,5 +29,16 @@ Add a constraint to all subsets: Non-Decreasing
 # Q8 Shuffle
 Interleave the front and back half of cards
 This quiz is easy:
-	use the index of list 
-	understand how to add elems into list
+1. use the index of list 
+2. understand how to add elems into list
+
+# Q9 Pairs (generator)
+1. Use yield to write a generator
+
+# Q10 Pairs (iterator)
+1. `__next__`
+	1. Return the elem
+	2. Change the elem
+2. `__iter__`
+	1. Just remember to return `self`
+
