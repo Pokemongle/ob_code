@@ -16,7 +16,18 @@
 树结构给深度为 n 的子节点添加树叶
 注意防止给新添加的子叶添加新的子叶陷入无限递归
 
-# Q5 subseqs
+# Q6 subseqs
 Find the all subsets of a set
 Use the recursion leap of faith : )
 Check if the base case is `return []` or `return [[]]`
+
+# Q7 Non-Decreasing Subseq
+Add a constraint to all subsets: Non-Decreasing
+1. classify conditions
+2. for every recursion, pass the constraint condition
+
+# Q8 Shuffle
+Interleave the front and back half of cards
+This quiz is easy:
+	use the index of list 
+	understand how to add elems into list
