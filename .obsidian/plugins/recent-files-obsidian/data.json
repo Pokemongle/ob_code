@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Chapter3",
+      "path": "编程入门/Python/UCB-CS61A/SICP/Chapter3.md"
+    },
+    {
       "basename": "Lab08 Midterm Iterator Generator",
       "path": "Lab08 Midterm Iterator Generator.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Topic 1：The Shell",
       "path": "必学工具/mit-missing semester/Topic 1：The Shell.md"
-    },
-    {
-      "basename": "Topic 2：Shell Tools and Scripting",
-      "path": "必学工具/mit-missing semester/Topic 2：Shell Tools and Scripting.md"
     }
   ],
   "omittedPaths": [],
