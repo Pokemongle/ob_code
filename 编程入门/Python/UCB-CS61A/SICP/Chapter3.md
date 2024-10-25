@@ -23,14 +23,14 @@
 4
 
 ; 2. define a nested function
-;; example1
+;; example1 - one body
 (define (average x y) (/ (+ x y) 2))
-;; example2
+;; example2 - nested body
 (define (abs x) 
   (if (< x 0) 
   (- x)
   x))
-;; example3
+;; example3 - many bodies
 (define (sqrt x)
   (define (good-enough? guess)
     (< (abs (- (square guess) x)) 0.001))
