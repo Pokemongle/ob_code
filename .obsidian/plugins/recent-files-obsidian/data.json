@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "Lab10 Scheme",
+      "path": "编程入门/Python/UCB-CS61A/Course/Lab/Lab10 Scheme.md"
+    },
+    {
+      "basename": "Chapter3",
+      "path": "编程入门/Python/UCB-CS61A/SICP/Chapter3.md"
+    },
+    {
+      "basename": "Chapter2",
+      "path": "编程入门/Python/UCB-CS61A/SICP/Chapter2.md"
+    },
+    {
+      "basename": "Chapter1",
+      "path": "编程入门/Python/UCB-CS61A/SICP/Chapter1.md"
+    },
+    {
       "basename": "Lab08 Midterm Iterator Generator",
-      "path": "Lab08 Midterm Iterator Generator.md"
+      "path": "编程入门/Python/UCB-CS61A/Course/Lab/Lab08 Midterm Iterator Generator.md"
     },
     {
       "basename": "Lab07 Linked Lists Trees Tree Mutation",
@@ -27,14 +43,6 @@
     {
       "basename": "Disc06",
       "path": "编程入门/Python/UCB-CS61A/Course/Disc/Disc06.md"
-    },
-    {
-      "basename": "Chapter1_Building Abstractions with Functions",
-      "path": "编程入门/Python/UCB-CS61A/SICP/Chapter1_Building Abstractions with Functions.md"
-    },
-    {
-      "basename": "Chapter 2",
-      "path": "编程入门/Python/UCB-CS61A/SICP/Chapter 2.md"
     },
     {
       "basename": "概览",
@@ -187,18 +195,6 @@
     {
       "basename": "SuperMagic-Readme",
       "path": "application/SuperMagic-Readme.md"
-    },
-    {
-      "basename": "Git讲义",
-      "path": "必学工具/Git/Git讲义.pdf"
-    },
-    {
-      "basename": "Topic 1：The Shell",
-      "path": "必学工具/mit-missing semester/Topic 1：The Shell.md"
-    },
-    {
-      "basename": "Topic 2：Shell Tools and Scripting",
-      "path": "必学工具/mit-missing semester/Topic 2：Shell Tools and Scripting.md"
     }
   ],
   "omittedPaths": [],

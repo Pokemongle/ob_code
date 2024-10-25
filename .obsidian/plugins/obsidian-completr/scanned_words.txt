@@ -2,6 +2,7 @@ jupyter
 jump
 just
 join
+json
 notebook
 no
 not
@@ -16,6 +17,7 @@ name
 num
 number
 numbered
+notation
 To
 Try
 Take
@@ -53,6 +55,9 @@ display
 divided
 design
 demo
+deleted
+desired
+deep
 list
 linear
 learning
@@ -65,6 +70,11 @@ later
 log
 logic
 len
+listed
+leaves
+leap
+long
+link
 study
 surgery
 send
@@ -104,6 +114,11 @@ solidified
 segment
 stores
 sub
+strongly
+subseqs
+subsets
+set
+suffix
 algebra
 abs
 after
@@ -132,6 +147,9 @@ apart
 append
 add
 ahead
+automatically
+available
+above
 exercise
 ee
 edit
@@ -153,6 +171,11 @@ extend
 exact
 element
 each
+easy
+elems
+elem
+empty
+expression
 min
 make
 mini
@@ -173,6 +196,8 @@ modification
 means
 machine
 module
+mode
+merge
 oxygen
 other
 ok
@@ -189,12 +214,16 @@ objects
 only
 order
 operator
+obsidian
+occurrence
 Funny
 Finally
 First
 Functions
 Function
 False
+For
+Find
 things
 to
 transcript
@@ -218,6 +247,9 @@ takes
 through
 traverse
 total
+them
+text
+two
 game
 gloves
 going
@@ -226,6 +258,7 @@ got
 gravity
 git
 globally
+generator
 finishing
 for
 final
@@ -244,6 +277,12 @@ float
 format
 functions
 find
+followed
+files
+following
+faith
+front
+flip
 MIT
 Morning
 Min
@@ -265,6 +304,7 @@ Run
 Right
 Reply
 Reverse
+Return
 Do
 Day
 Did
@@ -273,6 +313,8 @@ Doc
 Delete
 Dictionary
 Digits
+Decreasing
+Definitions
 plastic
 piano
 print
@@ -293,6 +335,8 @@ point
 pop
 parentheses
 password
+pass
+paths
 hrs
 hr
 house
@@ -309,6 +353,7 @@ history
 happens
 has
 human
+half
 English
 Evening
 Electrical
@@ -338,6 +383,13 @@ result
 return
 reading
 remaining
+resolve
+recommend
+replace
+repeated
+recursion
+remember
+reverse
 School
 Science
 Sour
@@ -356,6 +408,10 @@ Summary
 Sector
 Successfully
 Store
+Source
+Subseq
+Shuffle
+Scheme
 is
 instant
 into
@@ -376,6 +432,7 @@ instance
 initial
 interface
 infomation
+iterator
 but
 burpee
 brought
@@ -395,9 +452,14 @@ blocks
 block
 been
 be
+below
+base
+back
 NumPy
 Nancy
 Num
+Not
+Non
 uws
 use
 up
@@ -407,6 +469,8 @@ urllib
 urlopen
 used
 unique
+using
+understand
 cs
 climbing
 code
@@ -433,6 +497,17 @@ changed
 control
 chip
 campus
+commit
+commands
+conflicted
+conflicts
+case
+constraint
+classify
+conditions
+condition
+cards
+compare
 Learn
 Li
 List
@@ -451,6 +526,7 @@ Arithmetic
 Assignment
 An
 Add
+Additional
 work
 with
 we
@@ -464,6 +540,7 @@ write
 while
 which
 wake
+workspace
 Computer
 Changsha
 Ctrl
@@ -479,6 +556,10 @@ Comprehension
 Can
 Cumulative
 Cycles
+Conflicts
+Check
+Change
+Compound
 Had
 Hot
 Have
@@ -503,6 +584,7 @@ Boolean
 Bash
 Bluetooth
 Block
+Basic
 Pot
 Poor
 Poops
@@ -514,8 +596,11 @@ Pass
 Power
 PN
 Push
+Please
+Pairs
 yesterday
 year
+yield
 ve
 vfs
 video
@@ -524,6 +609,7 @@ value
 version
 values
 vendor
+viewing
 IRCC
 Installing
 Interactive
@@ -534,6 +620,8 @@ Identity
 Iterator
 IC
 ID
+Instructions
+Interleave
 One
 Objects
 Optional
@@ -550,3 +638,4 @@ Just
 key
 Key
 Questions
+quiz
