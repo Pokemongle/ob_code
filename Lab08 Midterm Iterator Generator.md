@@ -44,4 +44,8 @@ This quiz is easy:
 
 # Q11 long paths
  This is easy
-	 Add a new reverse_link sub-function
+1. Add a new reverse_link sub-function
+
+# Q12 flip two
+This is easy
+1. Check if Link.empty
