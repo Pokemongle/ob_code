@@ -16,6 +16,7 @@ name
 num
 number
 numbered
+notation
 To
 Try
 Take
@@ -105,6 +106,7 @@ solidified
 segment
 stores
 sub
+suffix
 algebra
 abs
 after
@@ -155,6 +157,7 @@ extend
 exact
 element
 each
+expression
 min
 make
 mini
@@ -276,6 +279,7 @@ Doc
 Delete
 Dictionary
 Digits
+Definitions
 plastic
 piano
 print
@@ -361,6 +365,7 @@ Summary
 Sector
 Successfully
 Store
+Scheme
 is
 instant
 into
@@ -439,6 +444,7 @@ changed
 control
 chip
 campus
+compare
 Learn
 Li
 List
@@ -485,6 +491,7 @@ Comprehension
 Can
 Cumulative
 Cycles
+Compound
 Had
 Hot
 Have
@@ -509,6 +516,7 @@ Boolean
 Bash
 Bluetooth
 Block
+Basic
 Pot
 Poor
 Poops

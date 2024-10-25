@@ -1,3 +1,5 @@
+[Lab 10](https://cs61a.vercel.app/lab/lab10/index.html)
+[3.2](https://composingprograms.netlify.app/3/2)
 # 3.2 Basic Scheme
 ## 3.2.1 expressions
 - suffix notation
@@ -69,4 +71,3 @@ x
 (list 1 2 3 4)
 (1 2 3 4)
 ```
-## 3.2.4 Symbolic data
