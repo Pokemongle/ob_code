@@ -95,7 +95,6 @@ scm> `(1 × 3) ;equals to the former expression
 (define (helper n acc)
   (if (= n 0)
       acc
-      (helper (- n 1) (* n acc))))  ; 递归调用是最后一步
+      (helper (- n 1) (* n acc)))); recursion with no other calculation
 (helper n 1))
-
 ```
