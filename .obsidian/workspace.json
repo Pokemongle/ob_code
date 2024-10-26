@@ -11,10 +11,12 @@
             "id": "26a5bafea490b2fc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新标签页"
+              "type": "pdf",
+              "state": {
+                "file": "必学工具/Git/Git讲义.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Git讲义"
             }
           }
         ],
@@ -190,8 +192,15 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "3a8201c8c12fa4cb",
+  "active": "26a5bafea490b2fc",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "必学工具/Git/Git讲义.pdf",
+    "编程入门/Python/UCB-CS61A/SICP/Chapter2.md",
+    "编程入门/Python/UCB-CS61A/SICP/Chapter1.md",
+    "编程入门/Python/UCB-CS61A/Course/Lab/Lab10 Scheme.md",
+    "编程入门/Python/UCB-CS61A/Course/Lab/Lab08 Midterm Iterator Generator.md",
+    "编程入门/Python/UCB-CS61A/Course/Disc/Disc10 Scheme Lists.md",
     "编程入门/Python/UCB-CS61A/SICP/Chapter3.md",
     "Lab08 Midterm Iterator Generator.md",
     "00 Obsidian使用教程/Markdown语法示例.md",
@@ -217,17 +226,9 @@
     "02 English",
     "数学基础/MIT18.06 Linear Algebra/Unix I - Ax=b and the four subspaces/The Geometry of Linear Equations.md",
     "01 日记/2024-07/wk1/2024-07-02 Day2 in roommates' dormitory.md",
-    "数学基础/1. Differentiation.md",
     "数学基础/MIT18.06 Linear Algebra/Unix I - Ax=b and the four subspaces",
     "数学基础/MIT18.06 Linear Algebra",
-    "01 日记/2024-07/wk1/2024-07-03 Try to learn.md",
-    "01 日记/2024-07/wk1/2024-07-04 Do not stay up too lat.md",
-    "01 日记/2024-07/wk1/2024-07-05 Have a nice day!.md",
-    "01 日记/2024-07/wk1/2024-07-06-I hate power drill.md",
-    "01 日记/2024-07/wk1/2024-07-07-Sleepy but need to learn AI.md",
-    "01 日记/2024-04-16.md",
     "深度学习",
-    "数学基础/MIT18.01&18.02 Calculus",
     "未命名.canvas",
     "attachment/Pasted image 20230729013601.png"
   ]
