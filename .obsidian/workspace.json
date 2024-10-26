@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "编程入门/Python/UCB-CS61A/Course/Disc/Disc10 Scheme Lists.md",
+                "file": "编程入门/Python/UCB-CS61A/Course/Hw/hw06 scheme lists.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Disc10 Scheme Lists"
+              "title": "hw06 scheme lists"
             }
           }
         ],
@@ -196,13 +196,16 @@
   },
   "active": "26a5bafea490b2fc",
   "lastOpenFiles": [
+    "编程入门/Python/UCB-CS61A/Course/Lab/Lab 0.md",
+    "编程入门/Python/UCB-CS61A/Course/Hw/hw06 scheme lists.md",
+    "编程入门/Python/UCB-CS61A/Course/Hw/hw04_Python Lists, Object-Oriented Programming.md",
+    "编程入门/Python/UCB-CS61A/Course/Disc/Disc10 Scheme Lists.md",
     "必学工具/Git/Git讲义.pdf",
     "conflict-files-obsidian-git.md",
     "编程入门/Python/UCB-CS61A/SICP/Chapter2.md",
     "编程入门/Python/UCB-CS61A/SICP/Chapter1.md",
     "编程入门/Python/UCB-CS61A/Course/Lab/Lab10 Scheme.md",
     "编程入门/Python/UCB-CS61A/Course/Lab/Lab08 Midterm Iterator Generator.md",
-    "编程入门/Python/UCB-CS61A/Course/Disc/Disc10 Scheme Lists.md",
     "编程入门/Python/UCB-CS61A/SICP/Chapter3.md",
     "Lab08 Midterm Iterator Generator.md",
     "00 Obsidian使用教程/Markdown语法示例.md",
@@ -210,7 +213,6 @@
     "编程入门/Python/UCB-CS61A/Course/Project/Project3_Ants.md",
     "application/电路综合.md",
     "have_fun/考研万年历.md",
-    "编程入门/Python/UCB-CS61A/Course/Lab/Lab 0.md",
     "Results.md",
     "编程入门/Python/UCB-CS61A/Course/Hw",
     "编程入门/Python/UCB-CS61A/Course/Project",
@@ -220,7 +222,6 @@
     "编程入门/Python/UCB-CS61A/SICP/Chapter1_Building Abstractions with Functions.md",
     "编程入门/Python/UCB-CS61A/SICP/Chapter 2.md",
     "编程入门/Python/概览.md",
-    "编程入门/Python/UCB-CS61A/Course/Hw/hw04_Python Lists, Object-Oriented Programming.md",
     "have_fun",
     "编程入门/Python/UCB-CS61A/Course/Disc/Disc05_Sequences, Mutability, Object-Oriented Programming.md",
     "编程入门/Python/UCB-CS61A/Course/hm1.md",

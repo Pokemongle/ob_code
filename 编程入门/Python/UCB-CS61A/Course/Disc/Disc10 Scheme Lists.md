@@ -98,3 +98,25 @@ scm> `(1 × 3) ;equals to the former expression
       (helper (- n 1) (* n acc)))); recursion with no other calculation
 (helper n 1))
 ```
+tail recursion do not create new stacks
+- In the former condition:
+	- n=3
+	- n=2
+	- n=1
+	- n=0
+- In the latter condition:
+	- helper
+
+---
+## Filter
+`(filter <condition> <list>)`
+In condition, return which condition is `True`
+```Scheme
+(define (remove item lst)
+    (define (condition num)
+        (not (= item num)) ; num != item
+    )
+    (filter condition lst)
+)
+(remove 2 (list 1 2 3))
+```
