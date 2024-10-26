@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7626e91894d4959c",
+        "id": "c5e2699ff8538299",
         "type": "tabs",
         "children": [
           {
-            "id": "26a5bafea490b2fc",
+            "id": "e148a4a88b4741b6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -88,8 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 294.5,
-    "collapsed": true
+    "width": 294.5
   },
   "right": {
     "id": "1bd954b4346845fe",
@@ -195,34 +194,29 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "26a5bafea490b2fc",
+  "active": "e148a4a88b4741b6",
   "lastOpenFiles": [
-    "编程入门/Python/UCB-CS61A/Course/Lab/Lab 0.md",
-    "编程入门/Python/UCB-CS61A/Course/Hw/hw06 scheme lists.md",
-    "编程入门/Python/UCB-CS61A/Course/Hw/hw04_Python Lists, Object-Oriented Programming.md",
     "编程入门/Python/UCB-CS61A/Course/Disc/Disc10 Scheme Lists.md",
-    "必学工具/Git/Git讲义.pdf",
-    "conflict-files-obsidian-git.md",
+    "编程入门/Python/UCB-CS61A/Course/Hw/hw06 scheme lists.md",
+    "编程入门/Python/UCB-CS61A/Course/Lab/Lab10 Scheme.md",
+    "编程入门/Python/UCB-CS61A/SICP/Chapter3.md",
     "编程入门/Python/UCB-CS61A/SICP/Chapter2.md",
     "编程入门/Python/UCB-CS61A/SICP/Chapter1.md",
-    "编程入门/Python/UCB-CS61A/Course/Lab/Lab10 Scheme.md",
     "编程入门/Python/UCB-CS61A/Course/Lab/Lab08 Midterm Iterator Generator.md",
-    "编程入门/Python/UCB-CS61A/SICP/Chapter3.md",
-    "Lab08 Midterm Iterator Generator.md",
-    "00 Obsidian使用教程/Markdown语法示例.md",
+    "conflict-files-obsidian-git.md",
     "编程入门/Python/UCB-CS61A/Course/Lab/Lab07 Linked Lists Trees Tree Mutation.md",
     "编程入门/Python/UCB-CS61A/Course/Project/Project3_Ants.md",
     "application/电路综合.md",
     "have_fun/考研万年历.md",
+    "编程入门/Python/UCB-CS61A/Course/Lab/Lab 0.md",
     "Results.md",
     "编程入门/Python/UCB-CS61A/Course/Hw",
     "编程入门/Python/UCB-CS61A/Course/Project",
     "编程入门/Python/UCB-CS61A/Course/Disc",
     "编程入门/Python/UCB-CS61A/Course/Lab",
     "编程入门/Python/UCB-CS61A/Course/Disc/Disc06.md",
-    "编程入门/Python/UCB-CS61A/SICP/Chapter1_Building Abstractions with Functions.md",
-    "编程入门/Python/UCB-CS61A/SICP/Chapter 2.md",
     "编程入门/Python/概览.md",
+    "编程入门/Python/UCB-CS61A/Course/Hw/hw04_Python Lists, Object-Oriented Programming.md",
     "have_fun",
     "编程入门/Python/UCB-CS61A/Course/Disc/Disc05_Sequences, Mutability, Object-Oriented Programming.md",
     "编程入门/Python/UCB-CS61A/Course/hm1.md",
@@ -230,9 +224,14 @@
     "02 English",
     "数学基础/MIT18.06 Linear Algebra/Unix I - Ax=b and the four subspaces/The Geometry of Linear Equations.md",
     "01 日记/2024-07/wk1/2024-07-02 Day2 in roommates' dormitory.md",
+    "数学基础/1. Differentiation.md",
     "数学基础/MIT18.06 Linear Algebra/Unix I - Ax=b and the four subspaces",
     "数学基础/MIT18.06 Linear Algebra",
+    "01 日记/2024-07/wk1/2024-07-03 Try to learn.md",
+    "01 日记/2024-07/wk1/2024-07-04 Do not stay up too lat.md",
+    "01 日记/2024-07/wk1/2024-07-05 Have a nice day!.md",
     "深度学习",
+    "数学基础/MIT18.01&18.02 Calculus",
     "未命名.canvas",
     "attachment/Pasted image 20230729013601.png"
   ]

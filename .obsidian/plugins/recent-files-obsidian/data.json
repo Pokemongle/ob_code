@@ -5,32 +5,28 @@
       "path": "编程入门/Python/UCB-CS61A/Course/Hw/hw06 scheme lists.md"
     },
     {
-      "basename": "Lab 0",
-      "path": "编程入门/Python/UCB-CS61A/Course/Lab/Lab 0.md"
-    },
-    {
-      "basename": "hw04_Python Lists, Object-Oriented Programming",
-      "path": "编程入门/Python/UCB-CS61A/Course/Hw/hw04_Python Lists, Object-Oriented Programming.md"
-    },
-    {
       "basename": "Disc10 Scheme Lists",
       "path": "编程入门/Python/UCB-CS61A/Course/Disc/Disc10 Scheme Lists.md"
     },
     {
-      "basename": "Git讲义",
-      "path": "必学工具/Git/Git讲义.pdf"
-    },
-    {
-      "basename": "conflict-files-obsidian-git",
-      "path": "conflict-files-obsidian-git.md"
+      "basename": "Lab10 Scheme",
+      "path": "编程入门/Python/UCB-CS61A/Course/Lab/Lab10 Scheme.md"
     },
     {
       "basename": "Chapter3",
       "path": "编程入门/Python/UCB-CS61A/SICP/Chapter3.md"
     },
     {
-      "basename": "Markdown语法示例",
-      "path": "00 Obsidian使用教程/Markdown语法示例.md"
+      "basename": "Chapter2",
+      "path": "编程入门/Python/UCB-CS61A/SICP/Chapter2.md"
+    },
+    {
+      "basename": "Chapter1",
+      "path": "编程入门/Python/UCB-CS61A/SICP/Chapter1.md"
+    },
+    {
+      "basename": "Lab08 Midterm Iterator Generator",
+      "path": "编程入门/Python/UCB-CS61A/Course/Lab/Lab08 Midterm Iterator Generator.md"
     },
     {
       "basename": "Lab07 Linked Lists Trees Tree Mutation",
@@ -49,12 +45,20 @@
       "path": "have_fun/考研万年历.md"
     },
     {
+      "basename": "Lab 0",
+      "path": "编程入门/Python/UCB-CS61A/Course/Lab/Lab 0.md"
+    },
+    {
       "basename": "Disc06",
       "path": "编程入门/Python/UCB-CS61A/Course/Disc/Disc06.md"
     },
     {
       "basename": "概览",
       "path": "编程入门/Python/概览.md"
+    },
+    {
+      "basename": "hw04_Python Lists, Object-Oriented Programming",
+      "path": "编程入门/Python/UCB-CS61A/Course/Hw/hw04_Python Lists, Object-Oriented Programming.md"
     },
     {
       "basename": "Disc05_Sequences, Mutability, Object-Oriented Programming",
@@ -181,6 +185,10 @@
       "path": "必学工具/Git/ProGit/4 Git on the Server.md"
     },
     {
+      "basename": "Markdown语法示例",
+      "path": "00 Obsidian使用教程/Markdown语法示例.md"
+    },
+    {
       "basename": "3 Git Branching",
       "path": "必学工具/Git/ProGit/3 Git Branching.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "resume",
       "path": "application/resume.md"
-    },
-    {
-      "basename": "SuperMagic-Readme",
-      "path": "application/SuperMagic-Readme.md"
-    },
-    {
-      "basename": "Topic 1：The Shell",
-      "path": "必学工具/mit-missing semester/Topic 1：The Shell.md"
     }
   ],
   "omittedPaths": [],
