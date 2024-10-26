@@ -81,3 +81,21 @@ scm> `(1 × 3) ;equals to the former expression
 (define b (cons 1 (cons 2 (cons 3 nil))))
 (equal? a b); #t diff objs but the same elems
 ```
+
+---
+## Tail Recursion
+```Scheme
+; not tail recursion
+(define (factorial n)
+	(if (= n 0)
+	    1
+	    (* n (factorial (- n 1)))))
+; tail recursion
+(define (tail-factorial n)
+(define (helper n acc)
+  (if (= n 0)
+      acc
+      (helper (- n 1) (* n acc))))  ; 递归调用是最后一步
+(helper n 1))
+
+```

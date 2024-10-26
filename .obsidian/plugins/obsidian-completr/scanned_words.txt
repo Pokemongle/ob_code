@@ -351,6 +351,7 @@ nqS
 nQW
 nN
 nabJ
+nil
 To
 Try
 Take
@@ -724,6 +725,8 @@ dEhbl
 dUkU
 deleted
 desired
+define
+diff
 list
 linear
 learning
@@ -874,6 +877,8 @@ lwv
 lLL
 lzu
 listed
+linked
+lists
 study
 surgery
 send
@@ -1066,6 +1071,8 @@ sEmiI
 startxref
 scanned
 strongly
+scheme
+similar
 algebra
 abs
 after
@@ -1208,6 +1215,7 @@ aGg
 automatically
 available
 above
+accomplish
 exercise
 ee
 edit
@@ -1382,6 +1390,9 @@ eEy
 egy
 edx
 ecbJ
+editor
+equal
+elems
 min
 make
 mini
@@ -1704,6 +1715,7 @@ ofJ
 oGH
 obsidian
 occurrence
+objs
 Funny
 Finally
 First
@@ -2244,6 +2256,7 @@ gdsj
 gzC
 gJE
 gGkS
+graph
 finishing
 for
 final
@@ -2423,6 +2436,7 @@ foR
 followed
 files
 following
+former
 MIT
 Morning
 Min
@@ -3595,6 +3609,7 @@ rHg
 resolve
 recommend
 replace
+represent
 School
 Science
 Sour
@@ -4650,6 +4665,9 @@ commands
 completr
 conflicted
 conflicts
+construct
+cache
+cons
 Learn
 Li
 List
@@ -5125,6 +5143,7 @@ wnl
 wuJ
 words
 workspace
+ways
 Computer
 Changsha
 Ctrl
@@ -6685,6 +6704,7 @@ Ogq
 OCF
 OuO
 OMO
+Obj
 Washington
 Wallstreet
 What
@@ -7807,6 +7827,7 @@ QiC
 QvN
 Qsd
 QeS
+Quotation
 zh
 zF
 zc
@@ -8096,6 +8117,7 @@ qeR
 qvs
 qvv
 qUd
+quote
 Xz
 Xh
 XC

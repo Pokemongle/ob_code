@@ -11,12 +11,14 @@
             "id": "26a5bafea490b2fc",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "必学工具/Git/Git讲义.pdf"
+                "file": "编程入门/Python/UCB-CS61A/Course/Disc/Disc10 Scheme Lists.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Git讲义"
+              "icon": "lucide-file",
+              "title": "Disc10 Scheme Lists"
             }
           }
         ],
@@ -194,8 +196,8 @@
   },
   "active": "26a5bafea490b2fc",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "必学工具/Git/Git讲义.pdf",
+    "conflict-files-obsidian-git.md",
     "编程入门/Python/UCB-CS61A/SICP/Chapter2.md",
     "编程入门/Python/UCB-CS61A/SICP/Chapter1.md",
     "编程入门/Python/UCB-CS61A/Course/Lab/Lab10 Scheme.md",
