@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Lab11 Interpreters",
+      "path": "编程入门/Python/UCB-CS61A/Course/Lab/Lab11 Interpreters.md"
+    },
+    {
       "basename": "hw06 scheme lists",
       "path": "编程入门/Python/UCB-CS61A/Course/Hw/hw06 scheme lists.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "DIP-Readme",
       "path": "application/DIP-Readme.md"
-    },
-    {
-      "basename": "resume",
-      "path": "application/resume.md"
     }
   ],
   "omittedPaths": [],
