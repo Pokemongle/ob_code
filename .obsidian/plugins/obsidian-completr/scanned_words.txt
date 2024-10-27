@@ -18,6 +18,7 @@ num
 number
 numbered
 notation
+nil
 To
 Try
 Take
@@ -58,6 +59,8 @@ demo
 deleted
 desired
 deep
+define
+diff
 list
 linear
 learning
@@ -76,6 +79,9 @@ leap
 long
 link
 loop
+linked
+lists
+lst
 study
 surgery
 send
@@ -120,6 +126,9 @@ subseqs
 subsets
 set
 suffix
+self
+scheme
+similar
 algebra
 abs
 after
@@ -151,6 +160,8 @@ ahead
 automatically
 available
 above
+accomplish
+acc
 exercise
 ee
 edit
@@ -177,6 +188,9 @@ elems
 elem
 empty
 expression
+editor
+eq
+equal
 min
 make
 mini
@@ -217,6 +231,7 @@ order
 operator
 obsidian
 occurrence
+objs
 Funny
 Finally
 First
@@ -252,6 +267,9 @@ them
 text
 two
 thought
+typed
+typing
+tail
 game
 gloves
 going
@@ -261,6 +279,7 @@ gravity
 git
 globally
 generator
+graph
 finishing
 for
 final
@@ -285,6 +304,9 @@ following
 faith
 front
 flip
+former
+factorial
+filter
 MIT
 Morning
 Min
@@ -339,6 +361,8 @@ parentheses
 password
 pass
 paths
+pos
+press
 hrs
 hr
 house
@@ -356,6 +380,7 @@ happens
 has
 human
 half
+helper
 English
 Evening
 Electrical
@@ -392,6 +417,7 @@ repeated
 recursion
 remember
 reverse
+represent
 School
 Science
 Sour
@@ -436,6 +462,7 @@ interface
 infomation
 iterator
 implemented
+input
 but
 burpee
 brought
@@ -476,6 +503,7 @@ unique
 using
 understand
 uses
+un
 cs
 climbing
 code
@@ -513,6 +541,9 @@ conditions
 condition
 cards
 compare
+construct
+cache
+cons
 Learn
 Li
 List
@@ -546,6 +577,7 @@ while
 which
 wake
 workspace
+ways
 Computer
 Changsha
 Ctrl
@@ -633,6 +665,7 @@ Interleave
 One
 Objects
 Optional
+Obj
 Washington
 Wallstreet
 What
@@ -646,4 +679,6 @@ Just
 key
 Key
 Questions
+Quotation
 quiz
+quote

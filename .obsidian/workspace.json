@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "编程入门/Python/UCB-CS61A/Course/Lab/Lab11 Interpreters.md",
+                "file": "编程入门/Python/UCB-CS61A/Course/Disc/Disc11 Interpreter Tail Call.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lab11 Interpreters"
+              "title": "Disc11 Interpreter Tail Call"
             }
           }
         ],
@@ -88,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 294.5
+    "width": 294.5,
+    "collapsed": true
   },
   "right": {
     "id": "1bd954b4346845fe",
@@ -196,10 +197,11 @@
   },
   "active": "ecdf365c6beb9ae3",
   "lastOpenFiles": [
-    "未命名.md",
-    "编程入门/Python/UCB-CS61A/Course/Lab/Lab11 Interpreters.md",
-    "编程入门/Python/UCB-CS61A/Course/Hw/hw06 scheme lists.md",
     "编程入门/Python/UCB-CS61A/Course/Disc/Disc10 Scheme Lists.md",
+    "编程入门/Python/UCB-CS61A/Course/Disc/Disc05_Sequences, Mutability, Object-Oriented Programming.md",
+    "编程入门/Python/UCB-CS61A/Course/Lab/Lab11 Interpreters.md",
+    "编程入门/Python/UCB-CS61A/Course/Disc/Disc11 Interpreter Tail Call.md",
+    "编程入门/Python/UCB-CS61A/Course/Hw/hw06 scheme lists.md",
     "编程入门/Python/UCB-CS61A/Course/Lab/Lab10 Scheme.md",
     "编程入门/Python/UCB-CS61A/SICP/Chapter3.md",
     "编程入门/Python/UCB-CS61A/SICP/Chapter2.md",
@@ -220,7 +222,6 @@
     "编程入门/Python/概览.md",
     "编程入门/Python/UCB-CS61A/Course/Hw/hw04_Python Lists, Object-Oriented Programming.md",
     "have_fun",
-    "编程入门/Python/UCB-CS61A/Course/Disc/Disc05_Sequences, Mutability, Object-Oriented Programming.md",
     "编程入门/Python/UCB-CS61A/Course/hm1.md",
     "02 English/2024-09-19.md",
     "02 English",
