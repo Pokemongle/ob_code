@@ -75,6 +75,7 @@ leaves
 leap
 long
 link
+loop
 study
 surgery
 send
@@ -250,6 +251,7 @@ total
 them
 text
 two
+thought
 game
 gloves
 going
@@ -433,6 +435,7 @@ initial
 interface
 infomation
 iterator
+implemented
 but
 burpee
 brought
@@ -455,6 +458,7 @@ be
 below
 base
 back
+buffer
 NumPy
 Nancy
 Num
@@ -471,6 +475,7 @@ used
 unique
 using
 understand
+uses
 cs
 climbing
 code
@@ -585,6 +590,7 @@ Bash
 Bluetooth
 Block
 Basic
+Buffer
 Pot
 Poor
 Poops
@@ -598,6 +604,8 @@ PN
 Push
 Please
 Pairs
+Part
+Problem
 yesterday
 year
 yield
