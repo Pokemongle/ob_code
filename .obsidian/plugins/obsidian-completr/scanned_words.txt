@@ -130,6 +130,7 @@ suffix
 self
 scheme
 similar
+scanned
 algebra
 abs
 after
@@ -163,6 +164,7 @@ available
 above
 accomplish
 acc
+access
 exercise
 ee
 edit
@@ -214,6 +216,7 @@ machine
 module
 mode
 merge
+method
 oxygen
 other
 ok
@@ -271,6 +274,7 @@ thought
 typed
 typing
 tail
+txt
 game
 gloves
 going
@@ -366,6 +370,7 @@ pass
 paths
 pos
 press
+plugins
 hrs
 hr
 house
@@ -422,6 +427,7 @@ recursion
 remember
 reverse
 represent
+recent
 School
 Science
 Sour
@@ -468,6 +474,7 @@ iterator
 implemented
 input
 its
+instead
 but
 burpee
 brought
@@ -492,6 +499,7 @@ base
 back
 buffer
 boolean
+bindings
 NumPy
 Nancy
 Num
@@ -551,6 +559,7 @@ construct
 cache
 cons
 careful
+completr
 Learn
 Li
 List
@@ -586,6 +595,7 @@ which
 wake
 workspace
 ways
+words
 Computer
 Changsha
 Ctrl
@@ -633,6 +643,7 @@ Block
 Basic
 Buffer
 Be
+But
 Pot
 Poor
 Poops
@@ -673,6 +684,7 @@ IC
 ID
 Instructions
 Interleave
+Implement
 One
 Objects
 Optional
@@ -690,6 +702,7 @@ Under
 View
 Just
 key
+keys
 Key
 Questions
 Quotation

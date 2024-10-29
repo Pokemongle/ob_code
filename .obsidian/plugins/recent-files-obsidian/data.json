@@ -5,6 +5,10 @@
       "path": "编程入门/Python/UCB-CS61A/Course/Project/Project4_Scheme.md"
     },
     {
+      "basename": "conflict-files-obsidian-git",
+      "path": "conflict-files-obsidian-git.md"
+    },
+    {
       "basename": "Lab10 Scheme",
       "path": "编程入门/Python/UCB-CS61A/Course/Lab/Lab10 Scheme.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "4 Git on the Server",
       "path": "必学工具/Git/ProGit/4 Git on the Server.md"
-    },
-    {
-      "basename": "Markdown语法示例",
-      "path": "00 Obsidian使用教程/Markdown语法示例.md"
     }
   ],
   "omittedPaths": [],
