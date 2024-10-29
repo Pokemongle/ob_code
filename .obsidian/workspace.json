@@ -8,49 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "26a5bafea490b2fc",
+            "id": "bcd2694168afbcab",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "编程入门/Python/UCB-CS61A/Course/Hw/hw06 scheme lists.md",
+                "file": "编程入门/Linux/鸟哥的Linux私房菜/第零章 计算机概论.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "hw06 scheme lists"
-            }
-          },
-          {
-            "id": "3ad32a3d9dccca51",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "编程入门/Linux/USTC_Linux101/未命名 1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "未命名 1"
-            }
-          },
-          {
-            "id": "de34dab7884cbcd0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "编程入门/Python/UCB-CS61A/Course/Project/Project4_Scheme Interpreter.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Project4_Scheme Interpreter"
+              "title": "第零章 计算机概论"
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -117,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 294.5
+    "width": 294.5,
+    "collapsed": true
   },
   "right": {
     "id": "1bd954b4346845fe",
@@ -223,16 +195,19 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "3a8201c8c12fa4cb",
+  "active": "bcd2694168afbcab",
   "lastOpenFiles": [
+    "编程入门/Linux/鸟哥的Linux私房菜/未命名 1.md",
+    "编程入门/Linux/鸟哥的Linux私房菜/第零章 计算机概论.md",
+    "编程入门/Linux/鸟哥的Linux私房菜",
+    "编程入门/Sysadmin_Decal/Lab1_Unix_theShell_OSS.md",
+    "编程入门/Linux/NJU_CSAPP/PA0.md",
     "编程入门/Python/UCB-CS61A/Course/Hw/hw06 scheme lists.md",
-    "编程入门/Linux/USTC_Linux101/未命名 1.md",
-    "编程入门/Linux/USTC_Linux101",
+    "编程入门/Linux/NJU_CSAPP",
     "编程入门/Linux",
     "编程入门/Sysadmin_Decal",
     "编程入门/Python/UCB-CS61A/Course/Project/Project4_Scheme Interpreter.md",
     "编程入门/Python/UCB-CS61A/Course/Lab/Lab11 Interpreters.md",
-    "未命名.md",
     "编程入门/Python/UCB-CS61A/Course/Lab/Lab 0.md",
     "编程入门/Python/UCB-CS61A/Course/Hw/hw04_Python Lists, Object-Oriented Programming.md",
     "编程入门/Python/UCB-CS61A/Course/Disc/Disc10 Scheme Lists.md",
@@ -256,11 +231,7 @@
     "编程入门/Python/UCB-CS61A/Course/Lab",
     "编程入门/Python/UCB-CS61A/Course/Disc/Disc06.md",
     "编程入门/Python/UCB-CS61A/SICP/Chapter1_Building Abstractions with Functions.md",
-    "编程入门/Python/UCB-CS61A/SICP/Chapter 2.md",
-    "编程入门/Python/概览.md",
     "have_fun",
-    "编程入门/Python/UCB-CS61A/Course/Disc/Disc05_Sequences, Mutability, Object-Oriented Programming.md",
-    "02 English",
     "未命名.canvas",
     "attachment/Pasted image 20230729013601.png"
   ]

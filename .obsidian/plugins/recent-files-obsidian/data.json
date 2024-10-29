@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "第零章 计算机概论",
+      "path": "编程入门/Linux/鸟哥的Linux私房菜/第零章 计算机概论.md"
+    },
+    {
       "basename": "未命名 1",
-      "path": "编程入门/Linux/USTC_Linux101/未命名 1.md"
+      "path": "编程入门/Linux/鸟哥的Linux私房菜/未命名 1.md"
+    },
+    {
+      "basename": "Lab1_Unix_theShell_OSS",
+      "path": "编程入门/Sysadmin_Decal/Lab1_Unix_theShell_OSS.md"
+    },
+    {
+      "basename": "PA0",
+      "path": "编程入门/Linux/NJU_CSAPP/PA0.md"
     },
     {
       "basename": "hw06 scheme lists",
@@ -15,10 +27,6 @@
     {
       "basename": "Lab11 Interpreters",
       "path": "编程入门/Python/UCB-CS61A/Course/Lab/Lab11 Interpreters.md"
-    },
-    {
-      "basename": "未命名",
-      "path": "未命名.md"
     },
     {
       "basename": "Disc10 Scheme Lists",
@@ -191,14 +199,6 @@
     {
       "basename": "日记模板",
       "path": "00 模板/日记模板.md"
-    },
-    {
-      "basename": "2. Git Basics",
-      "path": "必学工具/Git/ProGit/2. Git Basics.md"
-    },
-    {
-      "basename": "4 Git on the Server",
-      "path": "必学工具/Git/ProGit/4 Git on the Server.md"
     }
   ],
   "omittedPaths": [],
