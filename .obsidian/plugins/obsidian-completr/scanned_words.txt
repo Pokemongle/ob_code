@@ -19,6 +19,7 @@ number
 numbered
 notation
 nil
+nested
 To
 Try
 Take
@@ -319,6 +320,7 @@ MCU
 Module
 Multiplier
 Mul
+Make
 Record
 Review
 RA
@@ -329,6 +331,7 @@ Right
 Reply
 Reverse
 Return
+Recursion
 Do
 Day
 Did
@@ -381,6 +384,7 @@ has
 human
 half
 helper
+hi
 English
 Evening
 Electrical
@@ -463,6 +467,7 @@ infomation
 iterator
 implemented
 input
+its
 but
 burpee
 brought
@@ -486,6 +491,7 @@ below
 base
 back
 buffer
+boolean
 NumPy
 Nancy
 Num
@@ -544,6 +550,7 @@ compare
 construct
 cache
 cons
+careful
 Learn
 Li
 List
@@ -563,6 +570,7 @@ Assignment
 An
 Add
 Additional
+Adder
 work
 with
 we
@@ -597,6 +605,7 @@ Conflicts
 Check
 Change
 Compound
+Combinations
 Had
 Hot
 Have
@@ -623,6 +632,7 @@ Bluetooth
 Block
 Basic
 Buffer
+Be
 Pot
 Poor
 Poops
@@ -638,6 +648,7 @@ Please
 Pairs
 Part
 Problem
+Pow
 yesterday
 year
 yield
@@ -666,6 +677,7 @@ One
 Objects
 Optional
 Obj
+Over
 Washington
 Wallstreet
 What
@@ -674,6 +686,7 @@ WWPD
 Using
 Use
 UID
+Under
 View
 Just
 key

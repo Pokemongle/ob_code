@@ -11,3 +11,6 @@ This is easy tail call
 
 # Q3: Reverse
 This is easy, but check `(if (null? l))` not `(if (null? (car l)))`
+
+# Calculator
+## Q6: New Form

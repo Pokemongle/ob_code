@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Project4_Scheme",
+      "path": "编程入门/Python/UCB-CS61A/Course/Project/Project4_Scheme.md"
+    },
+    {
+      "basename": "Lab10 Scheme",
+      "path": "编程入门/Python/UCB-CS61A/Course/Lab/Lab10 Scheme.md"
+    },
+    {
       "basename": "Disc11 Interpreter Tail Call",
       "path": "编程入门/Python/UCB-CS61A/Course/Disc/Disc11 Interpreter Tail Call.md"
     },
@@ -19,10 +27,6 @@
     {
       "basename": "hw06 scheme lists",
       "path": "编程入门/Python/UCB-CS61A/Course/Hw/hw06 scheme lists.md"
-    },
-    {
-      "basename": "Lab10 Scheme",
-      "path": "编程入门/Python/UCB-CS61A/Course/Lab/Lab10 Scheme.md"
     },
     {
       "basename": "Chapter3",
@@ -195,10 +199,6 @@
     {
       "basename": "Markdown语法示例",
       "path": "00 Obsidian使用教程/Markdown语法示例.md"
-    },
-    {
-      "basename": "3 Git Branching",
-      "path": "必学工具/Git/ProGit/3 Git Branching.md"
     }
   ],
   "omittedPaths": [],
