@@ -22,6 +22,20 @@
             }
           },
           {
+            "id": "3ad32a3d9dccca51",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "编程入门/Linux/USTC_Linux101/未命名 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "未命名 1"
+            }
+          },
+          {
             "id": "de34dab7884cbcd0",
             "type": "leaf",
             "state": {
@@ -36,6 +50,7 @@
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -98,8 +113,7 @@
               "title": "Recent Files"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -209,10 +223,14 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "26a5bafea490b2fc",
+  "active": "3a8201c8c12fa4cb",
   "lastOpenFiles": [
-    "编程入门/Python/UCB-CS61A/Course/Project/Project4_Scheme Interpreter.md",
     "编程入门/Python/UCB-CS61A/Course/Hw/hw06 scheme lists.md",
+    "编程入门/Linux/USTC_Linux101/未命名 1.md",
+    "编程入门/Linux/USTC_Linux101",
+    "编程入门/Linux",
+    "编程入门/Sysadmin_Decal",
+    "编程入门/Python/UCB-CS61A/Course/Project/Project4_Scheme Interpreter.md",
     "编程入门/Python/UCB-CS61A/Course/Lab/Lab11 Interpreters.md",
     "未命名.md",
     "编程入门/Python/UCB-CS61A/Course/Lab/Lab 0.md",
@@ -242,11 +260,7 @@
     "编程入门/Python/概览.md",
     "have_fun",
     "编程入门/Python/UCB-CS61A/Course/Disc/Disc05_Sequences, Mutability, Object-Oriented Programming.md",
-    "编程入门/Python/UCB-CS61A/Course/hm1.md",
     "02 English",
-    "数学基础/MIT18.06 Linear Algebra/Unix I - Ax=b and the four subspaces",
-    "数学基础/MIT18.06 Linear Algebra",
-    "深度学习",
     "未命名.canvas",
     "attachment/Pasted image 20230729013601.png"
   ]

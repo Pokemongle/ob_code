@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "未命名 1",
+      "path": "编程入门/Linux/USTC_Linux101/未命名 1.md"
+    },
+    {
       "basename": "hw06 scheme lists",
       "path": "编程入门/Python/UCB-CS61A/Course/Hw/hw06 scheme lists.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "4 Git on the Server",
       "path": "必学工具/Git/ProGit/4 Git on the Server.md"
-    },
-    {
-      "basename": "Markdown语法示例",
-      "path": "00 Obsidian使用教程/Markdown语法示例.md"
     }
   ],
   "omittedPaths": [],
