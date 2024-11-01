@@ -20,6 +20,7 @@ numbered
 notation
 nil
 nested
+never
 To
 Try
 Take
@@ -218,6 +219,8 @@ mode
 merge
 method
 macOS
+md
+master
 oxygen
 other
 ok
@@ -238,6 +241,7 @@ obsidian
 occurrence
 objs
 output
+origin
 Funny
 Finally
 First
@@ -397,6 +401,7 @@ human
 half
 helper
 hi
+home
 English
 Evening
 Electrical
@@ -530,6 +535,7 @@ using
 understand
 uses
 un
+ubuntu
 cs
 climbing
 code
@@ -583,6 +589,7 @@ Lists
 Link
 Label
 Linux
+LTS
 Afternoon
 AI
 Achieved
@@ -646,6 +653,7 @@ Honing
 Hilestone
 Higher
 Hello
+HEAD
 Zhao
 Guizhou
 Get
@@ -727,6 +735,7 @@ Under
 USB
 Unicode
 UTF
+Ubuntu
 View
 VIA
 Just
