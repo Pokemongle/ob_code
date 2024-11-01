@@ -19,6 +19,7 @@ number
 numbered
 notation
 nested
+nano
 To
 Try
 Take
@@ -60,6 +61,8 @@ demo
 deleted
 desired
 deep
+date
+device
 list
 linear
 learning
@@ -122,6 +125,8 @@ subseqs
 subsets
 set
 suffix
+sockets
+software
 algebra
 abs
 after
@@ -179,6 +184,7 @@ elems
 elem
 empty
 expression
+execute
 min
 make
 mini
@@ -201,6 +207,9 @@ machine
 module
 mode
 merge
+man
+manual
+mkdir
 oxygen
 other
 ok
@@ -220,6 +229,8 @@ operator
 obsidian
 occurrence
 output
+option
+others
 Funny
 Finally
 First
@@ -229,6 +240,9 @@ False
 For
 Find
 Filter
+FIFO
+Filesystem
+FHS
 things
 to
 transcript
@@ -265,6 +279,7 @@ gravity
 git
 globally
 generator
+group
 finishing
 for
 final
@@ -345,6 +360,10 @@ parentheses
 password
 pass
 paths
+page
+pipe
+pwd
+printing
 hrs
 hr
 house
@@ -398,6 +417,9 @@ repeated
 recursion
 remember
 reverse
+root
+resource
+rmdir
 School
 Science
 Sour
@@ -421,6 +443,7 @@ Subseq
 Shuffle
 Scheme
 Solves
+Standard
 is
 instant
 into
@@ -444,6 +467,7 @@ infomation
 iterator
 implemented
 input
+info
 but
 burpee
 brought
@@ -467,6 +491,8 @@ below
 base
 back
 buffer
+bc
+binary
 NumPy
 Nancy
 Num
@@ -486,6 +512,9 @@ using
 understand
 uses
 understood
+user
+usr
+unix
 cs
 climbing
 code
@@ -523,6 +552,8 @@ conditions
 condition
 cards
 compare
+cal
+cd
 Learn
 Li
 List
@@ -532,6 +563,7 @@ Linked
 Lists
 Link
 Label
+Linux
 Afternoon
 AI
 Achieved
@@ -543,6 +575,7 @@ An
 Add
 Additional
 Ascending
+ASCII
 work
 with
 we
@@ -557,6 +590,8 @@ while
 which
 wake
 workspace
+win
+working
 Computer
 Changsha
 Ctrl
@@ -588,6 +623,7 @@ Honing
 Hilestone
 Higher
 Hello
+Hierarchy
 Zhao
 Guizhou
 Get
@@ -604,6 +640,7 @@ Bluetooth
 Block
 Basic
 Buffer
+Bytes
 Pot
 Poor
 Poops
@@ -619,6 +656,7 @@ Please
 Pairs
 Part
 Problem
+PATH
 yesterday
 year
 yield
@@ -631,6 +669,8 @@ version
 values
 vendor
 viewing
+var
+variable
 IRCC
 Installing
 Interactive
@@ -646,6 +686,7 @@ Interleave
 One
 Objects
 Optional
+OPTION
 Washington
 Wallstreet
 What
