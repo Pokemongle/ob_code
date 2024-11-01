@@ -65,6 +65,7 @@ deep
 define
 diff
 date
+device
 list
 linear
 learning
@@ -86,6 +87,7 @@ loop
 linked
 lists
 lst
+ls
 study
 surgery
 send
@@ -134,6 +136,8 @@ self
 scheme
 similar
 scanned
+sockets
+software
 algebra
 abs
 after
@@ -168,6 +172,8 @@ above
 accomplish
 acc
 access
+al
+alF
 exercise
 ee
 edit
@@ -197,6 +203,7 @@ expression
 editor
 eq
 equal
+execute
 min
 make
 mini
@@ -248,6 +255,7 @@ objs
 output
 origin
 option
+others
 Funny
 Finally
 First
@@ -257,6 +265,9 @@ False
 For
 Find
 FSB
+FIFO
+Filesystem
+FHS
 things
 to
 transcript
@@ -298,6 +309,7 @@ git
 globally
 generator
 graph
+group
 finishing
 for
 final
@@ -325,6 +337,7 @@ flip
 former
 factorial
 filter
+full
 MIT
 Morning
 Min
@@ -391,6 +404,7 @@ plugins
 pwd
 printing
 page
+pipe
 hrs
 hr
 house
@@ -451,6 +465,7 @@ represent
 recent
 rmdir
 root
+resource
 School
 Science
 Sour
@@ -475,6 +490,7 @@ Shuffle
 Scheme
 SPARC
 SRAM
+Standard
 is
 instant
 into
@@ -530,6 +546,7 @@ bit
 byte
 bits
 bc
+binary
 NumPy
 Nancy
 Num
@@ -549,6 +566,9 @@ understand
 uses
 un
 ubuntu
+user
+usr
+unix
 cs
 climbing
 code
@@ -594,6 +614,8 @@ completr
 cpu
 cd
 cal
+color
+cp
 Learn
 Li
 List
@@ -670,6 +692,7 @@ Hilestone
 Higher
 Hello
 HEAD
+Hierarchy
 Zhao
 Guizhou
 Get
@@ -690,6 +713,7 @@ Buffer
 Be
 But
 BIOS
+Bytes
 Pot
 Poor
 Poops
@@ -721,6 +745,8 @@ version
 values
 vendor
 viewing
+var
+variable
 IRCC
 Installing
 Interactive
@@ -740,6 +766,7 @@ Objects
 Optional
 Obj
 Over
+OPTION
 Washington
 Wallstreet
 What

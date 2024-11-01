@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "编程入门/Linux/鸟哥的Linux私房菜/4 首次登录与线上求助.md",
+                "file": "编程入门/Linux/鸟哥的Linux私房菜/6 Linux文件与目录管理.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4 首次登录与线上求助"
+              "title": "6 Linux文件与目录管理"
             }
           }
         ],
@@ -98,7 +98,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 294.5
+    "width": 294.5,
+    "collapsed": true
   },
   "right": {
     "id": "1bd954b4346845fe",
@@ -206,12 +207,12 @@
   },
   "active": "d011cfc07d43e5b1",
   "lastOpenFiles": [
-    "编程入门/Linux/鸟哥的Linux私房菜/第四章 首次登陆与线上求助.md",
-    "编程入门/Linux/鸟哥的Linux私房菜/4 首次登录与线上求助.md",
+    "编程入门/Linux/鸟哥的Linux私房菜/5 Linux的文件权限与目录配置.md",
     "编程入门/Linux/鸟哥的Linux私房菜/6 Linux文件与目录管理.md",
+    "编程入门/Linux/鸟哥的Linux私房菜/4 首次登录与线上求助.md",
+    "编程入门/Linux/鸟哥的Linux私房菜/第四章 首次登陆与线上求助.md",
     "编程入门/Linux/鸟哥的Linux私房菜/0 计算机概论.md",
     "conflict-files-obsidian-git.md",
-    "编程入门/Linux/鸟哥的Linux私房菜/5 Linux的文件权限与目录配置.md",
     "编程入门/Linux/鸟哥的Linux私房菜/3 安装ubuntu22.04LTS.md",
     "编程入门/Linux/鸟哥的Linux私房菜/第零章 计算机概论.md",
     "编程入门/Python/UCB-CS61A/Course/Project/Project4_Scheme.md",
