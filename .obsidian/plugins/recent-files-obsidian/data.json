@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "第零章 计算机概论",
-      "path": "编程入门/Linux/鸟哥的Linux私房菜/第零章 计算机概论.md"
+      "basename": "第四章 首次登录与线上求助",
+      "path": "编程入门/Linux/鸟哥的Linux私房菜/第四章 首次登录与线上求助.md"
     },
     {
-      "basename": "未命名 1",
-      "path": "编程入门/Linux/鸟哥的Linux私房菜/未命名 1.md"
+      "basename": "第三章 安装ubuntu22.04LTS",
+      "path": "编程入门/Linux/鸟哥的Linux私房菜/第三章 安装ubuntu22.04LTS.md"
+    },
+    {
+      "basename": "第零章 计算机概论",
+      "path": "编程入门/Linux/鸟哥的Linux私房菜/第零章 计算机概论.md"
     },
     {
       "basename": "Lab1_Unix_theShell_OSS",
@@ -195,10 +199,6 @@
     {
       "basename": "2024-W27-Transition before moving into dormitory",
       "path": "01 日记/2024-07/wk1/2024-W27-Transition before moving into dormitory.md"
-    },
-    {
-      "basename": "日记模板",
-      "path": "00 模板/日记模板.md"
     }
   ],
   "omittedPaths": [],

@@ -219,6 +219,7 @@ order
 operator
 obsidian
 occurrence
+output
 Funny
 Finally
 First
@@ -442,6 +443,7 @@ interface
 infomation
 iterator
 implemented
+input
 but
 burpee
 brought
@@ -575,6 +577,7 @@ Check
 Change
 Compound
 Cadr
+CPU
 Had
 Hot
 Have
