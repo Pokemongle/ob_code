@@ -217,6 +217,7 @@ module
 mode
 merge
 method
+macOS
 oxygen
 other
 ok
@@ -236,6 +237,7 @@ operator
 obsidian
 occurrence
 objs
+output
 Funny
 Finally
 First
@@ -244,6 +246,7 @@ Function
 False
 For
 Find
+FSB
 things
 to
 transcript
@@ -336,6 +339,8 @@ Reply
 Reverse
 Return
 Recursion
+RISC
+ROM
 Do
 Day
 Did
@@ -346,6 +351,8 @@ Dictionary
 Digits
 Decreasing
 Definitions
+DRAM
+DDR
 plastic
 piano
 print
@@ -450,6 +457,8 @@ Source
 Subseq
 Shuffle
 Scheme
+SPARC
+SRAM
 is
 instant
 into
@@ -500,6 +509,9 @@ back
 buffer
 boolean
 bindings
+bit
+byte
+bits
 NumPy
 Nancy
 Num
@@ -560,6 +572,7 @@ cache
 cons
 careful
 completr
+cpu
 Learn
 Li
 List
@@ -569,6 +582,7 @@ Linked
 Lists
 Link
 Label
+Linux
 Afternoon
 AI
 Achieved
@@ -580,6 +594,9 @@ An
 Add
 Additional
 Adder
+ARM
+AMD
+ASCII
 work
 with
 we
@@ -596,6 +613,7 @@ wake
 workspace
 ways
 words
+win
 Computer
 Changsha
 Ctrl
@@ -616,6 +634,8 @@ Check
 Change
 Compound
 Combinations
+CPU
+CISC
 Had
 Hot
 Have
@@ -631,6 +651,7 @@ Guizhou
 Get
 Gives
 Getting
+GBytes
 Beef
 British
 Batleys
@@ -644,6 +665,7 @@ Basic
 Buffer
 Be
 But
+BIOS
 Pot
 Poor
 Poops
@@ -660,6 +682,8 @@ Pairs
 Part
 Problem
 Pow
+PowerPC
+PC
 yesterday
 year
 yield
@@ -685,6 +709,7 @@ ID
 Instructions
 Interleave
 Implement
+Intel
 One
 Objects
 Optional
@@ -699,7 +724,11 @@ Using
 Use
 UID
 Under
+USB
+Unicode
+UTF
 View
+VIA
 Just
 key
 keys

@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Project4_Scheme",
-      "path": "编程入门/Python/UCB-CS61A/Course/Project/Project4_Scheme.md"
+      "basename": "第四章 首次登陆与线上求助",
+      "path": "编程入门/Linux/鸟哥的Linux私房菜/第四章 首次登陆与线上求助.md"
     },
     {
-      "basename": "conflict-files-obsidian-git",
-      "path": "conflict-files-obsidian-git.md"
+      "basename": "第零章 计算机概论",
+      "path": "编程入门/Linux/鸟哥的Linux私房菜/第零章 计算机概论.md"
+    },
+    {
+      "basename": "Project4_Scheme",
+      "path": "编程入门/Python/UCB-CS61A/Course/Project/Project4_Scheme.md"
     },
     {
       "basename": "Lab10 Scheme",
@@ -191,14 +195,6 @@
     {
       "basename": "日记模板",
       "path": "00 模板/日记模板.md"
-    },
-    {
-      "basename": "2. Git Basics",
-      "path": "必学工具/Git/ProGit/2. Git Basics.md"
-    },
-    {
-      "basename": "4 Git on the Server",
-      "path": "必学工具/Git/ProGit/4 Git on the Server.md"
     }
   ],
   "omittedPaths": [],
