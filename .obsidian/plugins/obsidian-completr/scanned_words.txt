@@ -21,6 +21,7 @@ notation
 nil
 nested
 never
+nano
 To
 Try
 Take
@@ -63,6 +64,7 @@ desired
 deep
 define
 diff
+date
 list
 linear
 learning
@@ -221,6 +223,9 @@ method
 macOS
 md
 master
+mkdir
+man
+manual
 oxygen
 other
 ok
@@ -242,6 +247,7 @@ occurrence
 objs
 output
 origin
+option
 Funny
 Finally
 First
@@ -382,6 +388,9 @@ paths
 pos
 press
 plugins
+pwd
+printing
+page
 hrs
 hr
 house
@@ -440,6 +449,8 @@ remember
 reverse
 represent
 recent
+rmdir
+root
 School
 Science
 Sour
@@ -489,6 +500,7 @@ implemented
 input
 its
 instead
+info
 but
 burpee
 brought
@@ -517,6 +529,7 @@ bindings
 bit
 byte
 bits
+bc
 NumPy
 Nancy
 Num
@@ -579,6 +592,8 @@ cons
 careful
 completr
 cpu
+cd
+cal
 Learn
 Li
 List
@@ -621,6 +636,7 @@ workspace
 ways
 words
 win
+working
 Computer
 Changsha
 Ctrl
@@ -692,6 +708,7 @@ Problem
 Pow
 PowerPC
 PC
+PATH
 yesterday
 year
 yield
