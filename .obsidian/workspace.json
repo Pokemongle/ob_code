@@ -88,8 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 294.5,
-    "collapsed": true
+    "width": 294.5
   },
   "right": {
     "id": "1bd954b4346845fe",
@@ -195,7 +194,7 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "f9da1b8d7c030308",
+  "active": "3a8201c8c12fa4cb",
   "lastOpenFiles": [
     "编程入门/Linux/鸟哥的Linux私房菜/5 Linux的文件权限与目录配置.md",
     "编程入门/Linux/鸟哥的Linux私房菜/6 Linux文件与目录管理.md",
