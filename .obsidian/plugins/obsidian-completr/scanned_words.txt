@@ -20,6 +20,8 @@ numbered
 notation
 nested
 nano
+never
+nl
 To
 Try
 Take
@@ -63,6 +65,8 @@ desired
 deep
 date
 device
+dr
+db
 list
 linear
 learning
@@ -81,6 +85,9 @@ leap
 long
 link
 loop
+ls
+less
+lsattr
 study
 surgery
 send
@@ -127,6 +134,7 @@ set
 suffix
 sockets
 software
+status
 algebra
 abs
 after
@@ -158,6 +166,10 @@ ahead
 automatically
 available
 above
+al
+alF
+access
+atime
 exercise
 ee
 edit
@@ -185,6 +197,8 @@ elem
 empty
 expression
 execute
+etc
+echo
 min
 make
 mini
@@ -210,6 +224,9 @@ merge
 man
 manual
 mkdir
+mv
+more
+mtime
 oxygen
 other
 ok
@@ -231,6 +248,8 @@ occurrence
 output
 option
 others
+od
+oCc
 Funny
 Finally
 First
@@ -243,6 +262,7 @@ Filter
 FIFO
 Filesystem
 FHS
+FILE
 things
 to
 transcript
@@ -270,6 +290,10 @@ them
 text
 two
 thought
+tac
+tail
+touch
+tmp
 game
 gloves
 going
@@ -304,6 +328,7 @@ following
 faith
 front
 flip
+full
 MIT
 Morning
 Min
@@ -381,6 +406,7 @@ happens
 has
 human
 half
+head
 English
 Evening
 Electrical
@@ -420,6 +446,8 @@ reverse
 root
 resource
 rmdir
+rm
+rw
 School
 Science
 Sour
@@ -493,12 +521,14 @@ back
 buffer
 bc
 binary
+bashrc
 NumPy
 Nancy
 Num
 Not
 Non
 No
+NUMBER
 uws
 use
 up
@@ -515,6 +545,7 @@ understood
 user
 usr
 unix
+umask
 cs
 climbing
 code
@@ -554,6 +585,15 @@ cards
 compare
 cal
 cd
+color
+cp
+cat
+conf
+ctime
+chown
+chmod
+chapter
+chattr
 Learn
 Li
 List

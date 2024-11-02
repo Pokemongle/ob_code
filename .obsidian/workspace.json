@@ -194,10 +194,13 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "3a8201c8c12fa4cb",
+  "active": "f9da1b8d7c030308",
   "lastOpenFiles": [
-    "编程入门/Linux/鸟哥的Linux私房菜/5 Linux的文件权限与目录配置.md",
+    "conflict-files-obsidian-git.md",
     "编程入门/Linux/鸟哥的Linux私房菜/6 Linux文件与目录管理.md",
+    "编程入门/Python/UCB-CS61A/Course/Project/Project4_Scheme.md",
+    "编程入门/Python/UCB-CS61A/Course/Disc/Disc11 Interpreter Tail Call.md",
+    "编程入门/Linux/鸟哥的Linux私房菜/5 Linux的文件权限与目录配置.md",
     "编程入门/Linux/鸟哥的Linux私房菜/3 安装ubuntu22.04LTS.md",
     "编程入门/Linux/鸟哥的Linux私房菜/4 首次登录与线上求助.md",
     "编程入门/Linux/鸟哥的Linux私房菜/0 计算机概论.md",
@@ -214,7 +217,6 @@
     "编程入门/Python/UCB-CS61A/Course/Hw/hw04_Python Lists, Object-Oriented Programming.md",
     "编程入门/Python/UCB-CS61A/Course/Disc/Disc10 Scheme Lists.md",
     "必学工具/Git/Git讲义.pdf",
-    "conflict-files-obsidian-git.md",
     "编程入门/Python/UCB-CS61A/SICP/Chapter2.md",
     "编程入门/Python/UCB-CS61A/SICP/Chapter1.md",
     "编程入门/Python/UCB-CS61A/Course/Lab/Lab10 Scheme.md",
@@ -225,8 +227,6 @@
     "编程入门/Python/UCB-CS61A/Course/Lab/Lab07 Linked Lists Trees Tree Mutation.md",
     "编程入门/Python/UCB-CS61A/Course/Project/Project3_Ants.md",
     "application/电路综合.md",
-    "have_fun/考研万年历.md",
-    "Results.md",
     "编程入门/Python/UCB-CS61A/Course/Hw",
     "编程入门/Python/UCB-CS61A/Course/Project",
     "编程入门/Python/UCB-CS61A/Course/Disc",
