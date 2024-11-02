@@ -48,7 +48,7 @@
 	- 可以使用通配符 `*` 删除
 	- 删除开头为 `-` 的文件系统会误判为 option，加上 `./` 就可以删除
 
-- 移动文件或目录或更名 `mv`
+- 移动文件或目录或**更名** `mv`
 	copy 的阉割版
 	`-f` 强制移动
 	`-i` 询问是否移动
@@ -137,4 +137,38 @@ e.g.2 修改权限 `chmod -R 755 /tmp/chapter6_1`
 `lsattr`
 ![image.png](https://cdn.jsdelivr.net/gh/Pokemongle/img_bed_0@main/img/202411021159091.png)
 
+---
 文件特殊权限 SUID, SGID, SBIT
+`SUID`: s 出现在 user 的 x 上
+看不懂，先别管了
+
+---
+观察文件类型 
+`file [FILE]`
+
+# 6.5 指令与文件的搜寻
+指令文件名的搜寻
+`which [-a] [FILENAME]`
+	可以找到完整的指令路径
+	仅限在 PATH 路径当中包含的指令
+
+文件文件名的搜寻
+`whereis [option] [FILE]`
+![image.png](https://raw.githubusercontent.com/Pokemongle/img_bed_0/main/img/20241102141050.png)
+
+`locate [option] keyword` 
+	在数据库中输入文件名的一部分进行查找，找不到可先 `updatedb`
+![image.png](https://raw.githubusercontent.com/Pokemongle/img_bed_0/main/img/20241102141242.png)
+
+`find [PATH] [option] [action]`
+![image.png](https://raw.githubusercontent.com/Pokemongle/img_bed_0/main/img/20241102144204.png)
+![image.png](https://raw.githubusercontent.com/Pokemongle/img_bed_0/main/img/20241102144150.png)
+![image.png](https://raw.githubusercontent.com/Pokemongle/img_bed_0/main/img/20241102144317.png)
+![image.png](https://raw.githubusercontent.com/Pokemongle/img_bed_0/main/img/20241102144544.png)
+![image.png](https://raw.githubusercontent.com/Pokemongle/img_bed_0/main/img/20241102145016.png)
+![image.png](https://raw.githubusercontent.com/Pokemongle/img_bed_0/main/img/20241102145159.png)
+
+![image.png](https://raw.githubusercontent.com/Pokemongle/img_bed_0/main/img/20241102150739.png)
+![image.png](https://raw.githubusercontent.com/Pokemongle/img_bed_0/main/img/20241102150807.png)
+
+

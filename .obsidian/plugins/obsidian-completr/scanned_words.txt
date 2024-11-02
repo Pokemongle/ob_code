@@ -88,6 +88,7 @@ loop
 ls
 less
 lsattr
+locate
 study
 surgery
 send
@@ -135,6 +136,7 @@ suffix
 sockets
 software
 status
+superblock
 algebra
 abs
 after
@@ -263,6 +265,7 @@ FIFO
 Filesystem
 FHS
 FILE
+FAT
 things
 to
 transcript
@@ -407,6 +410,7 @@ has
 human
 half
 head
+hard
 English
 Evening
 Electrical
@@ -417,6 +421,7 @@ Example
 Expressions
 Equality
 Error
+Ext
 rent
 request
 run
@@ -472,6 +477,9 @@ Shuffle
 Scheme
 Solves
 Standard
+SUID
+Switch
+Symbolic
 is
 instant
 into
@@ -496,6 +504,7 @@ iterator
 implemented
 input
 info
+inode
 but
 burpee
 brought
@@ -546,6 +555,7 @@ user
 usr
 unix
 umask
+updatedb
 cs
 climbing
 code
@@ -632,6 +642,7 @@ wake
 workspace
 win
 working
+whereis
 Computer
 Changsha
 Ctrl
@@ -664,6 +675,7 @@ Hilestone
 Higher
 Hello
 Hierarchy
+Hard
 Zhao
 Guizhou
 Get
@@ -736,8 +748,12 @@ Using
 Use
 UID
 View
+VFS
+Virtual
 Just
 key
+keyword
 Key
 Questions
 quiz
+XFS
