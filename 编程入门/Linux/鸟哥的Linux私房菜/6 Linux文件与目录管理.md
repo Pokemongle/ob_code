@@ -136,3 +136,5 @@ e.g.2 修改权限 `chmod -R 755 /tmp/chapter6_1`
 查看隐藏属性
 `lsattr`
 ![image.png](https://cdn.jsdelivr.net/gh/Pokemongle/img_bed_0@main/img/202411021159091.png)
+
+文件特殊权限 SUID, SGID, SBIT
