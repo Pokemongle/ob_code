@@ -27,7 +27,8 @@ VFS (Virtual Filesystem Switch) 的作用
 
 ---
 # 7.2 文件系统的简单操作
-`df` 和 `du` 感觉用不上，之后再说吧
+`df -h`  列出文件系统的整体磁盘使用量
+`du` 评估文件系统的磁盘使用量
 
 创建目录时，分配一个 inode 和至少一块 block 给该目录，目录的 block 如下：
 ![image.png](https://raw.githubusercontent.com/Pokemongle/img_bed_0/main/img/20241102183859.png)
@@ -54,3 +55,10 @@ VFS (Virtual Filesystem Switch) 的作用
 
 GPT 分区表用 `gdisk` 分区
 MBR 分区表用 `fdisk` 分区
+
+挂载
+	挂载点是目录，这个目录是进入磁盘分区（文件系统）的入口
+	条件：
+		一对一，一目录对一磁盘
+		![image.png](https://raw.githubusercontent.com/Pokemongle/img_bed_0/main/img/20241103180158.png)
+		挂载点理论上是空目录，否则原本的文件会被覆盖
