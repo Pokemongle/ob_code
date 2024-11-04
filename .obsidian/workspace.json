@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "编程入门/Linux/鸟哥的Linux私房菜/8 文件与文件系统的压缩_打包与备份.md",
+                "file": "编程入门/Linux/鸟哥的Linux私房菜/9 vim程序编辑器.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "8 文件与文件系统的压缩_打包与备份"
+              "title": "9 vim程序编辑器"
             }
           }
         ],
@@ -207,15 +207,15 @@
   },
   "active": "9dc63cbc554697ca",
   "lastOpenFiles": [
-    "编程入门/Linux/鸟哥的Linux私房菜/9 vim程序编辑器.md",
     "编程入门/Linux/鸟哥的Linux私房菜/8 文件与文件系统的压缩_打包与备份.md",
+    "conflict-files-obsidian-git.md",
+    "编程入门/Linux/鸟哥的Linux私房菜/9 vim程序编辑器.md",
     "编程入门/Linux/鸟哥的Linux私房菜/7 Linux 磁盘与文件系统管理.md",
     "编程入门/Linux/鸟哥的Linux私房菜/6 Linux文件与目录管理.md",
     "编程入门/Linux/鸟哥的Linux私房菜/5 Linux的文件权限与目录配置.md",
     "编程入门/Linux/鸟哥的Linux私房菜/4 首次登录与线上求助.md",
     "编程入门/Linux/鸟哥的Linux私房菜/第四章 首次登陆与线上求助.md",
     "编程入门/Linux/鸟哥的Linux私房菜/0 计算机概论.md",
-    "conflict-files-obsidian-git.md",
     "编程入门/Linux/鸟哥的Linux私房菜/3 安装ubuntu22.04LTS.md",
     "编程入门/Linux/鸟哥的Linux私房菜/第零章 计算机概论.md",
     "编程入门/Python/UCB-CS61A/Course/Project/Project4_Scheme.md",

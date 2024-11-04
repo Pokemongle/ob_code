@@ -22,6 +22,7 @@ nil
 nested
 never
 nano
+normal
 To
 Try
 Take
@@ -440,6 +441,7 @@ Expressions
 Equality
 Error
 Ext
+Esc
 rent
 request
 run
@@ -625,6 +627,7 @@ cal
 color
 cp
 compress
+char
 Learn
 Li
 List
@@ -636,6 +639,7 @@ Link
 Label
 Linux
 LTS
+Like
 Afternoon
 AI
 Achieved
@@ -668,6 +672,7 @@ ways
 words
 win
 working
+word
 Computer
 Changsha
 Ctrl
@@ -758,6 +763,9 @@ vendor
 viewing
 var
 variable
+vi
+vim
+vimtutor
 IRCC
 Installing
 Interactive
@@ -792,6 +800,7 @@ Unicode
 UTF
 Ubuntu
 UUID
+Unix
 View
 VIA
 VFS
