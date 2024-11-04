@@ -15,3 +15,17 @@
 - 命令行命令模式
 	- 按下 `:/?` 其中一个 进入命令行命令模式
 	- Esc 退出
+![image.png](https://raw.githubusercontent.com/Pokemongle/img_bed_0/main/img/20241104184927.png)
+
+
+vimtutor
+![image.png](https://raw.githubusercontent.com/Pokemongle/img_bed_0/main/img/20241104102523.png)
+![image.png](https://raw.githubusercontent.com/Pokemongle/img_bed_0/main/img/20241104102602.png)
+![image.png](https://raw.githubusercontent.com/Pokemongle/img_bed_0/main/img/20241104103049.png)
+![image.png](https://raw.githubusercontent.com/Pokemongle/img_bed_0/main/img/20241104110557.png)
+![image.png](https://raw.githubusercontent.com/Pokemongle/img_bed_0/main/img/20241104173130.png)
+![image.png](https://raw.githubusercontent.com/Pokemongle/img_bed_0/main/img/20241104174134.png)
+![image.png](https://raw.githubusercontent.com/Pokemongle/img_bed_0/main/img/20241104175408.png)
+
+
+

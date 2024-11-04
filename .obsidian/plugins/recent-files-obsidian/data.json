@@ -21,6 +21,10 @@
       "path": "编程入门/Linux/鸟哥的Linux私房菜/5 Linux的文件权限与目录配置.md"
     },
     {
+      "basename": "3 安装ubuntu22.04LTS",
+      "path": "编程入门/Linux/鸟哥的Linux私房菜/3 安装ubuntu22.04LTS.md"
+    },
+    {
       "basename": "4 首次登录与线上求助",
       "path": "编程入门/Linux/鸟哥的Linux私房菜/4 首次登录与线上求助.md"
     },
@@ -29,32 +33,32 @@
       "path": "编程入门/Linux/鸟哥的Linux私房菜/0 计算机概论.md"
     },
     {
-      "basename": "Project4_Scheme",
-      "path": "编程入门/Python/UCB-CS61A/Course/Project/Project4_Scheme.md"
+      "basename": "Lab1_Unix_theShell_OSS",
+      "path": "编程入门/Sysadmin_Decal/Lab1_Unix_theShell_OSS.md"
     },
     {
-      "basename": "Lab10 Scheme",
-      "path": "编程入门/Python/UCB-CS61A/Course/Lab/Lab10 Scheme.md"
+      "basename": "PA0",
+      "path": "编程入门/Linux/NJU_CSAPP/PA0.md"
     },
     {
-      "basename": "Disc11 Interpreter Tail Call",
-      "path": "编程入门/Python/UCB-CS61A/Course/Disc/Disc11 Interpreter Tail Call.md"
+      "basename": "hw06 scheme lists",
+      "path": "编程入门/Python/UCB-CS61A/Course/Hw/hw06 scheme lists.md"
     },
     {
-      "basename": "Disc10 Scheme Lists",
-      "path": "编程入门/Python/UCB-CS61A/Course/Disc/Disc10 Scheme Lists.md"
-    },
-    {
-      "basename": "Disc05_Sequences, Mutability, Object-Oriented Programming",
-      "path": "编程入门/Python/UCB-CS61A/Course/Disc/Disc05_Sequences, Mutability, Object-Oriented Programming.md"
+      "basename": "Project4_Scheme Interpreter",
+      "path": "编程入门/Python/UCB-CS61A/Course/Project/Project4_Scheme Interpreter.md"
     },
     {
       "basename": "Lab11 Interpreters",
       "path": "编程入门/Python/UCB-CS61A/Course/Lab/Lab11 Interpreters.md"
     },
     {
-      "basename": "hw06 scheme lists",
-      "path": "编程入门/Python/UCB-CS61A/Course/Hw/hw06 scheme lists.md"
+      "basename": "Disc10 Scheme Lists",
+      "path": "编程入门/Python/UCB-CS61A/Course/Disc/Disc10 Scheme Lists.md"
+    },
+    {
+      "basename": "Lab10 Scheme",
+      "path": "编程入门/Python/UCB-CS61A/Course/Lab/Lab10 Scheme.md"
     },
     {
       "basename": "Chapter3",
@@ -103,6 +107,10 @@
     {
       "basename": "hw04_Python Lists, Object-Oriented Programming",
       "path": "编程入门/Python/UCB-CS61A/Course/Hw/hw04_Python Lists, Object-Oriented Programming.md"
+    },
+    {
+      "basename": "Disc05_Sequences, Mutability, Object-Oriented Programming",
+      "path": "编程入门/Python/UCB-CS61A/Course/Disc/Disc05_Sequences, Mutability, Object-Oriented Programming.md"
     },
     {
       "basename": "2024-09-19",
@@ -191,14 +199,6 @@
     {
       "basename": "Git",
       "path": "必学工具/Git/Git.md"
-    },
-    {
-      "basename": "5 Distributed Git",
-      "path": "必学工具/Git/ProGit/5 Distributed Git.md"
-    },
-    {
-      "basename": "2024-07-08",
-      "path": "01 日记/2024-07/2024-07-08.md"
     }
   ],
   "omittedPaths": [],
