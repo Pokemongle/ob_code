@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b683cf5b2c82dc35",
+            "id": "83e0cfb474ce8a4d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "编程入门/Linux/鸟哥的Linux私房菜/9 vim程序编辑器.md",
+                "file": "编程入门/Linux/鸟哥的Linux私房菜/10 认识与学习BASH.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "9 vim程序编辑器"
+              "title": "10 认识与学习BASH"
             }
           }
         ],
@@ -88,8 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 294.5,
-    "collapsed": true
+    "width": 294.5
   },
   "right": {
     "id": "1bd954b4346845fe",
@@ -195,11 +194,15 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "b683cf5b2c82dc35",
+  "active": "83e0cfb474ce8a4d",
   "lastOpenFiles": [
+    "编程入门/Linux/vbird-linux-basic-4e.pdf",
+    "pdf",
+    "新建文件夹",
+    "编程入门/Linux/鸟哥的Linux私房菜/9 vim程序编辑器.md",
+    "编程入门/Linux/鸟哥的Linux私房菜/10 认识与学习BASH.md",
     "编程入门/Linux/鸟哥的Linux私房菜/8 文件与文件系统的压缩_打包与备份.md",
     "编程入门/Linux/鸟哥的Linux私房菜/7 Linux 磁盘与文件系统管理.md",
-    "编程入门/Linux/鸟哥的Linux私房菜/9 vim程序编辑器.md",
     "编程入门/Linux/鸟哥的Linux私房菜/6 Linux文件与目录管理.md",
     "conflict-files-obsidian-git.md",
     "编程入门/Python/UCB-CS61A/Course/Project/Project4_Scheme.md",
@@ -226,13 +229,9 @@
     "编程入门/Python/UCB-CS61A/Course/Lab/Lab10 Scheme.md",
     "编程入门/Python/UCB-CS61A/Course/Lab/Lab08 Midterm Iterator Generator.md",
     "编程入门/Python/UCB-CS61A/SICP/Chapter3.md",
-    "Lab08 Midterm Iterator Generator.md",
-    "00 Obsidian使用教程/Markdown语法示例.md",
     "编程入门/Python/UCB-CS61A/Course/Hw",
     "编程入门/Python/UCB-CS61A/Course/Project",
     "编程入门/Python/UCB-CS61A/Course/Disc",
-    "编程入门/Python/UCB-CS61A/Course/Lab",
-    "have_fun",
     "未命名.canvas",
     "attachment/Pasted image 20230729013601.png"
   ]

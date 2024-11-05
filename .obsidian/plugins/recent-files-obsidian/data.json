@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "10 认识与学习BASH",
+      "path": "编程入门/Linux/鸟哥的Linux私房菜/10 认识与学习BASH.md"
+    },
+    {
       "basename": "9 vim程序编辑器",
       "path": "编程入门/Linux/鸟哥的Linux私房菜/9 vim程序编辑器.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2024-07-16",
       "path": "01 日记/2024-07-16.md"
-    },
-    {
-      "basename": "Git",
-      "path": "必学工具/Git/Git.md"
     }
   ],
   "omittedPaths": [],
