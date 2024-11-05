@@ -84,3 +84,6 @@ vimtutor 的总结
 `:w` 写，相当于保存？
 `:wq` 保存并退出
 `!command` 暂时退出编辑器并执行 `command`
+
+![image.png](https://raw.githubusercontent.com/Pokemongle/img_bed_0/main/img/20241105093525.png)
+
