@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "10 认识与学习BASH",
+      "path": "编程入门/Linux/鸟哥的Linux私房菜/10 认识与学习BASH.md"
+    },
+    {
+      "basename": "vbird-linux-basic-4e",
+      "path": "编程入门/Linux/vbird-linux-basic-4e.pdf"
+    },
+    {
       "basename": "9 vim程序编辑器",
       "path": "编程入门/Linux/鸟哥的Linux私房菜/9 vim程序编辑器.md"
     },
@@ -191,10 +199,6 @@
     {
       "basename": "Git",
       "path": "必学工具/Git/Git.md"
-    },
-    {
-      "basename": "5 Distributed Git",
-      "path": "必学工具/Git/ProGit/5 Distributed Git.md"
     }
   ],
   "omittedPaths": [],
