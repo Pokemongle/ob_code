@@ -98,8 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 294.5,
-    "collapsed": true
+    "width": 294.5
   },
   "right": {
     "id": "1bd954b4346845fe",
@@ -207,6 +206,7 @@
   },
   "active": "fbf69debfa025498",
   "lastOpenFiles": [
+    "编程入门/Linux/鸟哥的Linux私房菜/11 正则表达式与文件格式化处理.md",
     "编程入门/Linux/鸟哥的Linux私房菜/10 认识与学习BASH.md",
     "编程入门/Linux/鸟哥的Linux私房菜/8 文件与文件系统的压缩_打包与备份.md",
     "编程入门/Linux/鸟哥的Linux私房菜/0 计算机概论.md",
@@ -242,7 +242,6 @@
     "编程入门/Python/UCB-CS61A/Course/Lab/Lab11 Interpreters.md",
     "编程入门/Python/UCB-CS61A/Course/Hw/hw06 scheme lists.md",
     "编程入门/Python/UCB-CS61A/SICP/Chapter3.md",
-    "编程入门/Python/UCB-CS61A/SICP/Chapter2.md",
     "未命名.canvas",
     "attachment/Pasted image 20230729013601.png"
   ]
