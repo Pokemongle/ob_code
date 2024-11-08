@@ -831,6 +831,7 @@ nJwe
 nctu
 net
 nuM
+non
 To
 Try
 Take
@@ -2016,6 +2017,8 @@ ldS
 lNH
 lgw
 linux
+login
+lines
 study
 surgery
 send
@@ -2475,6 +2478,8 @@ syz
 sOv
 startxref
 scripts
+stdin
+stdout
 algebra
 abs
 after
@@ -3319,6 +3324,7 @@ egb
 eja
 eEw
 edu
+etc
 min
 make
 mini
@@ -7551,6 +7557,7 @@ pERdEQTESt
 pub
 pdU
 pyU
+profile
 hrs
 hr
 house
@@ -10029,6 +10036,7 @@ bcd
 bfd
 bcc
 bba
+bash
 NumPy
 Nancy
 Num

@@ -5,16 +5,24 @@
       "path": "编程入门/Linux/鸟哥的Linux私房菜/10 认识与学习BASH.md"
     },
     {
+      "basename": "8 文件与文件系统的压缩_打包与备份",
+      "path": "编程入门/Linux/鸟哥的Linux私房菜/8 文件与文件系统的压缩_打包与备份.md"
+    },
+    {
+      "basename": "0 计算机概论",
+      "path": "编程入门/Linux/鸟哥的Linux私房菜/0 计算机概论.md"
+    },
+    {
+      "basename": "概述",
+      "path": "编程入门/Linux/概述.md"
+    },
+    {
       "basename": "vbird-linux-basic-4e",
       "path": "编程入门/Linux/vbird-linux-basic-4e.pdf"
     },
     {
       "basename": "9 vim程序编辑器",
       "path": "编程入门/Linux/鸟哥的Linux私房菜/9 vim程序编辑器.md"
-    },
-    {
-      "basename": "8 文件与文件系统的压缩_打包与备份",
-      "path": "编程入门/Linux/鸟哥的Linux私房菜/8 文件与文件系统的压缩_打包与备份.md"
     },
     {
       "basename": "7 Linux 磁盘与文件系统管理",
@@ -31,10 +39,6 @@
     {
       "basename": "4 首次登录与线上求助",
       "path": "编程入门/Linux/鸟哥的Linux私房菜/4 首次登录与线上求助.md"
-    },
-    {
-      "basename": "0 计算机概论",
-      "path": "编程入门/Linux/鸟哥的Linux私房菜/0 计算机概论.md"
     },
     {
       "basename": "Project4_Scheme",
@@ -191,10 +195,6 @@
     {
       "basename": "1. Getting Started",
       "path": "必学工具/Git/ProGit/1. Getting Started.md"
-    },
-    {
-      "basename": "2024-07-16",
-      "path": "01 日记/2024-07-16.md"
     }
   ],
   "omittedPaths": [],
