@@ -22,6 +22,7 @@ nested
 nano
 never
 nl
+non
 To
 Try
 Take
@@ -36,6 +37,7 @@ True
 Traverse
 This
 Thane
+TW
 do
 dl
 dinner
@@ -89,6 +91,7 @@ ls
 less
 lsattr
 locate
+login
 study
 surgery
 send
@@ -535,6 +538,7 @@ bc
 binary
 bashrc
 bits
+bash
 NumPy
 Nancy
 Num
@@ -716,6 +720,7 @@ Pairs
 Part
 Problem
 PATH
+PS
 yesterday
 year
 yield
@@ -768,3 +773,4 @@ Key
 Questions
 quiz
 XFS
+zh

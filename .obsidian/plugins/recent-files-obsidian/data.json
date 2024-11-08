@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "11 正则表达式与文件格式化处理",
+      "path": "编程入门/Linux/鸟哥的Linux私房菜/11 正则表达式与文件格式化处理.md"
+    },
+    {
       "basename": "10 认识与学习BASH",
       "path": "编程入门/Linux/鸟哥的Linux私房菜/10 认识与学习BASH.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "1. Getting Started",
       "path": "必学工具/Git/ProGit/1. Getting Started.md"
-    },
-    {
-      "basename": "2024-07-16",
-      "path": "01 日记/2024-07-16.md"
     }
   ],
   "omittedPaths": [],
