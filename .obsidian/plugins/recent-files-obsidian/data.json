@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "12 学习Shell Scripts",
+      "path": "编程入门/Linux/鸟哥的Linux私房菜/12 学习Shell Scripts.md"
+    },
+    {
       "basename": "11 正则表达式与文件格式化处理",
       "path": "编程入门/Linux/鸟哥的Linux私房菜/11 正则表达式与文件格式化处理.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "动手学深度学习",
       "path": "深度学习/动手学深度学习.md"
-    },
-    {
-      "basename": "1. Getting Started",
-      "path": "必学工具/Git/ProGit/1. Getting Started.md"
     }
   ],
   "omittedPaths": [],
