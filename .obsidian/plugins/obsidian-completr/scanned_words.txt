@@ -2014,6 +2014,7 @@ ldS
 lNH
 lgw
 linux
+lines
 study
 surgery
 send
@@ -2469,6 +2470,9 @@ spi
 syz
 sOv
 startxref
+scanned
+stdin
+stdout
 algebra
 abs
 after
@@ -7524,6 +7528,8 @@ ppWG
 pFY
 pERdEQTESt
 pub
+plugins
+profile
 hrs
 hr
 house
@@ -8737,6 +8743,7 @@ rZy
 rWC
 rev
 reWD
+recent
 School
 Science
 Sour
@@ -11197,6 +11204,7 @@ cef
 ceab
 cfc
 char
+completr
 Learn
 Li
 List
@@ -12289,6 +12297,7 @@ wzS
 wIb
 wjk
 word
+words
 Computer
 Changsha
 Ctrl

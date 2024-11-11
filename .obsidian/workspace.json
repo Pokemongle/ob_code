@@ -197,8 +197,11 @@
   },
   "active": "fd0166f48e265a99",
   "lastOpenFiles": [
-    "编程入门/Linux/鸟哥的Linux私房菜/10 认识与学习BASH.md",
+    "编程入门/Linux/鸟哥的Linux私房菜/12 学习Shell Scripts.md",
     "编程入门/Linux/鸟哥的Linux私房菜/12 Shell Scripts.md",
+    "编程入门/Linux/鸟哥的Linux私房菜/10 认识与学习BASH.md",
+    "conflict-files-obsidian-git.md",
+    "编程入门/Linux/概述.md",
     "编程入门/Linux/鸟哥的Linux私房菜/9 vim程序编辑器.md",
     "编程入门/Linux/鸟哥的Linux私房菜/11 正则表达式与文件格式化处理.md",
     "编程入门/Linux/vbird-linux-basic-4e.pdf",
@@ -214,7 +217,6 @@
     "编程入门/Linux/鸟哥的Linux私房菜/8 文件与文件系统的压缩_打包与备份.md",
     "编程入门/Linux/鸟哥的Linux私房菜/7 Linux 磁盘与文件系统管理.md",
     "编程入门/Linux/鸟哥的Linux私房菜/6 Linux文件与目录管理.md",
-    "conflict-files-obsidian-git.md",
     "编程入门/Python/UCB-CS61A/Course/Project/Project4_Scheme.md",
     "编程入门/Python/UCB-CS61A/Course/Disc/Disc11 Interpreter Tail Call.md",
     "编程入门/Linux/鸟哥的Linux私房菜/5 Linux的文件权限与目录配置.md",
@@ -231,7 +233,6 @@
     "编程入门/Python/UCB-CS61A/Course/Disc/Disc10 Scheme Lists.md",
     "编程入门/Python/UCB-CS61A/SICP/Chapter2.md",
     "编程入门/Python/UCB-CS61A/SICP/Chapter1.md",
-    "编程入门/Python/UCB-CS61A/Course/Lab/Lab10 Scheme.md",
     "未命名.canvas",
     "attachment/Pasted image 20230729013601.png"
   ]

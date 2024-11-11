@@ -85,5 +85,13 @@ vimtutor 的总结
 `:wq` 保存并退出
 `!command` 暂时退出编辑器并执行 `command`
 
+# 9.3 vim 的额外功能
+多窗口功能
+`:sp` 打开同一个文件
+`:sp FILENAME` 打开 `FILENAME`
+切换窗口
+`Ctrl+W` 之后按 `J` 或者 `K`
+=======
 ![image.png](https://raw.githubusercontent.com/Pokemongle/img_bed_0/main/img/20241105093525.png)
+
 

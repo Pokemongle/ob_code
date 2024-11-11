@@ -5,8 +5,8 @@
       "path": "编程入门/Linux/鸟哥的Linux私房菜/10 认识与学习BASH.md"
     },
     {
-      "basename": "12 Shell Scripts",
-      "path": "编程入门/Linux/鸟哥的Linux私房菜/12 Shell Scripts.md"
+      "basename": "12 学习Shell Scripts",
+      "path": "编程入门/Linux/鸟哥的Linux私房菜/12 学习Shell Scripts.md"
     },
     {
       "basename": "9 vim程序编辑器",
@@ -191,14 +191,6 @@
     {
       "basename": "2024-08-01",
       "path": "01 日记/2024-08-01.md"
-    },
-    {
-      "basename": "2024-08-14",
-      "path": "01 日记/2024-08-14.md"
-    },
-    {
-      "basename": "2024-08-15",
-      "path": "01 日记/2024-08-15.md"
     }
   ],
   "omittedPaths": [],
