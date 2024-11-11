@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "11 正则表达式与文件格式化处理",
-      "path": "编程入门/Linux/鸟哥的Linux私房菜/11 正则表达式与文件格式化处理.md"
-    },
-    {
       "basename": "10 认识与学习BASH",
       "path": "编程入门/Linux/鸟哥的Linux私房菜/10 认识与学习BASH.md"
     },
     {
+      "basename": "12 Shell Scripts",
+      "path": "编程入门/Linux/鸟哥的Linux私房菜/12 Shell Scripts.md"
+    },
+    {
       "basename": "9 vim程序编辑器",
       "path": "编程入门/Linux/鸟哥的Linux私房菜/9 vim程序编辑器.md"
+    },
+    {
+      "basename": "11 正则表达式与文件格式化处理",
+      "path": "编程入门/Linux/鸟哥的Linux私房菜/11 正则表达式与文件格式化处理.md"
+    },
+    {
+      "basename": "vbird-linux-basic-4e",
+      "path": "编程入门/Linux/vbird-linux-basic-4e.pdf"
     },
     {
       "basename": "8 文件与文件系统的压缩_打包与备份",
@@ -191,14 +199,6 @@
     {
       "basename": "2024-08-15",
       "path": "01 日记/2024-08-15.md"
-    },
-    {
-      "basename": "动手学深度学习",
-      "path": "深度学习/动手学深度学习.md"
-    },
-    {
-      "basename": "1. Getting Started",
-      "path": "必学工具/Git/ProGit/1. Getting Started.md"
     }
   ],
   "omittedPaths": [],
