@@ -1645,6 +1645,9 @@ dAO
 dwB
 djuZ
 dIkKbA
+described
+describe
+draw
 list
 linear
 learning
@@ -2015,6 +2018,7 @@ lNH
 lgw
 linux
 lines
+layers
 study
 surgery
 send
@@ -2473,6 +2477,12 @@ startxref
 scanned
 stdin
 stdout
+solves
+solve
+spoken
+simpler
+showing
+subjective
 algebra
 abs
 after
@@ -3929,6 +3939,7 @@ mVc
 mROh
 mZab
 mLcc
+mathematical
 oxygen
 other
 ok
@@ -4326,6 +4337,7 @@ oVY
 oYo
 ohc
 ohAI
+ones
 Funny
 Finally
 First
@@ -5140,6 +5152,9 @@ twaren
 tar
 true
 trailer
+tasks
+these
+top
 game
 gloves
 going
@@ -5548,6 +5563,8 @@ geS
 gsK
 gkY
 gll
+graph
+get
 finishing
 for
 final
@@ -5966,6 +5983,9 @@ ftp
 false
 fda
 fdbea
+formal
+formally
+faces
 MIT
 Morning
 Min
@@ -7188,6 +7208,7 @@ DEh
 DBX
 Djq
 DocICV
+Deep
 plastic
 piano
 print
@@ -7530,6 +7551,9 @@ pERdEQTESt
 pub
 plugins
 profile
+problems
+people
+perform
 hrs
 hr
 house
@@ -8350,6 +8374,7 @@ Eyz
 ECBA
 ECA
 EOF
+Early
 rent
 request
 run
@@ -8744,6 +8769,8 @@ rWC
 rev
 reWD
 recent
+rules
+recognize
 School
 Science
 Sour
@@ -9613,6 +9640,8 @@ iCI
 iCM
 ixWk
 ise
+images
+intuitive
 but
 burpee
 brought
@@ -10003,6 +10032,8 @@ bcd
 bfd
 bcc
 bba
+building
+built
 NumPy
 Nancy
 Num
@@ -11205,6 +11236,9 @@ ceab
 cfc
 char
 completr
+complicated
+concepts
+computer
 Learn
 Li
 List
@@ -11514,6 +11548,7 @@ LJY
 LVb
 Lin
 LastModified
+Learning
 Afternoon
 AI
 Achieved
@@ -12668,6 +12703,7 @@ CXN
 CuIc
 CreationDate
 Creator
+Challenge
 Had
 Hot
 Have
@@ -18309,6 +18345,7 @@ knZsS
 klF
 ksu
 kRp
+knowledge
 Key
 Kids
 Ki
