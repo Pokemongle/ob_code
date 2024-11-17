@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "动手学深度学习",
+      "path": "深度学习/动手学深度学习.md"
+    },
+    {
+      "basename": "2024-11-11",
+      "path": "01 日记/2024-11-11.md"
+    },
+    {
       "basename": "12 学习Shell Scripts",
       "path": "编程入门/Linux/鸟哥的Linux私房菜/12 学习Shell Scripts.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "2024-08-14",
       "path": "01 日记/2024-08-14.md"
-    },
-    {
-      "basename": "2024-08-15",
-      "path": "01 日记/2024-08-15.md"
-    },
-    {
-      "basename": "动手学深度学习",
-      "path": "深度学习/动手学深度学习.md"
     }
   ],
   "omittedPaths": [],
