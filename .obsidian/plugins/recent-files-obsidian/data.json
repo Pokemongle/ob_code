@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "ch1_Introduction",
+      "path": "深度学习/UMich_DL_CV/ch1_Introduction.md"
+    },
+    {
       "basename": "动手学深度学习",
       "path": "深度学习/动手学深度学习.md"
     },
@@ -191,14 +195,6 @@
     {
       "basename": "2024-07-31",
       "path": "01 日记/2024-07-31.md"
-    },
-    {
-      "basename": "2024-08-01",
-      "path": "01 日记/2024-08-01.md"
-    },
-    {
-      "basename": "2024-08-14",
-      "path": "01 日记/2024-08-14.md"
     }
   ],
   "omittedPaths": [],

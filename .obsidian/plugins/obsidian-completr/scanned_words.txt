@@ -1650,6 +1650,11 @@ dAO
 dwB
 djuZ
 dIkKbA
+described
+describe
+draw
+delivery
+difficult
 list
 linear
 learning
@@ -2020,6 +2025,7 @@ lgw
 linux
 login
 lines
+layers
 study
 surgery
 send
@@ -2481,6 +2487,13 @@ startxref
 scripts
 stdin
 stdout
+solves
+solve
+spoken
+simpler
+showing
+subjective
+should
 algebra
 abs
 after
@@ -3326,6 +3339,8 @@ eja
 eEw
 edu
 etc
+extracting
+extracted
 min
 make
 mini
@@ -3942,6 +3957,7 @@ mVc
 mROh
 mZab
 mLcc
+mathematical
 oxygen
 other
 ok
@@ -4342,6 +4358,7 @@ oVY
 oYo
 ohc
 ohAI
+ones
 Funny
 Finally
 First
@@ -5155,6 +5172,9 @@ tar
 true
 trailer
 tLP
+tasks
+these
+top
 game
 gloves
 going
@@ -5565,6 +5585,7 @@ gsK
 gkY
 gll
 gme
+get
 finishing
 for
 final
@@ -5986,6 +6007,11 @@ ftp
 false
 fda
 fdbea
+formal
+formally
+faces
+feature
+features
 MIT
 Morning
 Min
@@ -6463,6 +6489,7 @@ Mol
 MWZ
 Multiply
 MRd
+Machine
 Record
 Review
 RA
@@ -7215,6 +7242,7 @@ DEh
 DBX
 Djq
 DocICV
+Deep
 plastic
 piano
 print
@@ -7559,6 +7587,11 @@ pub
 pdU
 pyU
 profile
+problems
+people
+perform
+patterns
+piece
 hrs
 hr
 house
@@ -8378,6 +8411,7 @@ EJy
 EOh
 Eyz
 EOF
+Early
 rent
 request
 run
@@ -8773,6 +8807,10 @@ rWC
 rev
 reWD
 rCo
+rules
+recognize
+raw
+relevant
 School
 Science
 Sour
@@ -9645,6 +9683,9 @@ iCI
 iCM
 ixWk
 ise
+images
+intuitive
+information
 but
 burpee
 brought
@@ -10038,6 +10079,8 @@ bfd
 bcc
 bba
 bash
+building
+built
 NumPy
 Nancy
 Num
@@ -11236,6 +11279,10 @@ cuL
 cis
 cef
 ceab
+complicated
+concepts
+computer
+cesarean
 Learn
 Li
 List
@@ -11546,6 +11593,7 @@ LVb
 Lin
 LastModified
 LWeo
+Learning
 Afternoon
 AI
 Achieved
@@ -12332,6 +12380,8 @@ wzS
 wIb
 wjk
 wNU
+whether
+what
 Computer
 Changsha
 Ctrl
@@ -12706,6 +12756,7 @@ CreationDate
 Creator
 CEF
 CAk
+Challenge
 Had
 Hot
 Have
@@ -18366,6 +18417,8 @@ klF
 ksu
 kernel
 kRp
+knowledge
+know
 Key
 Kids
 Ki
@@ -19594,6 +19647,7 @@ qMK
 qor
 qjqJ
 qjez
+question
 XFS
 XML
 XObject
