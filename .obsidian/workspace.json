@@ -88,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 294.5
+    "width": 294.5,
+    "collapsed": true
   },
   "right": {
     "id": "1bd954b4346845fe",
@@ -192,7 +193,7 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "3a8201c8c12fa4cb",
+  "active": "45c3c81a194a5326",
   "lastOpenFiles": [
     "html5_css3/heima",
     "hku/thesis_reading/CelloType_a unified model for segmentation  and classification of tissue images.md",
