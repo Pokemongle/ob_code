@@ -1245,6 +1245,7 @@ Transparency
 TYPE
 TEXT
 Today
+Terminology
 do
 dl
 dinner
@@ -1655,6 +1656,7 @@ describe
 draw
 delivery
 difficult
+designed
 list
 linear
 learning
@@ -2494,6 +2496,9 @@ simpler
 showing
 subjective
 should
+segmentation
+spatial
+sequentially
 algebra
 abs
 after
@@ -2822,6 +2827,10 @@ aje
 asR
 acf
 abe
+autoencoder
+analysis
+analytes
+annotation
 exercise
 ee
 edit
@@ -3958,6 +3967,9 @@ mROh
 mZab
 mLcc
 mathematical
+mapping
+methods
+molecular
 oxygen
 other
 ok
@@ -4359,6 +4371,8 @@ oYo
 ohc
 ohAI
 ones
+omics
+outperforms
 Funny
 Finally
 First
@@ -5175,6 +5189,8 @@ tLP
 tasks
 these
 top
+typical
+type
 game
 gloves
 going
@@ -6895,6 +6911,7 @@ Rect
 RIKV
 Root
 RBD
+Representation
 Do
 Day
 Did
@@ -7592,6 +7609,7 @@ people
 perform
 patterns
 piece
+pipelines
 hrs
 hr
 house
@@ -8811,6 +8829,7 @@ rules
 recognize
 raw
 relevant
+representation
 School
 Science
 Sour
@@ -9686,6 +9705,8 @@ ise
 images
 intuitive
 information
+itself
+image
 but
 burpee
 brought
@@ -10081,6 +10102,7 @@ bba
 bash
 building
 built
+based
 NumPy
 Nancy
 Num
@@ -11283,6 +11305,8 @@ complicated
 concepts
 computer
 cesarean
+cell
+classification
 Learn
 Li
 List
@@ -12382,6 +12406,7 @@ wjk
 wNU
 whether
 what
+workflow
 Computer
 Changsha
 Ctrl
@@ -12757,6 +12782,8 @@ Creator
 CEF
 CAk
 Challenge
+CelloType
+Conventional
 Had
 Hot
 Have
@@ -19648,6 +19675,7 @@ qor
 qjqJ
 qjez
 question
+quantification
 XFS
 XML
 XObject

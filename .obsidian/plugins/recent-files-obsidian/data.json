@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "part1-html标签",
+      "path": "html5_css3/part1-html标签.md"
+    },
+    {
+      "basename": "CelloType_a unified model for segmentation  and classification of tissue images",
+      "path": "hku/thesis_reading/CelloType_a unified model for segmentation  and classification of tissue images.md"
+    },
+    {
       "basename": "ch1_Introduction",
       "path": "深度学习/UMich_DL_CV/ch1_Introduction.md"
     },
@@ -191,10 +199,6 @@
     {
       "basename": "2024-07-20",
       "path": "01 日记/2024-07-20.md"
-    },
-    {
-      "basename": "2024-07-31",
-      "path": "01 日记/2024-07-31.md"
     }
   ],
   "omittedPaths": [],
