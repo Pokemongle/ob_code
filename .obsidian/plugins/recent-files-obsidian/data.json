@@ -1,12 +1,76 @@
 {
   "recentFiles": [
     {
-      "basename": "part1-html标签",
-      "path": "html5_css3/part1-html标签.md"
+      "basename": "cuisine",
+      "path": "have_fun/cuisine.md"
+    },
+    {
+      "basename": "ppt_test",
+      "path": "00 Obsidian使用教程/ppt_test.md"
+    },
+    {
+      "basename": "Markdown语法示例",
+      "path": "00 Obsidian使用教程/Markdown语法示例.md"
+    },
+    {
+      "basename": "双链示例",
+      "path": "00 Obsidian使用教程/双链示例.md"
+    },
+    {
+      "basename": "使用技巧",
+      "path": "00 Obsidian使用教程/使用技巧.md"
+    },
+    {
+      "basename": "插件",
+      "path": "00 Obsidian使用教程/插件.md"
+    },
+    {
+      "basename": "4 首次登录与线上求助",
+      "path": "编程入门/Linux/鸟哥的Linux私房菜/4 首次登录与线上求助.md"
+    },
+    {
+      "basename": "5 Linux的文件权限与目录配置",
+      "path": "编程入门/Linux/鸟哥的Linux私房菜/5 Linux的文件权限与目录配置.md"
+    },
+    {
+      "basename": "6 Linux文件与目录管理",
+      "path": "编程入门/Linux/鸟哥的Linux私房菜/6 Linux文件与目录管理.md"
+    },
+    {
+      "basename": "7 Linux 磁盘与文件系统管理",
+      "path": "编程入门/Linux/鸟哥的Linux私房菜/7 Linux 磁盘与文件系统管理.md"
+    },
+    {
+      "basename": "8 文件与文件系统的压缩_打包与备份",
+      "path": "编程入门/Linux/鸟哥的Linux私房菜/8 文件与文件系统的压缩_打包与备份.md"
+    },
+    {
+      "basename": "10 认识与学习BASH",
+      "path": "编程入门/Linux/鸟哥的Linux私房菜/10 认识与学习BASH.md"
+    },
+    {
+      "basename": "11 正则表达式与文件格式化处理",
+      "path": "编程入门/Linux/鸟哥的Linux私房菜/11 正则表达式与文件格式化处理.md"
+    },
+    {
+      "basename": "12 学习Shell Scripts",
+      "path": "编程入门/Linux/鸟哥的Linux私房菜/12 学习Shell Scripts.md"
+    },
+    {
+      "basename": "9 vim程序编辑器",
+      "path": "编程入门/Linux/鸟哥的Linux私房菜/9 vim程序编辑器.md"
     },
     {
       "basename": "CelloType_a unified model for segmentation  and classification of tissue images",
       "path": "hku/thesis_reading/CelloType_a unified model for segmentation  and classification of tissue images.md"
+    },
+    {
+      "basename": "related docs",
+      "path": "hku/P_WSI/related docs.md"
+    },
+    {
+      "basename": "part1-html标签",
+      "path": "html5_css3/part1-html标签.md"
     },
     {
       "basename": "ch1_Introduction",
@@ -21,22 +85,6 @@
       "path": "01 日记/2024-11-11.md"
     },
     {
-      "basename": "12 学习Shell Scripts",
-      "path": "编程入门/Linux/鸟哥的Linux私房菜/12 学习Shell Scripts.md"
-    },
-    {
-      "basename": "11 正则表达式与文件格式化处理",
-      "path": "编程入门/Linux/鸟哥的Linux私房菜/11 正则表达式与文件格式化处理.md"
-    },
-    {
-      "basename": "10 认识与学习BASH",
-      "path": "编程入门/Linux/鸟哥的Linux私房菜/10 认识与学习BASH.md"
-    },
-    {
-      "basename": "8 文件与文件系统的压缩_打包与备份",
-      "path": "编程入门/Linux/鸟哥的Linux私房菜/8 文件与文件系统的压缩_打包与备份.md"
-    },
-    {
       "basename": "0 计算机概论",
       "path": "编程入门/Linux/鸟哥的Linux私房菜/0 计算机概论.md"
     },
@@ -47,26 +95,6 @@
     {
       "basename": "vbird-linux-basic-4e",
       "path": "编程入门/Linux/vbird-linux-basic-4e.pdf"
-    },
-    {
-      "basename": "9 vim程序编辑器",
-      "path": "编程入门/Linux/鸟哥的Linux私房菜/9 vim程序编辑器.md"
-    },
-    {
-      "basename": "7 Linux 磁盘与文件系统管理",
-      "path": "编程入门/Linux/鸟哥的Linux私房菜/7 Linux 磁盘与文件系统管理.md"
-    },
-    {
-      "basename": "6 Linux文件与目录管理",
-      "path": "编程入门/Linux/鸟哥的Linux私房菜/6 Linux文件与目录管理.md"
-    },
-    {
-      "basename": "5 Linux的文件权限与目录配置",
-      "path": "编程入门/Linux/鸟哥的Linux私房菜/5 Linux的文件权限与目录配置.md"
-    },
-    {
-      "basename": "4 首次登录与线上求助",
-      "path": "编程入门/Linux/鸟哥的Linux私房菜/4 首次登录与线上求助.md"
     },
     {
       "basename": "Project4_Scheme",
@@ -171,34 +199,6 @@
     {
       "basename": "2024-07-06-I hate power drill",
       "path": "01 日记/2024-07/wk1/2024-07-06-I hate power drill.md"
-    },
-    {
-      "basename": "2024-07-07-Sleepy but need to learn AI",
-      "path": "01 日记/2024-07/wk1/2024-07-07-Sleepy but need to learn AI.md"
-    },
-    {
-      "basename": "2024-04-16",
-      "path": "01 日记/2024-04-16.md"
-    },
-    {
-      "basename": "2023-07-29",
-      "path": "01 日记/2023-07-29.md"
-    },
-    {
-      "basename": "2024-07-12",
-      "path": "01 日记/2024-07-12.md"
-    },
-    {
-      "basename": "2024-07-13",
-      "path": "01 日记/2024-07-13.md"
-    },
-    {
-      "basename": "2024-07-14",
-      "path": "01 日记/2024-07-14.md"
-    },
-    {
-      "basename": "2024-07-20",
-      "path": "01 日记/2024-07-20.md"
     }
   ],
   "omittedPaths": [],

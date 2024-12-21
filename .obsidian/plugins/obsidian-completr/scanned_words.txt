@@ -1657,6 +1657,8 @@ draw
 delivery
 difficult
 designed
+detect
+don
 list
 linear
 learning
@@ -2028,6 +2030,9 @@ linux
 login
 lines
 layers
+less
+lsattr
+locate
 study
 surgery
 send
@@ -2499,6 +2504,10 @@ should
 segmentation
 spatial
 sequentially
+status
+secret
+spies
+sees
 algebra
 abs
 after
@@ -2831,6 +2840,8 @@ autoencoder
 analysis
 analytes
 annotation
+atime
+acts
 exercise
 ee
 edit
@@ -3350,6 +3361,8 @@ edu
 etc
 extracting
 extracted
+echo
+everything
 min
 make
 mini
@@ -3970,6 +3983,8 @@ mathematical
 mapping
 methods
 molecular
+more
+mtime
 oxygen
 other
 ok
@@ -4373,6 +4388,8 @@ ohAI
 ones
 omics
 outperforms
+oCc
+ordinary
 Funny
 Finally
 First
@@ -4760,6 +4777,7 @@ FokD
 FicVmlG
 FSuN
 Form
+FILE
 things
 to
 transcript
@@ -5191,6 +5209,10 @@ these
 top
 typical
 type
+tac
+touch
+tmp
+terror
 game
 gloves
 going
@@ -5602,6 +5624,8 @@ gkY
 gll
 gme
 get
+govenment
+government
 finishing
 for
 final
@@ -6506,6 +6530,8 @@ MWZ
 Multiply
 MRd
 Machine
+Mindmap
+Markdown
 Record
 Review
 RA
@@ -7985,6 +8011,8 @@ hDF
 hBa
 hRy
 hBI
+head
+hour
 English
 Evening
 Electrical
@@ -8430,6 +8458,7 @@ EOh
 Eyz
 EOF
 Early
+Enter
 rent
 request
 run
@@ -9193,6 +9222,7 @@ Subj
 Size
 SCC
 Shell
+SUID
 is
 instant
 into
@@ -9707,6 +9737,7 @@ intuitive
 information
 itself
 image
+irrelevant
 but
 burpee
 brought
@@ -10103,6 +10134,8 @@ bash
 building
 built
 based
+bashrc
+being
 NumPy
 Nancy
 Num
@@ -10415,6 +10448,7 @@ NjY
 NPN
 NKgC
 Normal
+NUMBER
 uws
 use
 up
@@ -10885,6 +10919,8 @@ uvu
 ufn
 uiV
 uZH
+umask
+updatedb
 cs
 climbing
 code
@@ -11307,6 +11343,15 @@ computer
 cesarean
 cell
 classification
+cat
+conf
+ctime
+chown
+chmod
+chapter
+chattr
+crime
+consider
 Learn
 Li
 List
@@ -11950,6 +11995,7 @@ Annot
 Action
 AIS
 Aqr
+Annex
 work
 with
 we
@@ -12407,6 +12453,8 @@ wNU
 whether
 what
 workflow
+whereis
+watched
 Computer
 Changsha
 Ctrl
@@ -14271,6 +14319,7 @@ BMsd
 Border
 BVQ
 BASH
+Background
 Pot
 Poor
 Poops
@@ -15058,6 +15107,7 @@ ygN
 yByRyJyZyFyVyNy
 yAyQyIyYY
 ytU
+you
 ve
 vfs
 video
@@ -17644,6 +17694,7 @@ VBk
 VWX
 VCf
 VMz
+Violent
 Just
 JFIF
 JPEG
@@ -18446,6 +18497,7 @@ kernel
 kRp
 knowledge
 know
+keyword
 Key
 Kids
 Ki
@@ -21440,6 +21492,7 @@ YhTUR
 YmQ
 YxYd
 YtV
+You
 ÄD
 Äy
 ÄF

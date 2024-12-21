@@ -61,7 +61,12 @@ vscode 快捷键
 		- 内部链接同一个文件夹中的
 		- ***空链接*** `href="#"`
 		- ***下载链接*** `href=".exe或.zip"`
+		- ***锚点链接*** `href="#two"` 井号后面接标签
+			- 目标位置可以添加标签属性 `<h3 id="two">`
 	- `target` 窗口弹出方式
 		- `_self` 为默认值
 		- `_blank` 为在新窗口中打开方式
-	- 
+- 注释标签 `<!-- content -->`
+- 特殊字符
+	- `&` 开头 `;` 结尾
+	![image.png](https://cdn.jsdelivr.net/gh/Pokemongle/img_bed_0@main/img/202412061236288.png)
