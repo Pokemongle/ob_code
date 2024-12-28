@@ -1,6 +1,86 @@
 {
   "recentFiles": [
     {
+      "basename": "Mental Bumps",
+      "path": "01 日记/Mental Bumps.md"
+    },
+    {
+      "basename": "2024-12-29",
+      "path": "01 日记/2024-12/2024-12-29.md"
+    },
+    {
+      "basename": "日记模板",
+      "path": "00 模板/日记模板.md"
+    },
+    {
+      "basename": "75 soft - Ziyue Xiong",
+      "path": "01 日记/75 soft - Ziyue Xiong.md"
+    },
+    {
+      "basename": "related docs",
+      "path": "hku/P_WSI/related docs.md"
+    },
+    {
+      "basename": "CelloType_a unified model for segmentation  and classification of tissue images",
+      "path": "hku/thesis_reading/CelloType_a unified model for segmentation  and classification of tissue images.md"
+    },
+    {
+      "basename": "2024-09-19",
+      "path": "02 English/2024-09-19.md"
+    },
+    {
+      "basename": "配置服务器环境",
+      "path": "hku/P_WSI/配置服务器环境.md"
+    },
+    {
+      "basename": "6 Linux文件与目录管理",
+      "path": "编程入门/Linux/鸟哥的Linux私房菜/6 Linux文件与目录管理.md"
+    },
+    {
+      "basename": "5 Linux的文件权限与目录配置",
+      "path": "编程入门/Linux/鸟哥的Linux私房菜/5 Linux的文件权限与目录配置.md"
+    },
+    {
+      "basename": "4 首次登录与线上求助",
+      "path": "编程入门/Linux/鸟哥的Linux私房菜/4 首次登录与线上求助.md"
+    },
+    {
+      "basename": "0 计算机概论",
+      "path": "编程入门/Linux/鸟哥的Linux私房菜/0 计算机概论.md"
+    },
+    {
+      "basename": "3 安装ubuntu22.04LTS",
+      "path": "编程入门/Linux/鸟哥的Linux私房菜/3 安装ubuntu22.04LTS.md"
+    },
+    {
+      "basename": "9 vim程序编辑器",
+      "path": "编程入门/Linux/鸟哥的Linux私房菜/9 vim程序编辑器.md"
+    },
+    {
+      "basename": "Vim",
+      "path": "必学工具/Vim.md"
+    },
+    {
+      "basename": "12.18-12.24",
+      "path": "hku/P_WSI/12.18-12.24.md"
+    },
+    {
+      "basename": "Markdown语法示例",
+      "path": "00 Obsidian使用教程/Markdown语法示例.md"
+    },
+    {
+      "basename": "使用技巧",
+      "path": "00 Obsidian使用教程/使用技巧.md"
+    },
+    {
+      "basename": "双链示例",
+      "path": "00 Obsidian使用教程/双链示例.md"
+    },
+    {
+      "basename": "part1-html标签",
+      "path": "html5_css3/part1-html标签.md"
+    },
+    {
       "basename": "cuisine",
       "path": "have_fun/cuisine.md"
     },
@@ -9,32 +89,8 @@
       "path": "00 Obsidian使用教程/ppt_test.md"
     },
     {
-      "basename": "Markdown语法示例",
-      "path": "00 Obsidian使用教程/Markdown语法示例.md"
-    },
-    {
-      "basename": "双链示例",
-      "path": "00 Obsidian使用教程/双链示例.md"
-    },
-    {
-      "basename": "使用技巧",
-      "path": "00 Obsidian使用教程/使用技巧.md"
-    },
-    {
       "basename": "插件",
       "path": "00 Obsidian使用教程/插件.md"
-    },
-    {
-      "basename": "4 首次登录与线上求助",
-      "path": "编程入门/Linux/鸟哥的Linux私房菜/4 首次登录与线上求助.md"
-    },
-    {
-      "basename": "5 Linux的文件权限与目录配置",
-      "path": "编程入门/Linux/鸟哥的Linux私房菜/5 Linux的文件权限与目录配置.md"
-    },
-    {
-      "basename": "6 Linux文件与目录管理",
-      "path": "编程入门/Linux/鸟哥的Linux私房菜/6 Linux文件与目录管理.md"
     },
     {
       "basename": "7 Linux 磁盘与文件系统管理",
@@ -57,22 +113,6 @@
       "path": "编程入门/Linux/鸟哥的Linux私房菜/12 学习Shell Scripts.md"
     },
     {
-      "basename": "9 vim程序编辑器",
-      "path": "编程入门/Linux/鸟哥的Linux私房菜/9 vim程序编辑器.md"
-    },
-    {
-      "basename": "CelloType_a unified model for segmentation  and classification of tissue images",
-      "path": "hku/thesis_reading/CelloType_a unified model for segmentation  and classification of tissue images.md"
-    },
-    {
-      "basename": "related docs",
-      "path": "hku/P_WSI/related docs.md"
-    },
-    {
-      "basename": "part1-html标签",
-      "path": "html5_css3/part1-html标签.md"
-    },
-    {
       "basename": "ch1_Introduction",
       "path": "深度学习/UMich_DL_CV/ch1_Introduction.md"
     },
@@ -82,11 +122,7 @@
     },
     {
       "basename": "2024-11-11",
-      "path": "01 日记/2024-11-11.md"
-    },
-    {
-      "basename": "0 计算机概论",
-      "path": "编程入门/Linux/鸟哥的Linux私房菜/0 计算机概论.md"
+      "path": "01 日记/2024-11/2024-11-11.md"
     },
     {
       "basename": "概述",
@@ -163,42 +199,6 @@
     {
       "basename": "Disc06",
       "path": "编程入门/Python/UCB-CS61A/Course/Disc/Disc06.md"
-    },
-    {
-      "basename": "概览",
-      "path": "编程入门/Python/概览.md"
-    },
-    {
-      "basename": "hw04_Python Lists, Object-Oriented Programming",
-      "path": "编程入门/Python/UCB-CS61A/Course/Hw/hw04_Python Lists, Object-Oriented Programming.md"
-    },
-    {
-      "basename": "2024-09-19",
-      "path": "02 English/2024-09-19.md"
-    },
-    {
-      "basename": "The Geometry of Linear Equations",
-      "path": "数学基础/MIT18.06 Linear Algebra/Unix I - Ax=b and the four subspaces/The Geometry of Linear Equations.md"
-    },
-    {
-      "basename": "2024-07-02 Day2 in roommates' dormitory",
-      "path": "01 日记/2024-07/wk1/2024-07-02 Day2 in roommates' dormitory.md"
-    },
-    {
-      "basename": "2024-07-03 Try to learn",
-      "path": "01 日记/2024-07/wk1/2024-07-03 Try to learn.md"
-    },
-    {
-      "basename": "2024-07-04 Do not stay up too lat",
-      "path": "01 日记/2024-07/wk1/2024-07-04 Do not stay up too lat.md"
-    },
-    {
-      "basename": "2024-07-05 Have a nice day!",
-      "path": "01 日记/2024-07/wk1/2024-07-05 Have a nice day!.md"
-    },
-    {
-      "basename": "2024-07-06-I hate power drill",
-      "path": "01 日记/2024-07/wk1/2024-07-06-I hate power drill.md"
     }
   ],
   "omittedPaths": [],
