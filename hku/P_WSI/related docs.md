@@ -49,22 +49,22 @@ project_root/
 │   └── ...
 │
 ├── results/
-│   ├── dataset1/
-│   │   ├── model1/
+│   ├── model1/
+│   │   ├── dataset1/
 │   │   │   	├── fold_1_metrics.json
 │   │   │   	├── fold_2_metrics.json
 │   │   │   	└── ...
-│   │   ├── model2/
+│   │   ├── dataset2/
 │   │   │   	├── fold_1_metrics.json
 │   │   │   	├── fold_2_metrics.json
 │   │   │   	└── ...
 │   │   └── ...
-│   ├── dataset2/
-│   │   ├── model1/
+│   ├── model2/
+│   │   ├── dataset1/
 │   │   │   	├── fold_1_metrics.json
 │   │   │   	├── fold_2_metrics.json
 │   │   │   	└── ...
-│   │   ├── model2/
+│   │   ├── dataset2/
 │   │   │   	├── fold_1_metrics.json
 │   │   │   	├── fold_2_metrics.json
 │   │   │   	└── ...
