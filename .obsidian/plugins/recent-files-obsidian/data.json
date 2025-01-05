@@ -1,24 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "Mental Bumps",
-      "path": "01 日记/Mental Bumps.md"
+      "basename": "related docs",
+      "path": "hku/P_WSI/related docs.md"
+    },
+    {
+      "basename": "2024-12-30",
+      "path": "01 日记/2024-12/2024-12-30.md"
     },
     {
       "basename": "2024-12-29",
       "path": "01 日记/2024-12/2024-12-29.md"
     },
     {
-      "basename": "日记模板",
-      "path": "00 模板/日记模板.md"
+      "basename": "Mental Bumps",
+      "path": "01 日记/Mental Bumps.md"
     },
     {
       "basename": "75 soft - Ziyue Xiong",
       "path": "01 日记/75 soft - Ziyue Xiong.md"
     },
     {
-      "basename": "related docs",
-      "path": "hku/P_WSI/related docs.md"
+      "basename": "日记模板",
+      "path": "00 模板/日记模板.md"
     },
     {
       "basename": "CelloType_a unified model for segmentation  and classification of tissue images",
@@ -195,10 +199,6 @@
     {
       "basename": "Lab 0",
       "path": "编程入门/Python/UCB-CS61A/Course/Lab/Lab 0.md"
-    },
-    {
-      "basename": "Disc06",
-      "path": "编程入门/Python/UCB-CS61A/Course/Disc/Disc06.md"
     }
   ],
   "omittedPaths": [],

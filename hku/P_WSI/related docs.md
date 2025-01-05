@@ -21,3 +21,58 @@ WSI 的生成和存储
 
 # Annex 2-Methodology
 ## Task1_Whole slide image pre-processing and test-time normalization
+
+`ssh -N -f -L localhost:8888:localhost:8888 zyxiong@research25.saas.hku.hk`
+
+---
+p_wsi 工程文件目录
+```
+project_root/
+│
+├── datasets/
+│   ├── dataset1/
+│   │   ├── train/
+│   │   ├── val/
+│   │   └── test/
+│   ├── dataset2/
+│   │   ├── train/
+│   │   ├── val/
+│   │   └── test/
+│   └── ...
+│
+├── models/
+│   ├── model_name1/
+│   │   ├── checkpoint_epoch_1.pth
+│   │   ├── checkpoint_epoch_2.pth
+│   │   └── ...
+│   ├── model_name2/
+│   └── ...
+│
+├── results/
+│   ├── dataset1/
+│   │   ├── model1/
+│   │   │   	├── fold_1_metrics.json
+│   │   │   	├── fold_2_metrics.json
+│   │   │   	└── ...
+│   │   ├── model2/
+│   │   │   	├── fold_1_metrics.json
+│   │   │   	├── fold_2_metrics.json
+│   │   │   	└── ...
+│   │   └── ...
+│   ├── dataset2/
+│   │   ├── model1/
+│   │   │   	├── fold_1_metrics.json
+│   │   │   	├── fold_2_metrics.json
+│   │   │   	└── ...
+│   │   ├── model2/
+│   │   │   	├── fold_1_metrics.json
+│   │   │   	├── fold_2_metrics.json
+│   │   │   	└── ...
+│   │   └── ...
+│   └── ...
+└── scripts/
+    ├── train.py
+    ├── test.py
+    └── utils.py
+
+```
