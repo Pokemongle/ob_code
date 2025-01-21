@@ -5,6 +5,18 @@
       "path": "hku/P_WSI/related docs.md"
     },
     {
+      "basename": "配置服务器环境",
+      "path": "hku/P_WSI/配置服务器环境.md"
+    },
+    {
+      "basename": "12.18-12.24",
+      "path": "hku/P_WSI/12.18-12.24.md"
+    },
+    {
+      "basename": "2025-01-07",
+      "path": "01 日记/2025-01-07.md"
+    },
+    {
       "basename": "2024-12-30",
       "path": "01 日记/2024-12/2024-12-30.md"
     },
@@ -33,10 +45,6 @@
       "path": "02 English/2024-09-19.md"
     },
     {
-      "basename": "配置服务器环境",
-      "path": "hku/P_WSI/配置服务器环境.md"
-    },
-    {
       "basename": "6 Linux文件与目录管理",
       "path": "编程入门/Linux/鸟哥的Linux私房菜/6 Linux文件与目录管理.md"
     },
@@ -63,10 +71,6 @@
     {
       "basename": "Vim",
       "path": "必学工具/Vim.md"
-    },
-    {
-      "basename": "12.18-12.24",
-      "path": "hku/P_WSI/12.18-12.24.md"
     },
     {
       "basename": "Markdown语法示例",
@@ -195,10 +199,6 @@
     {
       "basename": "考研万年历",
       "path": "have_fun/考研万年历.md"
-    },
-    {
-      "basename": "Lab 0",
-      "path": "编程入门/Python/UCB-CS61A/Course/Lab/Lab 0.md"
     }
   ],
   "omittedPaths": [],

@@ -76,3 +76,12 @@ project_root/
     └── utils.py
 
 ```
+
+我想要使用这个方法来进行k-fold：方案2：使用验证集调整超参数目的：这种方法的目的是选出一个在验证集上表现最好的模型，然后使用更多的数据来进一步训练这个模型，以提高其在测试集上的性能。过程： 将数据集分为训练集、验证集和测试集。对于每个模型，使用训练集进行训练，并在验证集上评估性能。根据验证集上的性能选择最好的模型。使用训练集和验证集的合并数据集来重新训练选定的模型。在测试集上评估最终模型的性能。
+One-Click Segmentation: Automatic segmentation of colorectal cancer regions in whole slide images. The segmentation results of the affected regions are displayed in different colors for easy visualization, as shown in Figure 12 below.
+
+One-Click Tumor Classification: Automatic classification of tumor regions within patches of colorectal cancer whole slide images. The system traverses the WSI from top-left to bottom-right, compiles individual patch classifications of the WSI. The classification results of the patches are displayed in 
+
+One-Click Survival Prediction: Automatically provide a comprehensive prediction of the colorectal cancer patients' survival chances of 2 or 5 years based on the tumor's features as observed in the whole slide image. The system can provide a prognosis that reflects the overall behavior of the tumor, aiding in the determination of treatment strategies and patient counseling.
+
+删除的文件在 `~/.local/share`
