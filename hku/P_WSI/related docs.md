@@ -93,3 +93,25 @@ patch gcn 环境配置
 4. 安装 geometric 的依赖包 https://data.pyg.org/whl/torch-1.8.0%2Bcu111.html
 5. 安装 lifelines 和 sksurv ，搜索 conda lifelines 和 conda sksurv，里面有下载指令，用 conda 安装成功了不行就 `pip install scikit-survival`
 `export LD_LIBRARY_PATH="/home/zyxiong/anaconda3/lib/"`
+
+查看 jupyter kernel `jupyter kernelspec list` 
+删除一个 jupyter kernel `jupyter kernelspec remove myenv`
+添加一个 kernel 
+`conda install ipykernel`
+`python -m ipykernel install --user --name your_environment_name --display-name "Desired Kernel Name"`
+
+```
+export PATH=/usr/local/anaconda3/envs/patchgcn/bin:$PATH
+
+export CPATH=/usr/local/anaconda3/envs/patchgcn/include:$CPATH
+
+export LD_LIBRARY_PATH=/usr/local/anaconda3/envs/patchgcn/lib:$LD_LIBRARY_PATH
+
+export DYLD_LIBRARY_PATH=/usr/local/anaconda3/envs/patchgcn/lib64:$DYLD_LIBRARY_PATH
+
+```
+
+```
+# original CLAM
+python create_patches_fp.py --source /home/zyxiong/Documents/COAD_WSI --save_dir /home/zyxiong/Documents/COAD_patches_origin --patch_size 256 --seg --patch --stitch 
+```
