@@ -92,6 +92,10 @@ patch gcn 环境配置
 3. 安装 torch_geometric `pip install torch_geometric==1.6.3`
 4. 安装 geometric 的依赖包 https://data.pyg.org/whl/torch-1.8.0%2Bcu111.html
 5. 安装 lifelines 和 sksurv ，搜索 conda lifelines 和 conda sksurv，里面有下载指令，用 conda 安装成功了不行就 `pip install scikit-survival`
+```
+跑patchgcn项目
+CUDA_VISIBLE_DEVICES=1 python main.py --which_splits 5foldcv --split_dir tcga_coad --mode path --model_type amil
+```
 `export LD_LIBRARY_PATH="/home/zyxiong/anaconda3/lib/"`
 
 查看 jupyter kernel `jupyter kernelspec list` 
@@ -114,4 +118,9 @@ export DYLD_LIBRARY_PATH=/usr/local/anaconda3/envs/patchgcn/lib64:$DYLD_LIBRARY_
 ```
 # original CLAM
 python create_patches_fp.py --source /home/zyxiong/Documents/COAD_WSI --save_dir /home/zyxiong/Documents/COAD_patches_origin --patch_size 256 --seg --patch --stitch 
+
+# use CONCH
+export CONCH_CKPT_PATH=/home/zyxiong/Programs/CONCH/checkpoints/conch/pytorch_model.bin
+
+CUDA_VISIBLE_DEVICES=1 python extract_features_fp.py --data_h5_dir /home/zyxiong/Documents/COAD_patches_origin --data_slide_dir /home/zyxiong/Documents/COAD_WSI --csv_path /home/zyxiong/Documents/COAD_patches_origin/process_list_autogen.csv --feat_dir /home/zyxiong/Documents/COAD_patches_origin --batch_size 512 --slide_ext .svs --model_name "conch_v1"
 ```
