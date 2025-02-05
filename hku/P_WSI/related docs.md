@@ -87,20 +87,21 @@ One-Click Survival Prediction: Automatically provide a comprehensive prediction 
 删除的文件在 `~/.local/share`
 
 patch gcn 环境配置
-1. 第二，docs/requirements，`conda env update -n patchgcn --file docs/requirements.yaml`
+1. 第一，docs/requirements，`conda env update -n patchgcn --file docs/requirements.yaml`
 之后需要 `conda install "setuptools <65" ` 和 `pip install numpy=1.19.1` 为第2步做准备
 `conda env create -n patchgcn -f docs/requirements.yaml`
-3. 首先，创建一个 patchgcn 的空环境。安装 pytorch cuda 至少为11.1，因为使用了 GTX3090  https://pytorch.org/get-started/previous-versions/ `conda install pytorch==1.8.0 torchvision==0.9.0 torchaudio==0.8.0 cudatoolkit=11.1 -c pytorch -c conda-forge ` 不行就用``
+3. 然后，创建一个 patchgcn 的空环境。安装 pytorch cuda 至少为11.1，因为使用了 GTX3090  https://pytorch.org/get-started/previous-versions/ `conda install pytorch==1.8.0 torchvision==0.9.0 torchaudio==0.8.0 cudatoolkit=11.1 -c pytorch -c conda-forge ` 不行就用 ``
 `pip install torch==1.8.0+cu111 torchvision==0.9.0+cu111 torchaudio==0.8.0 -f https://download.pytorch.org/whl/torch_stable.html
 `
 4. 安装 geometric 的依赖包 https://data.pyg.org/whl/torch-1.8.0%2Bcu111.html
 5. 安装 torch_geometric `pip install torch_geometric`
-6. 安装 lifelines 和 sksurv ，搜索 conda lifelines 和 conda sksurv，里面有下载指令，用 conda 安装成功了不行就 `pip install scikit-survival`
+6. 安装 lifelines 和 sksurv ，搜索 conda lifelines 和 conda sksurv，里面有下载指令 `conda install conda-forge::lifelines`，用 conda 安装成功了不行就 `pip install scikit-survival`
+7. 把一个叫 libcur 啥啥的文件 copy 到 anaconda3/env/lib 和 anaconda3/env/my_env/lib 之后 `export LD_LIBRARY_PATH="/home/zyxiong/anaconda3/lib/"`
 ```
 跑patchgcn项目
 CUDA_VISIBLE_DEVICES=1 python main.py --which_splits 5foldcv --split_dir tcga_coad --mode path --model_type amil
 ```
-`export LD_LIBRARY_PATH="/home/zyxiong/anaconda3/lib/"`
+
 
 查看 jupyter kernel `jupyter kernelspec list` 
 删除一个 jupyter kernel `jupyter kernelspec remove myenv`
