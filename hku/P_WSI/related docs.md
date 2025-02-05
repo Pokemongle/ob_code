@@ -87,8 +87,8 @@ One-Click Survival Prediction: Automatically provide a comprehensive prediction 
 删除的文件在 `~/.local/share`
 
 patch gcn 环境配置
-1. docs/requirements
-2. 安装 pytorch cuda 至少为11.1，因为使用了 GTX3090  https://pytorch.org/get-started/previous-versions/ `conda install pytorch==1.8.0 torchvision==0.9.0 torchaudio==0.8.0 cudatoolkit=11.1 -c pytorch -c conda-forge ` 不行的话就试试 pip install
+1. 第二，docs/requirements，` conda env create -n patchgcn -f docs/requirements.yaml`
+2. 首先，安装 pytorch cuda 至少为11.1，因为使用了 GTX3090  https://pytorch.org/get-started/previous-versions/ `conda install pytorch==1.8.0 torchvision==0.9.0 torchaudio==0.8.0 cudatoolkit=11.1 -c pytorch -c conda-forge ` 不行的话就试试 pip install
 3. 安装 torch_geometric `pip install torch_geometric==1.6.3`
 4. 安装 geometric 的依赖包 https://data.pyg.org/whl/torch-1.8.0%2Bcu111.html
 5. 安装 lifelines 和 sksurv ，搜索 conda lifelines 和 conda sksurv，里面有下载指令，用 conda 安装成功了不行就 `pip install scikit-survival`
