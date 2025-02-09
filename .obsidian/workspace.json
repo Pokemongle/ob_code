@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9db5dc35f2115ca2",
+        "id": "37157854ef299181",
         "type": "tabs",
         "children": [
           {
-            "id": "5b5ec72d0d508093",
+            "id": "e40f51c4ce2eb381",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -83,8 +83,7 @@
               "title": "Recent Files"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -193,12 +192,12 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "1e6893e5de55476c",
+  "active": "e40f51c4ce2eb381",
   "lastOpenFiles": [
     "hku/P_WSI/配置服务器环境.md",
     "hku/P_WSI/12.18-12.24.md",
-    "01 日记/2025-01-07.md",
     "hku/P_WSI/related docs.md",
+    "01 日记/2025-01-07.md",
     "01 日记/2024-12/2024-12-30.md",
     "01 日记/2024-12/2024-12-29.md",
     "01 日记/Mental Bumps.md",

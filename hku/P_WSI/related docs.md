@@ -90,7 +90,7 @@ patch gcn 环境配置
 1. 第一，docs/requirements，`conda env update -n patchgcn --file docs/requirements.yaml`
 之后需要 `conda install "setuptools <65" ` 和 `pip install numpy=1.19.1` 为第2步做准备
 `conda env create -n patchgcn -f docs/requirements.yaml`
-3. 然后，创建一个 patchgcn 的空环境。安装 pytorch cuda 至少为11.1，因为使用了 GTX3090  https://pytorch.org/get-started/previous-versions/ `conda install pytorch==1.8.0 torchvision==0.9.0 torchaudio==0.8.0 cudatoolkit=11.1 -c pytorch -c conda-forge ` 不行就用 ``
+3. 安装 pytorch cuda 至少为11.1，因为使用了 GTX3090  https://pytorch.org/get-started/previous-versions/ `conda install pytorch==1.8.0 torchvision==0.9.0 torchaudio==0.8.0 cudatoolkit=11.1 -c pytorch -c conda-forge ` 不行就用 ``
 `pip install torch==1.8.0+cu111 torchvision==0.9.0+cu111 torchaudio==0.8.0 -f https://download.pytorch.org/whl/torch_stable.html
 `
 4. 安装 geometric 的依赖包 https://data.pyg.org/whl/torch-1.8.0%2Bcu111.html
@@ -128,4 +128,10 @@ python create_patches_fp.py --source /home/zyxiong/Documents/COAD_WSI --save_dir
 export CONCH_CKPT_PATH=/home/zyxiong/Programs/CONCH/checkpoints/conch/pytorch_model.bin
 
 CUDA_VISIBLE_DEVICES=1 python extract_features_fp.py --data_h5_dir /home/zyxiong/Documents/COAD_patches_origin --data_slide_dir /home/zyxiong/Documents/COAD_WSI --csv_path /home/zyxiong/Documents/COAD_patches_origin/process_list_autogen.csv --feat_dir /home/zyxiong/Documents/COAD_patches_origin --batch_size 512 --slide_ext .svs --model_name "conch_v1"
+```
+
+CLAM 的运行命令
+```
+python create_patches_fp.py --source /home/zyxiong/Documents/COAD_WSI --save_dir /home/zyxiong/Documents/COAD_patches_origin --patch_size 256 --seg --patch --stitch --preset ./presets/tcga.csv
+
 ```
