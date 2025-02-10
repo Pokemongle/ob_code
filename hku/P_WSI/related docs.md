@@ -99,7 +99,10 @@ patch gcn 环境配置
 7. 把一个叫 libcur 啥啥的文件 copy 到 anaconda3/env/lib 和 anaconda3/env/my_env/lib 之后 `export LD_LIBRARY_PATH="/home/zyxiong/anaconda3/lib/"`
 ```
 跑patchgcn项目
+# MIL
 CUDA_VISIBLE_DEVICES=1 python main.py --which_splits 5foldcv --split_dir tcga_coad --mode path --model_type amil
+# patchgcn
+CUDA_VISIBLE_DEVICES=1 python main.py --which_splits 5foldcv --split_dir tcga_coad --mode graph --model_type patchgcn
 ```
 
 
@@ -134,4 +137,5 @@ CLAM 的运行命令
 ```
 python create_patches_fp.py --source /home/zyxiong/Documents/COAD_WSI --save_dir /home/zyxiong/Documents/COAD_patches_origin --patch_size 256 --seg --patch --stitch --preset ./presets/tcga.csv
 
+CUDA_VISIBLE_DEVICES=1 python extract_features_fp.py --data_h5_dir /home/zyxiong/Documents/COAD_patches_origin --data_slide_dir /home/zyxiong/Documents/COAD_WSI --csv_path /home/zyxiong/Documents/COAD_patches_origin/process_list_autogen.csv --feat_dir /home/zyxiong/Documents/COAD_patches_origin --batch_size 512 --slide_ext .svs
 ```
