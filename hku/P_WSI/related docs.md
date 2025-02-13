@@ -122,7 +122,10 @@ export LD_LIBRARY_PATH=/usr/local/anaconda3/envs/patchgcn/lib:$LD_LIBRARY_PATH
 export DYLD_LIBRARY_PATH=/usr/local/anaconda3/envs/patchgcn/lib64:$DYLD_LIBRARY_PATH
 
 ```
-
+Run patchgcn
+```
+CUDA_VISIBLE_DEVICES=2 python main.py --which_splits 5foldcv --split_dir tcga_brca --mode path --model_type amil
+```
 ```
 # original CLAM
 python create_patches_fp.py --source /home/zyxiong/Documents/COAD_WSI --save_dir /home/zyxiong/Documents/COAD_patches_origin --patch_size 256 --seg --patch --stitch 
@@ -130,12 +133,27 @@ python create_patches_fp.py --source /home/zyxiong/Documents/COAD_WSI --save_dir
 # use CONCH
 export CONCH_CKPT_PATH=/home/zyxiong/Programs/CONCH/checkpoints/conch/pytorch_model.bin
 
-CUDA_VISIBLE_DEVICES=3 python extract_features_fp.py --data_h5_dir /home/zyxiong/Documents/COAD_patches_origin --data_slide_dir /home/zyxiong/Documents/COAD_WSI --csv_path /home/zyxiong/Documents/COAD_patches_origin/process_list_autogen.csv --feat_dir /home/zyxiong/Documents/COAD_patches_origin --batch_size 512 --slide_ext .svs --model_name conch_v1
+CUDA_VISIBLE_DEVICES=2 python extract_features_fp.py --data_h5_dir /home/zyxiong/Documents/COAD_patches_origin --data_slide_dir /home/zyxiong/Documents/COAD_WSI --csv_path /home/zyxiong/Documents/COAD_patches_origin/filtered_file.csv --feat_dir /home/zyxiong/Documents/COAD_patches_origin --batch_size 512 --slide_ext .svs --model_name conch_v1
 ```
 
 CLAM 的运行命令
 ```
+# COAD
+
 python create_patches_fp.py --source /home/zyxiong/Documents/COAD_WSI --save_dir /home/zyxiong/Documents/COAD_patches_origin --patch_size 256 --seg --patch --stitch --preset ./presets/tcga.csv
 
+# BRCA
+python create_patches_fp.py --source /disk1/zyxiong/wsids/BRCA_wsi --save_dir /home/zyxiong/Documents/BRCA_patches --patch_size 256 --seg --patch --stitch --preset ./presets/tcga.csv
+
+# COAD
 CUDA_VISIBLE_DEVICES=1 python extract_features_fp.py --data_h5_dir /home/zyxiong/Documents/COAD_patches_origin --data_slide_dir /home/zyxiong/Documents/COAD_WSI --csv_path /home/zyxiong/Documents/COAD_patches_origin/process_list_autogen.csv --feat_dir /home/zyxiong/Documents/COAD_patches_origin --batch_size 512 --slide_ext .svs
+
+CUDA_VISIBLE_DEVICES=1 python extract_features_fp.py --data_h5_dir /home/zyxiong/Documents/BRCA_patches --data_slide_dir /disk1/zyxiong/wsids/BRCA_wsi --csv_path /home/zyxiong/Documents/BRCA_patches/process_list_autogen.csv --feat_dir /home/zyxiong/Documents/BRCA_patches --batch_size 512 --slide_ext .svs
+# BRCA
+
+```
+
+patchcls
+```部署到服务器上的指令
+/home/zyxiong/anaconda3/envs/p_wsi/bin/python final_test.py --gpu 3 --patch_types 8 --batch_size 32 --model_mode fast --model_path /home/zyxiong/Documents/wsi/models/Hibou-B/Kather19 --nr_inference_workers 1 --nr_post_proc_workers 2 --input_dir /home/zyxiong/Documents/wsi/datasets/COAD_wsi --output_dir /home/zyxiong/Documents/wsi/results/Hibou/COAD_polygons
 ```
