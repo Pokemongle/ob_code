@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "0_python_get_started",
+      "path": "深度学习/python_tutorial/0_python_get_started.md"
+    },
+    {
+      "basename": "ch1_Introduction",
+      "path": "深度学习/UMich_DL_CV/ch1_Introduction.md"
+    },
+    {
+      "basename": "3 Git Branching",
+      "path": "必学工具/Git/ProGit/3 Git Branching.md"
+    },
+    {
+      "basename": "2. Git Basics",
+      "path": "必学工具/Git/ProGit/2. Git Basics.md"
+    },
+    {
+      "basename": "1. Getting Started",
+      "path": "必学工具/Git/ProGit/1. Getting Started.md"
+    },
+    {
       "basename": "related docs",
       "path": "hku/P_WSI/related docs.md"
     },
@@ -121,10 +141,6 @@
       "path": "编程入门/Linux/鸟哥的Linux私房菜/12 学习Shell Scripts.md"
     },
     {
-      "basename": "ch1_Introduction",
-      "path": "深度学习/UMich_DL_CV/ch1_Introduction.md"
-    },
-    {
       "basename": "动手学深度学习",
       "path": "深度学习/动手学深度学习.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "Lab08 Midterm Iterator Generator",
       "path": "编程入门/Python/UCB-CS61A/Course/Lab/Lab08 Midterm Iterator Generator.md"
-    },
-    {
-      "basename": "Lab07 Linked Lists Trees Tree Mutation",
-      "path": "编程入门/Python/UCB-CS61A/Course/Lab/Lab07 Linked Lists Trees Tree Mutation.md"
-    },
-    {
-      "basename": "Project3_Ants",
-      "path": "编程入门/Python/UCB-CS61A/Course/Project/Project3_Ants.md"
-    },
-    {
-      "basename": "电路综合",
-      "path": "application/电路综合.md"
-    },
-    {
-      "basename": "考研万年历",
-      "path": "have_fun/考研万年历.md"
     }
   ],
   "omittedPaths": [],
