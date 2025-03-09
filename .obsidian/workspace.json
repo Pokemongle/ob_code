@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "37157854ef299181",
+        "id": "9824be00d780403a",
         "type": "tabs",
         "children": [
           {
-            "id": "d4a46af0a7af262d",
+            "id": "156622f53bd074e8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "深度学习/python_tutorial/0_python_get_started.md",
+                "file": "深度学习/李宏毅机器学习/未命名.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0_python_get_started"
+              "title": "未命名"
             }
           }
         ]
@@ -88,8 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 294.5,
-    "collapsed": true
+    "width": 294.5
   },
   "right": {
     "id": "1bd954b4346845fe",
@@ -105,10 +104,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "编程入门/Linux/鸟哥的Linux私房菜/4 首次登录与线上求助.md"
+                "file": "深度学习/李宏毅机器学习/未命名.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "4 首次登录与线上求助 的大纲"
+              "title": "未命名 的大纲"
             }
           },
           {
@@ -146,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "编程入门/Linux/鸟哥的Linux私房菜/4 首次登录与线上求助.md",
+                "file": "深度学习/李宏毅机器学习/未命名.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -156,7 +158,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "4 首次登录与线上求助 的反向链接列表"
+              "title": "未命名 的反向链接列表"
             }
           },
           {
@@ -193,40 +195,40 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "d4a46af0a7af262d",
+  "active": "3a8201c8c12fa4cb",
   "lastOpenFiles": [
-    "深度学习/UMich_DL_CV/ch1_Introduction.md",
-    "深度学习/python_tutorial/0_python_get_started.md",
-    "深度学习/python_tutorial",
-    "必学工具/Git/ProGit/3 Git Branching.md",
-    "必学工具/Git/ProGit/2. Git Basics.md",
-    "必学工具/Git/ProGit/1. Getting Started.md",
-    "hku/P_WSI/related docs.md",
-    "hku/P_WSI/配置服务器环境.md",
-    "hku/P_WSI/12.18-12.24.md",
-    "01 日记/2025-01-07.md",
-    "01 日记/2024-12/2024-12-30.md",
-    "01 日记/2024-12/2024-12-29.md",
+    "深度学习/李宏毅机器学习",
+    "深度学习/动手学深度学习.md",
+    "深度学习/李宏毅机器学习/未命名.md",
+    "深度学习/python_tutorial/26_Python Datetime.md",
+    "深度学习/python_tutorial/25_Python Modules.md",
+    "深度学习/python_tutorial/24_Python Scope.md",
+    "深度学习/python_tutorial/23_Python Polymorphism.md",
+    "深度学习/python_tutorial/22_Python Iterators.md",
+    "深度学习/python_tutorial/21_Python Inheritance.md",
+    "深度学习/python_tutorial/20_Python Classes and Objects.md",
+    "深度学习/python_tutorial/19_Python Arrays.md",
+    "深度学习/python_tutorial/18_Python Lambda.md",
+    "深度学习/python_tutorial/17_Python Functions.md",
+    "深度学习/python_tutorial/16_Python For Loops.md",
+    "深度学习/python_tutorial/15_Python While Loops.md",
+    "深度学习/python_tutorial/14_Python If ... Else.md",
+    "深度学习/python_tutorial/13_Python Dictionary.md",
+    "深度学习/python_tutorial/12_Python Sets.md",
+    "深度学习/python_tutorial/11_Python Tuples.md",
+    "深度学习/python_tutorial/10_Python Lists.md",
     "01 日记/Mental Bumps.md",
+    "01 日记/2025-01-07.md",
     "01 日记/75 soft - Ziyue Xiong.md",
-    "00 模板/日记模板.md",
+    "深度学习/python_tutorial/9_Python Operators.md",
+    "深度学习/python_tutorial/8_Python Booleans.md",
+    "深度学习/python_tutorial/7_Python Strings.md",
+    "深度学习/python_tutorial",
     "01 日记/2024-04",
     "01 日记/2024-08",
     "01 日记/2024-12/2024-07",
     "01 日记/2024-11",
     "01 日记/2024-12",
-    "hku/thesis_reading/CelloType_a unified model for segmentation  and classification of tissue images.md",
-    "02 English/2024-09-19.md",
-    "编程入门/Linux/鸟哥的Linux私房菜/6 Linux文件与目录管理.md",
-    "编程入门/Linux/鸟哥的Linux私房菜/5 Linux的文件权限与目录配置.md",
-    "编程入门/Linux/鸟哥的Linux私房菜/4 首次登录与线上求助.md",
-    "编程入门/Linux/鸟哥的Linux私房菜/0 计算机概论.md",
-    "编程入门/Linux/鸟哥的Linux私房菜/3 安装ubuntu22.04LTS.md",
-    "编程入门/Linux/鸟哥的Linux私房菜/9 vim程序编辑器.md",
-    "必学工具/Vim.md",
-    "00 Obsidian使用教程/Markdown语法示例.md",
-    "00 Obsidian使用教程/使用技巧.md",
-    "00 Obsidian使用教程/双链示例.md",
     "hku/P_WSI",
     "html5_css3/heima",
     "html5_css3",

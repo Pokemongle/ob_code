@@ -1,0 +1,13 @@
+`from torch.nn import *`
+# Renaming a Module 
+`import sklearn as sk`
+
+# Using the `dir()` Function 
+There is a built-in function to list all the function names (or variable names) in a module. The `dir()` function
+```python 
+import platform  
+  
+x = dir(platform)  
+print(x)
+```
+

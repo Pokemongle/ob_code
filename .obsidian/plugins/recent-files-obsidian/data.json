@@ -1,8 +1,132 @@
 {
   "recentFiles": [
     {
-      "basename": "0_python_get_started",
-      "path": "深度学习/python_tutorial/0_python_get_started.md"
+      "basename": "未命名",
+      "path": "深度学习/李宏毅机器学习/未命名.md"
+    },
+    {
+      "basename": "动手学深度学习",
+      "path": "深度学习/动手学深度学习.md"
+    },
+    {
+      "basename": "26_Python Datetime",
+      "path": "深度学习/python_tutorial/26_Python Datetime.md"
+    },
+    {
+      "basename": "25_Python Modules",
+      "path": "深度学习/python_tutorial/25_Python Modules.md"
+    },
+    {
+      "basename": "24_Python Scope",
+      "path": "深度学习/python_tutorial/24_Python Scope.md"
+    },
+    {
+      "basename": "23_Python Polymorphism",
+      "path": "深度学习/python_tutorial/23_Python Polymorphism.md"
+    },
+    {
+      "basename": "22_Python Iterators",
+      "path": "深度学习/python_tutorial/22_Python Iterators.md"
+    },
+    {
+      "basename": "21_Python Inheritance",
+      "path": "深度学习/python_tutorial/21_Python Inheritance.md"
+    },
+    {
+      "basename": "20_Python Classes and Objects",
+      "path": "深度学习/python_tutorial/20_Python Classes and Objects.md"
+    },
+    {
+      "basename": "19_Python Arrays",
+      "path": "深度学习/python_tutorial/19_Python Arrays.md"
+    },
+    {
+      "basename": "18_Python Lambda",
+      "path": "深度学习/python_tutorial/18_Python Lambda.md"
+    },
+    {
+      "basename": "17_Python Functions",
+      "path": "深度学习/python_tutorial/17_Python Functions.md"
+    },
+    {
+      "basename": "16_Python For Loops",
+      "path": "深度学习/python_tutorial/16_Python For Loops.md"
+    },
+    {
+      "basename": "15_Python While Loops",
+      "path": "深度学习/python_tutorial/15_Python While Loops.md"
+    },
+    {
+      "basename": "14_Python If ... Else",
+      "path": "深度学习/python_tutorial/14_Python If ... Else.md"
+    },
+    {
+      "basename": "13_Python Dictionary",
+      "path": "深度学习/python_tutorial/13_Python Dictionary.md"
+    },
+    {
+      "basename": "12_Python Sets",
+      "path": "深度学习/python_tutorial/12_Python Sets.md"
+    },
+    {
+      "basename": "11_Python Tuples",
+      "path": "深度学习/python_tutorial/11_Python Tuples.md"
+    },
+    {
+      "basename": "10_Python Lists",
+      "path": "深度学习/python_tutorial/10_Python Lists.md"
+    },
+    {
+      "basename": "Mental Bumps",
+      "path": "01 日记/Mental Bumps.md"
+    },
+    {
+      "basename": "2025-01-07",
+      "path": "01 日记/2025-01-07.md"
+    },
+    {
+      "basename": "75 soft - Ziyue Xiong",
+      "path": "01 日记/75 soft - Ziyue Xiong.md"
+    },
+    {
+      "basename": "9_Python Operators",
+      "path": "深度学习/python_tutorial/9_Python Operators.md"
+    },
+    {
+      "basename": "8_Python Booleans",
+      "path": "深度学习/python_tutorial/8_Python Booleans.md"
+    },
+    {
+      "basename": "7_Python Strings",
+      "path": "深度学习/python_tutorial/7_Python Strings.md"
+    },
+    {
+      "basename": "6_Python Casting",
+      "path": "深度学习/python_tutorial/6_Python Casting.md"
+    },
+    {
+      "basename": "5_Python Numbers",
+      "path": "深度学习/python_tutorial/5_Python Numbers.md"
+    },
+    {
+      "basename": "4_Python Data Types",
+      "path": "深度学习/python_tutorial/4_Python Data Types.md"
+    },
+    {
+      "basename": "3_Python Variables",
+      "path": "深度学习/python_tutorial/3_Python Variables.md"
+    },
+    {
+      "basename": "2_Python Comments",
+      "path": "深度学习/python_tutorial/2_Python Comments.md"
+    },
+    {
+      "basename": "1_Python Syntax",
+      "path": "深度学习/python_tutorial/1_Python Syntax.md"
+    },
+    {
+      "basename": "0_Python Get Started",
+      "path": "深度学习/python_tutorial/0_Python Get Started.md"
     },
     {
       "basename": "ch1_Introduction",
@@ -33,24 +157,12 @@
       "path": "hku/P_WSI/12.18-12.24.md"
     },
     {
-      "basename": "2025-01-07",
-      "path": "01 日记/2025-01-07.md"
-    },
-    {
       "basename": "2024-12-30",
       "path": "01 日记/2024-12/2024-12-30.md"
     },
     {
       "basename": "2024-12-29",
       "path": "01 日记/2024-12/2024-12-29.md"
-    },
-    {
-      "basename": "Mental Bumps",
-      "path": "01 日记/Mental Bumps.md"
-    },
-    {
-      "basename": "75 soft - Ziyue Xiong",
-      "path": "01 日记/75 soft - Ziyue Xiong.md"
     },
     {
       "basename": "日记模板",
@@ -87,118 +199,6 @@
     {
       "basename": "9 vim程序编辑器",
       "path": "编程入门/Linux/鸟哥的Linux私房菜/9 vim程序编辑器.md"
-    },
-    {
-      "basename": "Vim",
-      "path": "必学工具/Vim.md"
-    },
-    {
-      "basename": "Markdown语法示例",
-      "path": "00 Obsidian使用教程/Markdown语法示例.md"
-    },
-    {
-      "basename": "使用技巧",
-      "path": "00 Obsidian使用教程/使用技巧.md"
-    },
-    {
-      "basename": "双链示例",
-      "path": "00 Obsidian使用教程/双链示例.md"
-    },
-    {
-      "basename": "part1-html标签",
-      "path": "html5_css3/part1-html标签.md"
-    },
-    {
-      "basename": "cuisine",
-      "path": "have_fun/cuisine.md"
-    },
-    {
-      "basename": "ppt_test",
-      "path": "00 Obsidian使用教程/ppt_test.md"
-    },
-    {
-      "basename": "插件",
-      "path": "00 Obsidian使用教程/插件.md"
-    },
-    {
-      "basename": "7 Linux 磁盘与文件系统管理",
-      "path": "编程入门/Linux/鸟哥的Linux私房菜/7 Linux 磁盘与文件系统管理.md"
-    },
-    {
-      "basename": "8 文件与文件系统的压缩_打包与备份",
-      "path": "编程入门/Linux/鸟哥的Linux私房菜/8 文件与文件系统的压缩_打包与备份.md"
-    },
-    {
-      "basename": "10 认识与学习BASH",
-      "path": "编程入门/Linux/鸟哥的Linux私房菜/10 认识与学习BASH.md"
-    },
-    {
-      "basename": "11 正则表达式与文件格式化处理",
-      "path": "编程入门/Linux/鸟哥的Linux私房菜/11 正则表达式与文件格式化处理.md"
-    },
-    {
-      "basename": "12 学习Shell Scripts",
-      "path": "编程入门/Linux/鸟哥的Linux私房菜/12 学习Shell Scripts.md"
-    },
-    {
-      "basename": "动手学深度学习",
-      "path": "深度学习/动手学深度学习.md"
-    },
-    {
-      "basename": "2024-11-11",
-      "path": "01 日记/2024-11/2024-11-11.md"
-    },
-    {
-      "basename": "概述",
-      "path": "编程入门/Linux/概述.md"
-    },
-    {
-      "basename": "vbird-linux-basic-4e",
-      "path": "编程入门/Linux/vbird-linux-basic-4e.pdf"
-    },
-    {
-      "basename": "Project4_Scheme",
-      "path": "编程入门/Python/UCB-CS61A/Course/Project/Project4_Scheme.md"
-    },
-    {
-      "basename": "Lab10 Scheme",
-      "path": "编程入门/Python/UCB-CS61A/Course/Lab/Lab10 Scheme.md"
-    },
-    {
-      "basename": "Disc11 Interpreter Tail Call",
-      "path": "编程入门/Python/UCB-CS61A/Course/Disc/Disc11 Interpreter Tail Call.md"
-    },
-    {
-      "basename": "Disc10 Scheme Lists",
-      "path": "编程入门/Python/UCB-CS61A/Course/Disc/Disc10 Scheme Lists.md"
-    },
-    {
-      "basename": "Disc05_Sequences, Mutability, Object-Oriented Programming",
-      "path": "编程入门/Python/UCB-CS61A/Course/Disc/Disc05_Sequences, Mutability, Object-Oriented Programming.md"
-    },
-    {
-      "basename": "Lab11 Interpreters",
-      "path": "编程入门/Python/UCB-CS61A/Course/Lab/Lab11 Interpreters.md"
-    },
-    {
-      "basename": "hw06 scheme lists",
-      "path": "编程入门/Python/UCB-CS61A/Course/Hw/hw06 scheme lists.md"
-    },
-    {
-      "basename": "Chapter3",
-      "path": "编程入门/Python/UCB-CS61A/SICP/Chapter3.md"
-    },
-    {
-      "basename": "Chapter2",
-      "path": "编程入门/Python/UCB-CS61A/SICP/Chapter2.md"
-    },
-    {
-      "basename": "Chapter1",
-      "path": "编程入门/Python/UCB-CS61A/SICP/Chapter1.md"
-    },
-    {
-      "basename": "Lab08 Midterm Iterator Generator",
-      "path": "编程入门/Python/UCB-CS61A/Course/Lab/Lab08 Midterm Iterator Generator.md"
     }
   ],
   "omittedPaths": [],
