@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "未命名",
-      "path": "深度学习/李宏毅机器学习/未命名.md"
+      "basename": "pycharm terminal没有conda环境",
+      "path": "debug记录/pycharm terminal没有conda环境.md"
+    },
+    {
+      "basename": "related docs",
+      "path": "hku/P_WSI/related docs.md"
     },
     {
       "basename": "动手学深度学习",
       "path": "深度学习/动手学深度学习.md"
+    },
+    {
+      "basename": "ch1_Introduction",
+      "path": "深度学习/UMich_DL_CV/ch1_Introduction.md"
+    },
+    {
+      "basename": "17_Python Functions",
+      "path": "深度学习/python_tutorial/17_Python Functions.md"
+    },
+    {
+      "basename": "未命名",
+      "path": "深度学习/李宏毅机器学习/未命名.md"
     },
     {
       "basename": "26_Python Datetime",
@@ -43,10 +59,6 @@
     {
       "basename": "18_Python Lambda",
       "path": "深度学习/python_tutorial/18_Python Lambda.md"
-    },
-    {
-      "basename": "17_Python Functions",
-      "path": "深度学习/python_tutorial/17_Python Functions.md"
     },
     {
       "basename": "16_Python For Loops",
@@ -129,10 +141,6 @@
       "path": "深度学习/python_tutorial/0_Python Get Started.md"
     },
     {
-      "basename": "ch1_Introduction",
-      "path": "深度学习/UMich_DL_CV/ch1_Introduction.md"
-    },
-    {
       "basename": "3 Git Branching",
       "path": "必学工具/Git/ProGit/3 Git Branching.md"
     },
@@ -143,10 +151,6 @@
     {
       "basename": "1. Getting Started",
       "path": "必学工具/Git/ProGit/1. Getting Started.md"
-    },
-    {
-      "basename": "related docs",
-      "path": "hku/P_WSI/related docs.md"
     },
     {
       "basename": "配置服务器环境",
@@ -195,10 +199,6 @@
     {
       "basename": "3 安装ubuntu22.04LTS",
       "path": "编程入门/Linux/鸟哥的Linux私房菜/3 安装ubuntu22.04LTS.md"
-    },
-    {
-      "basename": "9 vim程序编辑器",
-      "path": "编程入门/Linux/鸟哥的Linux私房菜/9 vim程序编辑器.md"
     }
   ],
   "omittedPaths": [],
