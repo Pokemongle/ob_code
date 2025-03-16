@@ -11,5 +11,11 @@
   "showFrontmatter": false,
   "smartIndentList": true,
   "promptDelete": false,
-  "vimMode": false
+  "vimMode": false,
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
 }

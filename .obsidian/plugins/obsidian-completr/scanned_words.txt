@@ -839,6 +839,9 @@ nails
 need
 null
 note
+navigator
+neural
+network
 To
 Try
 Take
@@ -2621,6 +2624,7 @@ showed
 seemed
 street
 shining
+settings
 algebra
 abs
 after
@@ -3519,6 +3523,7 @@ expensive
 exist
 env
 eight
+exe
 min
 make
 mini
@@ -5447,6 +5452,8 @@ though
 three
 tuple
 then
+tools
+task
 game
 gloves
 going
@@ -9248,6 +9255,7 @@ returned
 represented
 reference
 region
+regression
 School
 Science
 Sour
@@ -9636,6 +9644,7 @@ Switching
 Specified
 Scope
 Statement
+Scripts
 is
 instant
 into
@@ -10911,6 +10920,7 @@ Now
 Numbers
 Nonlocal
 Number
+Navigator
 uws
 use
 up
@@ -11879,6 +11889,7 @@ collections
 concatenate
 controls
 class
+cmd
 Learn
 Li
 List
@@ -12554,6 +12565,8 @@ Append
 Arguments
 Arbitrary
 Argument
+Appendix
+Anaconda
 work
 with
 we
@@ -15300,6 +15313,7 @@ Precedence
 Parameter
 Passing
 Positional
+Path
 yesterday
 year
 yield

@@ -4,35 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "9824be00d780403a",
+        "id": "188f90b160ee773c",
         "type": "tabs",
         "children": [
           {
-            "id": "156622f53bd074e8",
+            "id": "910256582018e630",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hku/P_WSI/related docs.md",
+                "file": "深度学习/李宏毅机器学习/hw1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "related docs"
+              "title": "hw1"
             }
           },
           {
-            "id": "4ae52f02a503083f",
+            "id": "e72db0bd1acf9734",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "debug记录/pycharm terminal没有conda环境.md",
+                "file": "深度学习/李宏毅机器学习/week2-Theory.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "pycharm terminal没有conda环境"
+              "title": "week2-Theory"
             }
           }
         ],
@@ -211,15 +211,17 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "4ae52f02a503083f",
+  "active": "e72db0bd1acf9734",
   "lastOpenFiles": [
-    "hku/P_WSI/related docs.md",
+    "深度学习/李宏毅机器学习/hw1.md",
+    "深度学习/李宏毅机器学习/week2-Theory.md",
     "debug记录/pycharm terminal没有conda环境.md",
+    "hku/P_WSI/配置服务器环境.md",
+    "hku/P_WSI/related docs.md",
     "debug记录",
     "深度学习/动手学深度学习.md",
     "深度学习/UMich_DL_CV/ch1_Introduction.md",
     "深度学习/python_tutorial/17_Python Functions.md",
-    "深度学习/李宏毅机器学习/未命名.md",
     "深度学习/李宏毅机器学习",
     "深度学习/python_tutorial/26_Python Datetime.md",
     "深度学习/python_tutorial/25_Python Modules.md",
@@ -239,8 +241,6 @@
     "深度学习/python_tutorial/10_Python Lists.md",
     "01 日记/Mental Bumps.md",
     "01 日记/2025-01-07.md",
-    "01 日记/75 soft - Ziyue Xiong.md",
-    "深度学习/python_tutorial/9_Python Operators.md",
     "深度学习/python_tutorial",
     "01 日记/2024-04",
     "01 日记/2024-08",
