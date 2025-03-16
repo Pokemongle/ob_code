@@ -120,13 +120,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "hku/P_WSI/related docs.md",
+                "file": "深度学习/李宏毅机器学习/week2-Theory.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "related docs 的大纲"
+              "title": "week2-Theory 的大纲"
             }
           },
           {
@@ -164,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hku/P_WSI/related docs.md",
+                "file": "深度学习/李宏毅机器学习/week2-Theory.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -174,7 +174,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "related docs 的反向链接列表"
+              "title": "week2-Theory 的反向链接列表"
             }
           },
           {
