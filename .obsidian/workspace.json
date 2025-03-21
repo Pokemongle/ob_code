@@ -4,35 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "188f90b160ee773c",
+        "id": "54a0eb3217ea4f5f",
         "type": "tabs",
         "children": [
           {
-            "id": "910256582018e630",
+            "id": "567bfe77557d313a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "深度学习/李宏毅机器学习/hw1.md",
+                "file": "深度学习/python_tutorial/17_Python Functions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "hw1"
+              "title": "17_Python Functions"
             }
           },
           {
-            "id": "e72db0bd1acf9734",
+            "id": "91e244b59a78340b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "深度学习/李宏毅机器学习/week2-Theory.md",
+                "file": "MMECG/paper/TEACH MULTIMODAL LLMS TO COMPREHEND ELEC TROCARDIOGRAPHIC IMAGES.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "week2-Theory"
+              "title": "TEACH MULTIMODAL LLMS TO COMPREHEND ELEC TROCARDIOGRAPHIC IMAGES"
             }
           }
         ],
@@ -120,13 +120,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "深度学习/李宏毅机器学习/week2-Theory.md",
+                "file": "MMECG/paper/TEACH MULTIMODAL LLMS TO COMPREHEND ELEC TROCARDIOGRAPHIC IMAGES.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "week2-Theory 的大纲"
+              "title": "TEACH MULTIMODAL LLMS TO COMPREHEND ELEC TROCARDIOGRAPHIC IMAGES 的大纲"
             }
           },
           {
@@ -164,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "深度学习/李宏毅机器学习/week2-Theory.md",
+                "file": "MMECG/paper/TEACH MULTIMODAL LLMS TO COMPREHEND ELEC TROCARDIOGRAPHIC IMAGES.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -174,7 +174,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "week2-Theory 的反向链接列表"
+              "title": "TEACH MULTIMODAL LLMS TO COMPREHEND ELEC TROCARDIOGRAPHIC IMAGES 的反向链接列表"
             }
           },
           {
@@ -210,22 +210,29 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "e72db0bd1acf9734",
+  "active": "91e244b59a78340b",
   "lastOpenFiles": [
-    "深度学习/李宏毅机器学习/hw1.md",
-    "深度学习/李宏毅机器学习/week2-Theory.md",
-    "debug记录/pycharm terminal没有conda环境.md",
-    "hku/P_WSI/配置服务器环境.md",
+    "深度学习/python_tutorial/17_Python Functions.md",
+    "MMECG/paper/TEACH MULTIMODAL LLMS TO COMPREHEND ELEC TROCARDIOGRAPHIC IMAGES.md",
+    "MMECG/paper",
+    "MMECG",
+    "深度学习/python_tutorial/23_Python Polymorphism.md",
+    "深度学习/python_tutorial/26_Python Datetime.md",
+    "深度学习/python_tutorial/25_Python Modules.md",
+    "深度学习/python_tutorial/3_Python Variables.md",
     "hku/P_WSI/related docs.md",
+    "hku/P_WSI/12.18-12.24.md",
+    "hku/P_WSI/配置服务器环境.md",
+    "深度学习/李宏毅机器学习/hw4.md",
+    "深度学习/李宏毅机器学习/hw2.md",
+    "深度学习/李宏毅机器学习/hw1.md",
+    "深度学习/李宏毅机器学习/L2-What to do if my network fails to train.md",
+    "debug记录/pycharm terminal没有conda环境.md",
     "debug记录",
     "深度学习/动手学深度学习.md",
     "深度学习/UMich_DL_CV/ch1_Introduction.md",
-    "深度学习/python_tutorial/17_Python Functions.md",
     "深度学习/李宏毅机器学习",
-    "深度学习/python_tutorial/26_Python Datetime.md",
-    "深度学习/python_tutorial/25_Python Modules.md",
     "深度学习/python_tutorial/24_Python Scope.md",
-    "深度学习/python_tutorial/23_Python Polymorphism.md",
     "深度学习/python_tutorial/22_Python Iterators.md",
     "深度学习/python_tutorial/21_Python Inheritance.md",
     "深度学习/python_tutorial/20_Python Classes and Objects.md",
@@ -235,19 +242,12 @@
     "深度学习/python_tutorial/15_Python While Loops.md",
     "深度学习/python_tutorial/14_Python If ... Else.md",
     "深度学习/python_tutorial/13_Python Dictionary.md",
-    "深度学习/python_tutorial/12_Python Sets.md",
-    "深度学习/python_tutorial/11_Python Tuples.md",
-    "深度学习/python_tutorial/10_Python Lists.md",
-    "01 日记/Mental Bumps.md",
-    "01 日记/2025-01-07.md",
     "深度学习/python_tutorial",
     "01 日记/2024-04",
     "01 日记/2024-08",
     "01 日记/2024-12/2024-07",
     "01 日记/2024-11",
     "01 日记/2024-12",
-    "hku/P_WSI",
-    "html5_css3/heima",
     "未命名.canvas",
     "attachment/Pasted image 20230729013601.png"
   ]

@@ -842,6 +842,8 @@ note
 navigator
 neural
 network
+numbers
+names
 To
 Try
 Take
@@ -1268,6 +1270,7 @@ Tags
 Topic
 Types
 Through
+There
 do
 dl
 dinner
@@ -2101,6 +2104,10 @@ lived
 leave
 light
 lying
+loss
+lower
+letter
+letters
 study
 surgery
 send
@@ -2625,6 +2632,9 @@ seemed
 street
 shining
 settings
+saddle
+specify
+sensitive
 algebra
 abs
 after
@@ -3524,6 +3534,7 @@ exist
 env
 eight
 exe
+epoch
 min
 make
 mini
@@ -4175,6 +4186,8 @@ merging
 may
 mysterious
 match
+minimum
+maximum
 oxygen
 other
 ok
@@ -4593,6 +4606,7 @@ off
 ordered
 oop
 outer
+override
 Funny
 Finally
 First
@@ -4990,6 +5004,7 @@ Files
 File
 Fetching
 Fast
+Fails
 things
 to
 transcript
@@ -5454,6 +5469,7 @@ tuple
 then
 tools
 task
+train
 game
 gloves
 going
@@ -6816,6 +6832,9 @@ Merging
 Merge
 Management
 Methods
+Momentum
+Multiple
+Many
 Record
 Review
 RA
@@ -7240,6 +7259,7 @@ Rebase
 Recently
 Range
 Remove
+Rate
 Do
 Day
 Did
@@ -7599,6 +7619,7 @@ Differences
 Data
 Directory
 Deleting
+Dates
 plastic
 piano
 print
@@ -7987,6 +8008,8 @@ past
 particular
 product
 pulled
+points
+parent
 hrs
 hr
 house
@@ -9645,6 +9668,7 @@ Specified
 Scope
 Statement
 Scripts
+Snake
 is
 instant
 into
@@ -10177,6 +10201,7 @@ items
 indexed
 iterable
 inside
+inherit
 but
 burpee
 brought
@@ -10921,6 +10946,7 @@ Numbers
 Nonlocal
 Number
 Navigator
+Names
 uws
 use
 up
@@ -11400,6 +11426,10 @@ usage
 uncommitted
 unnecessary
 upstream
+update
+upper
+underscore
+underscores
 cs
 climbing
 code
@@ -11890,6 +11920,10 @@ concatenate
 controls
 class
 cmd
+cross
+critical
+cannot
+contain
 Learn
 Li
 List
@@ -12214,6 +12248,7 @@ Long
 Loop
 Looping
 Language
+Loss
 Afternoon
 AI
 Achieved
@@ -12567,6 +12602,8 @@ Arbitrary
 Argument
 Appendix
 Anaconda
+Adaptive
+Assign
 work
 with
 we
@@ -13043,6 +13080,7 @@ weeks
 window
 was
 world
+why
 Computer
 Changsha
 Ctrl
@@ -13450,6 +13488,10 @@ Class
 Child
 Calling
 Combine
+Casting
+Camel
+Case
+Collection
 Had
 Hot
 Have
@@ -14957,6 +14999,7 @@ BitKeeper
 Branches
 Branching
 Branch
+Batch
 Pot
 Poor
 Poops
@@ -15314,6 +15357,8 @@ Parameter
 Passing
 Positional
 Path
+Pascal
+Polymorphism
 yesterday
 year
 yield
@@ -16153,6 +16198,8 @@ versioned
 very
 variables
 view
+valid
+validation
 IRCC
 Installing
 Interactive
@@ -16962,6 +17009,7 @@ Only
 Output
 Object
 Oriented
+Optimization
 Washington
 Wallstreet
 What
@@ -17428,6 +17476,7 @@ Windows
 Working
 Why
 Workflows
+Words
 Using
 Use
 UID
@@ -17907,6 +17956,7 @@ Underline
 Undoing
 Unstaging
 Unmodifying
+Unpack
 View
 VIA
 VFS
@@ -18390,6 +18440,8 @@ VCS
 Values
 Viewing
 Value
+Variables
+Variable
 Just
 JFIF
 JPEG
@@ -19198,6 +19250,7 @@ kernelspec
 keep
 knows
 kwargs
+keywords
 Key
 Kids
 Ki

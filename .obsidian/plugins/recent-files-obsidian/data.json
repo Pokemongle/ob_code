@@ -1,36 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "week2-Theory",
-      "path": "深度学习/李宏毅机器学习/week2-Theory.md"
-    },
-    {
-      "basename": "hw1",
-      "path": "深度学习/李宏毅机器学习/hw1.md"
-    },
-    {
-      "basename": "pycharm terminal没有conda环境",
-      "path": "debug记录/pycharm terminal没有conda环境.md"
-    },
-    {
-      "basename": "配置服务器环境",
-      "path": "hku/P_WSI/配置服务器环境.md"
-    },
-    {
-      "basename": "related docs",
-      "path": "hku/P_WSI/related docs.md"
-    },
-    {
-      "basename": "动手学深度学习",
-      "path": "深度学习/动手学深度学习.md"
-    },
-    {
-      "basename": "ch1_Introduction",
-      "path": "深度学习/UMich_DL_CV/ch1_Introduction.md"
+      "basename": "TEACH MULTIMODAL LLMS TO COMPREHEND ELEC TROCARDIOGRAPHIC IMAGES",
+      "path": "MMECG/paper/TEACH MULTIMODAL LLMS TO COMPREHEND ELEC TROCARDIOGRAPHIC IMAGES.md"
     },
     {
       "basename": "17_Python Functions",
       "path": "深度学习/python_tutorial/17_Python Functions.md"
+    },
+    {
+      "basename": "23_Python Polymorphism",
+      "path": "深度学习/python_tutorial/23_Python Polymorphism.md"
     },
     {
       "basename": "26_Python Datetime",
@@ -41,12 +21,52 @@
       "path": "深度学习/python_tutorial/25_Python Modules.md"
     },
     {
-      "basename": "24_Python Scope",
-      "path": "深度学习/python_tutorial/24_Python Scope.md"
+      "basename": "3_Python Variables",
+      "path": "深度学习/python_tutorial/3_Python Variables.md"
     },
     {
-      "basename": "23_Python Polymorphism",
-      "path": "深度学习/python_tutorial/23_Python Polymorphism.md"
+      "basename": "related docs",
+      "path": "hku/P_WSI/related docs.md"
+    },
+    {
+      "basename": "12.18-12.24",
+      "path": "hku/P_WSI/12.18-12.24.md"
+    },
+    {
+      "basename": "配置服务器环境",
+      "path": "hku/P_WSI/配置服务器环境.md"
+    },
+    {
+      "basename": "hw4",
+      "path": "深度学习/李宏毅机器学习/hw4.md"
+    },
+    {
+      "basename": "hw2",
+      "path": "深度学习/李宏毅机器学习/hw2.md"
+    },
+    {
+      "basename": "hw1",
+      "path": "深度学习/李宏毅机器学习/hw1.md"
+    },
+    {
+      "basename": "L2-What to do if my network fails to train",
+      "path": "深度学习/李宏毅机器学习/L2-What to do if my network fails to train.md"
+    },
+    {
+      "basename": "pycharm terminal没有conda环境",
+      "path": "debug记录/pycharm terminal没有conda环境.md"
+    },
+    {
+      "basename": "动手学深度学习",
+      "path": "深度学习/动手学深度学习.md"
+    },
+    {
+      "basename": "ch1_Introduction",
+      "path": "深度学习/UMich_DL_CV/ch1_Introduction.md"
+    },
+    {
+      "basename": "24_Python Scope",
+      "path": "深度学习/python_tutorial/24_Python Scope.md"
     },
     {
       "basename": "22_Python Iterators",
@@ -133,10 +153,6 @@
       "path": "深度学习/python_tutorial/4_Python Data Types.md"
     },
     {
-      "basename": "3_Python Variables",
-      "path": "深度学习/python_tutorial/3_Python Variables.md"
-    },
-    {
       "basename": "2_Python Comments",
       "path": "深度学习/python_tutorial/2_Python Comments.md"
     },
@@ -161,10 +177,6 @@
       "path": "必学工具/Git/ProGit/1. Getting Started.md"
     },
     {
-      "basename": "12.18-12.24",
-      "path": "hku/P_WSI/12.18-12.24.md"
-    },
-    {
       "basename": "2024-12-30",
       "path": "01 日记/2024-12/2024-12-30.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "6 Linux文件与目录管理",
       "path": "编程入门/Linux/鸟哥的Linux私房菜/6 Linux文件与目录管理.md"
-    },
-    {
-      "basename": "5 Linux的文件权限与目录配置",
-      "path": "编程入门/Linux/鸟哥的Linux私房菜/5 Linux的文件权限与目录配置.md"
-    },
-    {
-      "basename": "4 首次登录与线上求助",
-      "path": "编程入门/Linux/鸟哥的Linux私房菜/4 首次登录与线上求助.md"
-    },
-    {
-      "basename": "0 计算机概论",
-      "path": "编程入门/Linux/鸟哥的Linux私房菜/0 计算机概论.md"
     }
   ],
   "omittedPaths": [],
