@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "lecture1-课程内容说明",
-      "path": "深度学习/李宏毅生成式ai/lecture1-课程内容说明.md"
+      "basename": "lecture2-提示工程&AI代理人",
+      "path": "深度学习/李宏毅生成式ai/lecture2-提示工程&AI代理人.md"
     },
     {
-      "basename": "未命名",
-      "path": "深度学习/李宏毅生成式ai/未命名.md"
+      "basename": "hw1",
+      "path": "深度学习/李宏毅生成式ai/hw1.md"
+    },
+    {
+      "basename": "()",
+      "path": "().md"
+    },
+    {
+      "basename": "lecture1-课程内容说明",
+      "path": "深度学习/李宏毅生成式ai/lecture1-课程内容说明.md"
     },
     {
       "basename": "TEACH MULTIMODAL LLMS TO COMPREHEND ELEC TROCARDIOGRAPHIC IMAGES",
@@ -191,14 +199,6 @@
     {
       "basename": "2024-12-29",
       "path": "01 日记/2024-12/2024-12-29.md"
-    },
-    {
-      "basename": "日记模板",
-      "path": "00 模板/日记模板.md"
-    },
-    {
-      "basename": "CelloType_a unified model for segmentation  and classification of tissue images",
-      "path": "hku/thesis_reading/CelloType_a unified model for segmentation  and classification of tissue images.md"
     }
   ],
   "omittedPaths": [],

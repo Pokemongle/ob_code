@@ -1,0 +1,43 @@
+40个[文件](https://drive.google.com/drive/folders/1IqrfovQbPj9nuRBxQ80LcocqkUFxYNfL)，判断是不是 ai 生成的[答案](https://drive.google.com/file/d/12N7W5dW5eSZcNrG1auRkEQkZ0Dw07FGo/view) 
+![image.png](https://cdn.jsdelivr.net/gh/Pokemongle/img_bed_0@main/img/202503212316546.png)
+![image.png](https://cdn.jsdelivr.net/gh/Pokemongle/img_bed_0@main/img/202503212316070.png)
+1. t
+2. f
+3. t
+4. t
+5. f
+6. f
+7. t
+8. t
+9. t
+10. t
+11. f
+12. f
+13. t
+14. t
+15. t
+16. f
+17. f
+18. f
+19. t
+20. f
+21. f
+22. t
+23. f
+24. f
+25. f
+26. f
+27. t
+28. f
+29. t
+30. f
+31. f
+32. t
+33. t
+34. f
+35. t
+36. f
+37. t
+38. t
+39. f
+40. t
