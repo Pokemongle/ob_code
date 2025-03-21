@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "lecture1-课程内容说明",
+      "path": "深度学习/李宏毅生成式ai/lecture1-课程内容说明.md"
+    },
+    {
+      "basename": "未命名",
+      "path": "深度学习/李宏毅生成式ai/未命名.md"
+    },
+    {
       "basename": "TEACH MULTIMODAL LLMS TO COMPREHEND ELEC TROCARDIOGRAPHIC IMAGES",
       "path": "MMECG/paper/TEACH MULTIMODAL LLMS TO COMPREHEND ELEC TROCARDIOGRAPHIC IMAGES.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "CelloType_a unified model for segmentation  and classification of tissue images",
       "path": "hku/thesis_reading/CelloType_a unified model for segmentation  and classification of tissue images.md"
-    },
-    {
-      "basename": "2024-09-19",
-      "path": "02 English/2024-09-19.md"
-    },
-    {
-      "basename": "6 Linux文件与目录管理",
-      "path": "编程入门/Linux/鸟哥的Linux私房菜/6 Linux文件与目录管理.md"
     }
   ],
   "omittedPaths": [],
