@@ -1271,6 +1271,7 @@ Topic
 Types
 Through
 There
+Though
 do
 dl
 dinner
@@ -3535,6 +3536,7 @@ env
 eight
 exe
 epoch
+extension
 min
 make
 mini
@@ -5896,6 +5898,7 @@ global
 gitconfig
 gets
 glow
+gpt
 finishing
 for
 final
@@ -10947,6 +10950,7 @@ Nonlocal
 Number
 Navigator
 Names
+NTU
 uws
 use
 up
@@ -13492,6 +13496,8 @@ Casting
 Camel
 Case
 Collection
+Chain
+CoT
 Had
 Hot
 Have
@@ -15359,6 +15365,7 @@ Positional
 Path
 Pascal
 Polymorphism
+Prompt
 yesterday
 year
 yield

@@ -5,16 +5,12 @@
       "path": "深度学习/李宏毅生成式ai/lecture2-提示工程&AI代理人.md"
     },
     {
-      "basename": "hw1",
-      "path": "深度学习/李宏毅生成式ai/hw1.md"
-    },
-    {
-      "basename": "()",
-      "path": "().md"
-    },
-    {
       "basename": "lecture1-课程内容说明",
       "path": "深度学习/李宏毅生成式ai/lecture1-课程内容说明.md"
+    },
+    {
+      "basename": "hw1",
+      "path": "深度学习/李宏毅生成式ai/hw1.md"
     },
     {
       "basename": "TEACH MULTIMODAL LLMS TO COMPREHEND ELEC TROCARDIOGRAPHIC IMAGES",

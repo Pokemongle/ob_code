@@ -137,7 +137,8 @@
               "title": "Calendar"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "400a551cfac57a4f",
@@ -198,10 +199,10 @@
   },
   "active": "26c38fadfaf24d49",
   "lastOpenFiles": [
-    "深度学习/李宏毅生成式ai/hw1.md",
     "().md",
     "深度学习/李宏毅生成式ai/lecture2-提示工程&AI代理人.md",
     "深度学习/李宏毅生成式ai/lecture1-课程内容说明.md",
+    "深度学习/李宏毅生成式ai/hw1.md",
     "深度学习/李宏毅生成式ai",
     "MMECG/paper/TEACH MULTIMODAL LLMS TO COMPREHEND ELEC TROCARDIOGRAPHIC IMAGES.md",
     "深度学习/python_tutorial/17_Python Functions.md",
