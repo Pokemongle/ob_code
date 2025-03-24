@@ -1,0 +1,2 @@
+# debug 记录
+colab 中配置 chatgpt api keys 报错 proxies 的[解决方法](https://blog.csdn.net/jylonger/article/details/145745595?spm=1001.2101.3001.6650.4&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7EYuanLiJiHua%7EPosition-4-145745595-blog-144728902.235%5Ev43%5Epc_blog_bottom_relevance_base3&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EYuanLiJiHua%7EPosition-4-145745595-blog-144728902.235%5Ev43%5Epc_blog_bottom_relevance_base3)

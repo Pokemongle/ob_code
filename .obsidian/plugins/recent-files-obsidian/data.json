@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "small talk",
+      "path": "01 日记/small talk.md"
+    },
+    {
+      "basename": "Mental Bumps",
+      "path": "01 日记/Mental Bumps.md"
+    },
+    {
+      "basename": "hw3",
+      "path": "深度学习/李宏毅生成式ai/hw3.md"
+    },
+    {
       "basename": "lecture2-提示工程&AI代理人",
       "path": "深度学习/李宏毅生成式ai/lecture2-提示工程&AI代理人.md"
     },
@@ -129,10 +141,6 @@
       "path": "深度学习/python_tutorial/10_Python Lists.md"
     },
     {
-      "basename": "Mental Bumps",
-      "path": "01 日记/Mental Bumps.md"
-    },
-    {
       "basename": "2025-01-07",
       "path": "01 日记/2025-01-07.md"
     },
@@ -191,10 +199,6 @@
     {
       "basename": "2024-12-30",
       "path": "01 日记/2024-12/2024-12-30.md"
-    },
-    {
-      "basename": "2024-12-29",
-      "path": "01 日记/2024-12/2024-12-29.md"
     }
   ],
   "omittedPaths": [],
