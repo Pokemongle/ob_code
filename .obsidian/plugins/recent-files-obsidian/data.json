@@ -1,28 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "small talk",
-      "path": "01 日记/small talk.md"
+      "basename": "2. Chain-of-Thought(CoT) Prompting",
+      "path": "深度学习/Prompt Engineering Guide/Prompting Techniques/2. Chain-of-Thought(CoT) Prompting.md"
     },
     {
-      "basename": "Mental Bumps",
-      "path": "01 日记/Mental Bumps.md"
+      "basename": "1. Few-Shot Prompting",
+      "path": "深度学习/Prompt Engineering Guide/Prompting Techniques/1. Few-Shot Prompting.md"
+    },
+    {
+      "basename": "0. Zero-shot Prompting",
+      "path": "深度学习/Prompt Engineering Guide/Prompting Techniques/0. Zero-shot Prompting.md"
+    },
+    {
+      "basename": "hw1",
+      "path": "深度学习/李宏毅生成式ai/hw1.md"
     },
     {
       "basename": "hw3",
       "path": "深度学习/李宏毅生成式ai/hw3.md"
     },
     {
+      "basename": "small talk",
+      "path": "01 日记/small talk.md"
+    },
+    {
       "basename": "lecture2-提示工程&AI代理人",
       "path": "深度学习/李宏毅生成式ai/lecture2-提示工程&AI代理人.md"
     },
     {
-      "basename": "lecture1-课程内容说明",
-      "path": "深度学习/李宏毅生成式ai/lecture1-课程内容说明.md"
+      "basename": "Mental Bumps",
+      "path": "01 日记/Mental Bumps.md"
     },
     {
-      "basename": "hw1",
-      "path": "深度学习/李宏毅生成式ai/hw1.md"
+      "basename": "lecture1-课程内容说明",
+      "path": "深度学习/李宏毅生成式ai/lecture1-课程内容说明.md"
     },
     {
       "basename": "TEACH MULTIMODAL LLMS TO COMPREHEND ELEC TROCARDIOGRAPHIC IMAGES",
@@ -187,18 +199,6 @@
     {
       "basename": "3 Git Branching",
       "path": "必学工具/Git/ProGit/3 Git Branching.md"
-    },
-    {
-      "basename": "2. Git Basics",
-      "path": "必学工具/Git/ProGit/2. Git Basics.md"
-    },
-    {
-      "basename": "1. Getting Started",
-      "path": "必学工具/Git/ProGit/1. Getting Started.md"
-    },
-    {
-      "basename": "2024-12-30",
-      "path": "01 日记/2024-12/2024-12-30.md"
     }
   ],
   "omittedPaths": [],
