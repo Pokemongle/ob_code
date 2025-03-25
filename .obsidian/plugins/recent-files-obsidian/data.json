@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "small talk",
+      "path": "01 日记/small talk.md"
+    },
+    {
+      "basename": "0. Zero-shot Prompting",
+      "path": "深度学习/Prompt Engineering Guide/Prompting Techniques/0. Zero-shot Prompting.md"
+    },
+    {
       "basename": "2. Chain-of-Thought(CoT) Prompting",
       "path": "深度学习/Prompt Engineering Guide/Prompting Techniques/2. Chain-of-Thought(CoT) Prompting.md"
     },
@@ -9,20 +17,12 @@
       "path": "深度学习/Prompt Engineering Guide/Prompting Techniques/1. Few-Shot Prompting.md"
     },
     {
-      "basename": "0. Zero-shot Prompting",
-      "path": "深度学习/Prompt Engineering Guide/Prompting Techniques/0. Zero-shot Prompting.md"
-    },
-    {
       "basename": "hw1",
       "path": "深度学习/李宏毅生成式ai/hw1.md"
     },
     {
       "basename": "hw3",
       "path": "深度学习/李宏毅生成式ai/hw3.md"
-    },
-    {
-      "basename": "small talk",
-      "path": "01 日记/small talk.md"
     },
     {
       "basename": "lecture2-提示工程&AI代理人",

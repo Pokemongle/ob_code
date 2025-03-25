@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "深度学习/Prompt Engineering Guide/Prompting Techniques/0. Zero-shot Prompting.md",
+                "file": "01 日记/small talk.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0. Zero-shot Prompting"
+              "title": "small talk"
             }
           },
           {
@@ -49,8 +49,7 @@
               "title": "2. Chain-of-Thought(CoT) Prompting"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -224,11 +223,11 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "2705058624c545a0",
+  "active": "b9ed0d419f75b962",
   "lastOpenFiles": [
-    "深度学习/Prompt Engineering Guide/Prompting Techniques/1. Few-Shot Prompting.md",
-    "深度学习/Prompt Engineering Guide/Prompting Techniques/2. Chain-of-Thought(CoT) Prompting.md",
     "深度学习/Prompt Engineering Guide/Prompting Techniques/0. Zero-shot Prompting.md",
+    "深度学习/Prompt Engineering Guide/Prompting Techniques/2. Chain-of-Thought(CoT) Prompting.md",
+    "深度学习/Prompt Engineering Guide/Prompting Techniques/1. Few-Shot Prompting.md",
     "深度学习/Prompt Engineering Guide/Prompting Techniques",
     "深度学习/Prompt Engineering Guide",
     "深度学习/李宏毅生成式ai/hw1.md",
