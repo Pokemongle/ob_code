@@ -85,7 +85,7 @@ System.out.println("Student grade: " + studentGrade);
 // Create integer variables
 int length = 4;
 int width = 6;
-int area;
+int area; // create the variable first!!!!!!!!!!
 
 // Calculate the area of a rectangle
 area = length * width;

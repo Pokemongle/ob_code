@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "4_Java Data Types",
+      "path": "各种语言/java/4_Java Data Types.md"
+    },
+    {
       "basename": "3_Java Variables",
       "path": "各种语言/java/3_Java Variables.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "6_Python Casting",
       "path": "各种语言/python_tutorial/6_Python Casting.md"
-    },
-    {
-      "basename": "5_Python Numbers",
-      "path": "各种语言/python_tutorial/5_Python Numbers.md"
     }
   ],
   "omittedPaths": [],

@@ -4,39 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "8098fb52c1f51cf6",
+        "id": "6a13cac6e495c48f",
         "type": "tabs",
         "children": [
           {
-            "id": "a74af6ae9d1d4bc7",
+            "id": "eab22090e23cde51",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "各种语言/java/2_Java Comments.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2_Java Comments"
-            }
-          },
-          {
-            "id": "9888c7b77f421504",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "各种语言/java/3_Java Variables.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "3_Java Variables"
+              "title": "新标签页"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -103,8 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 294.5,
-    "collapsed": true
+    "width": 294.5
   },
   "right": {
     "id": "1bd954b4346845fe",
@@ -210,10 +190,11 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "9888c7b77f421504",
+  "active": "eab22090e23cde51",
   "lastOpenFiles": [
-    "各种语言/java/2_Java Comments.md",
+    "各种语言/java/4_Java Data Types.md",
     "各种语言/java/3_Java Variables.md",
+    "各种语言/java/2_Java Comments.md",
     "各种语言/java/1_Java Output.md",
     "各种语言/java/0_Java Get Started.md",
     "hku/P_WSI/配置服务器环境.md",
@@ -244,7 +225,6 @@
     "各种语言/python_tutorial/25_Python Modules.md",
     "各种语言/python_tutorial/3_Python Variables.md",
     "深度学习/李宏毅机器学习/hw4.md",
-    "深度学习/李宏毅机器学习/hw2.md",
     "debug记录",
     "深度学习/李宏毅机器学习",
     "各种语言/python_tutorial",
