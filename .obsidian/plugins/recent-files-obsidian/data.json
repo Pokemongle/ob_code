@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "1_Java Classes and Objects",
+      "path": "各种语言/java/java_classes/1_Java Classes and Objects.md"
+    },
+    {
       "basename": "0_Java OOP",
       "path": "各种语言/java/java_classes/0_Java OOP.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "24_Python Scope",
       "path": "各种语言/python_tutorial/24_Python Scope.md"
-    },
-    {
-      "basename": "22_Python Iterators",
-      "path": "各种语言/python_tutorial/22_Python Iterators.md"
     }
   ],
   "omittedPaths": [],

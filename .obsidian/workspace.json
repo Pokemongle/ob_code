@@ -4,39 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "05c229224e81d8bb",
+        "id": "497436a24180d89f",
         "type": "tabs",
         "children": [
           {
-            "id": "0b7d67db8ff64c94",
+            "id": "45c79e94815e3a31",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "各种语言/java/java_methods/4_Java Recursion.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "4_Java Recursion"
-            }
-          },
-          {
-            "id": "1376889ba3010fc9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "各种语言/java/java_classes/0_Java OOP.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "0_Java OOP"
+              "title": "新标签页"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -103,8 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 294.5,
-    "collapsed": true
+    "width": 294.5
   },
   "right": {
     "id": "1bd954b4346845fe",
@@ -164,7 +144,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "各种语言/java/java_classes/0_Java OOP.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -174,7 +153,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "0_Java OOP 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
@@ -211,10 +190,11 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "1376889ba3010fc9",
+  "active": "45c79e94815e3a31",
   "lastOpenFiles": [
-    "各种语言/java/java_methods/4_Java Recursion.md",
+    "各种语言/java/java_classes/1_Java Classes and Objects.md",
     "各种语言/java/java_classes/0_Java OOP.md",
+    "各种语言/java/java_methods/4_Java Recursion.md",
     "各种语言/java/java_classes",
     "各种语言/java/java_methods/3_Java Scope.md",
     "各种语言/java/java_methods/2_Java Method Overloading.md",
@@ -243,7 +223,6 @@
     "各种语言",
     "hku/P_WSI/related docs.md",
     "hku/P_WSI/12.18-12.24.md",
-    "深度学习/李宏毅生成式ai/lecture5-训练不了人工智能可以训练自己（下）.md",
     "深度学习/Prompt Engineering Guide/Prompting Techniques",
     "深度学习/Prompt Engineering Guide",
     "深度学习/李宏毅生成式ai",
