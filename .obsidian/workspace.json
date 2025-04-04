@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "6a13cac6e495c48f",
+        "id": "a264ca1b199310a7",
         "type": "tabs",
         "children": [
           {
-            "id": "eab22090e23cde51",
+            "id": "b9a5b2c9394ddeb0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "各种语言/java/8_Java Math.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "8_Java Math"
             }
           }
         ]
@@ -84,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 294.5
+    "width": 294.5,
+    "collapsed": true
   },
   "right": {
     "id": "1bd954b4346845fe",
@@ -144,6 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "各种语言/java/8_Java Math.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -153,7 +159,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "8_Java Math 的反向链接列表"
             }
           },
           {
@@ -190,8 +196,12 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "eab22090e23cde51",
+  "active": "b9a5b2c9394ddeb0",
   "lastOpenFiles": [
+    "各种语言/java/8_Java Math.md",
+    "各种语言/java/7_Java Strings.md",
+    "各种语言/java/6_Java Operators.md",
+    "各种语言/java/5_Java Type Casting.md",
     "各种语言/java/4_Java Data Types.md",
     "各种语言/java/3_Java Variables.md",
     "各种语言/java/2_Java Comments.md",
@@ -221,10 +231,6 @@
     "MMECG/paper",
     "MMECG",
     "各种语言/python_tutorial/23_Python Polymorphism.md",
-    "各种语言/python_tutorial/26_Python Datetime.md",
-    "各种语言/python_tutorial/25_Python Modules.md",
-    "各种语言/python_tutorial/3_Python Variables.md",
-    "深度学习/李宏毅机器学习/hw4.md",
     "debug记录",
     "深度学习/李宏毅机器学习",
     "各种语言/python_tutorial",

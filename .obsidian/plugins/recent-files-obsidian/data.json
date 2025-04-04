@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "8_Java Math",
+      "path": "各种语言/java/8_Java Math.md"
+    },
+    {
+      "basename": "7_Java Strings",
+      "path": "各种语言/java/7_Java Strings.md"
+    },
+    {
+      "basename": "6_Java Operators",
+      "path": "各种语言/java/6_Java Operators.md"
+    },
+    {
+      "basename": "5_Java Type Casting",
+      "path": "各种语言/java/5_Java Type Casting.md"
+    },
+    {
       "basename": "4_Java Data Types",
       "path": "各种语言/java/4_Java Data Types.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "75 soft - Ziyue Xiong",
       "path": "01 日记/75 soft - Ziyue Xiong.md"
-    },
-    {
-      "basename": "9_Python Operators",
-      "path": "各种语言/python_tutorial/9_Python Operators.md"
-    },
-    {
-      "basename": "8_Python Booleans",
-      "path": "各种语言/python_tutorial/8_Python Booleans.md"
-    },
-    {
-      "basename": "7_Python Strings",
-      "path": "各种语言/python_tutorial/7_Python Strings.md"
-    },
-    {
-      "basename": "6_Python Casting",
-      "path": "各种语言/python_tutorial/6_Python Casting.md"
     }
   ],
   "omittedPaths": [],
