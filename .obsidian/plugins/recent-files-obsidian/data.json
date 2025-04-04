@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "0_Java OOP",
+      "path": "各种语言/java/java_classes/0_Java OOP.md"
+    },
+    {
+      "basename": "4_Java Recursion",
+      "path": "各种语言/java/java_methods/4_Java Recursion.md"
+    },
+    {
+      "basename": "3_Java Scope",
+      "path": "各种语言/java/java_methods/3_Java Scope.md"
+    },
+    {
+      "basename": "2_Java Method Overloading",
+      "path": "各种语言/java/java_methods/2_Java Method Overloading.md"
+    },
+    {
       "basename": "1_Java Method Parameters",
       "path": "各种语言/java/java_methods/1_Java Method Parameters.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "22_Python Iterators",
       "path": "各种语言/python_tutorial/22_Python Iterators.md"
-    },
-    {
-      "basename": "21_Python Inheritance",
-      "path": "各种语言/python_tutorial/21_Python Inheritance.md"
-    },
-    {
-      "basename": "20_Python Classes and Objects",
-      "path": "各种语言/python_tutorial/20_Python Classes and Objects.md"
-    },
-    {
-      "basename": "19_Python Arrays",
-      "path": "各种语言/python_tutorial/19_Python Arrays.md"
-    },
-    {
-      "basename": "18_Python Lambda",
-      "path": "各种语言/python_tutorial/18_Python Lambda.md"
     }
   ],
   "omittedPaths": [],
