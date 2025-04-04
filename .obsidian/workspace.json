@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "7527ea5d5a903361",
+        "id": "8d93faa609d902c1",
         "type": "tabs",
         "children": [
           {
-            "id": "e94d7d3ab36e8eb8",
+            "id": "f55863da05837fb8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "各种语言/java/10_Java If ... Else.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "10_Java If ... Else"
+              "title": "新标签页"
             }
           }
         ]
@@ -149,7 +145,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "各种语言/java/10_Java If ... Else.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -159,7 +154,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "10_Java If ... Else 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
@@ -196,7 +191,7 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "e94d7d3ab36e8eb8",
+  "active": "f55863da05837fb8",
   "lastOpenFiles": [
     "各种语言/java/10_Java If ... Else.md",
     "各种语言/java/9_Java Booleans.md",
