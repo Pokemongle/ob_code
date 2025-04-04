@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "15_Java Arrays",
+      "path": "各种语言/java/15_Java Arrays.md"
+    },
+    {
+      "basename": "14_Java Break and Continue",
+      "path": "各种语言/java/14_Java Break and Continue.md"
+    },
+    {
       "basename": "13_Java For Loop",
       "path": "各种语言/java/13_Java For Loop.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "15_Python While Loops",
       "path": "各种语言/python_tutorial/15_Python While Loops.md"
-    },
-    {
-      "basename": "14_Python If ... Else",
-      "path": "各种语言/python_tutorial/14_Python If ... Else.md"
-    },
-    {
-      "basename": "13_Python Dictionary",
-      "path": "各种语言/python_tutorial/13_Python Dictionary.md"
     }
   ],
   "omittedPaths": [],
