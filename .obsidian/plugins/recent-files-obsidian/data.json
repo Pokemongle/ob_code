@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "10_Java If ... Else",
+      "path": "各种语言/java/10_Java If ... Else.md"
+    },
+    {
+      "basename": "9_Java Booleans",
+      "path": "各种语言/java/9_Java Booleans.md"
+    },
+    {
       "basename": "8_Java Math",
       "path": "各种语言/java/8_Java Math.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "10_Python Lists",
       "path": "各种语言/python_tutorial/10_Python Lists.md"
-    },
-    {
-      "basename": "2025-01-07",
-      "path": "01 日记/2025-01-07.md"
-    },
-    {
-      "basename": "75 soft - Ziyue Xiong",
-      "path": "01 日记/75 soft - Ziyue Xiong.md"
     }
   ],
   "omittedPaths": [],
