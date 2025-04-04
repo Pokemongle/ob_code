@@ -1,8 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "Java Get Started",
-      "path": "各种语言/java/Java Get Started.md"
+      "basename": "1_Java Output",
+      "path": "各种语言/java/1_Java Output.md"
+    },
+    {
+      "basename": "0_Java Get Started",
+      "path": "各种语言/java/0_Java Get Started.md"
     },
     {
       "basename": "配置服务器环境",
@@ -195,10 +199,6 @@
     {
       "basename": "2_Python Comments",
       "path": "各种语言/python_tutorial/2_Python Comments.md"
-    },
-    {
-      "basename": "1_Python Syntax",
-      "path": "各种语言/python_tutorial/1_Python Syntax.md"
     }
   ],
   "omittedPaths": [],
