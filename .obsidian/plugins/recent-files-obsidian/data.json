@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2_Java Comments",
+      "path": "2_Java Comments.md"
+    },
+    {
       "basename": "1_Java Output",
       "path": "各种语言/java/1_Java Output.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "4_Python Data Types",
       "path": "各种语言/python_tutorial/4_Python Data Types.md"
-    },
-    {
-      "basename": "2_Python Comments",
-      "path": "各种语言/python_tutorial/2_Python Comments.md"
     }
   ],
   "omittedPaths": [],

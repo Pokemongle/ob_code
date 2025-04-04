@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "89f0793d92deef7c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "各种语言/java/0_Java Get Started.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "0_Java Get Started"
-            }
-          },
-          {
             "id": "4c63a85a4b861b6e",
             "type": "leaf",
             "state": {
@@ -33,6 +19,20 @@
               },
               "icon": "lucide-file",
               "title": "1_Java Output"
+            }
+          },
+          {
+            "id": "a74af6ae9d1d4bc7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2_Java Comments.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2_Java Comments"
             }
           }
         ],
@@ -210,10 +210,11 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "4c63a85a4b861b6e",
+  "active": "a74af6ae9d1d4bc7",
   "lastOpenFiles": [
-    "各种语言/java/0_Java Get Started.md",
     "各种语言/java/1_Java Output.md",
+    "2_Java Comments.md",
+    "各种语言/java/0_Java Get Started.md",
     "hku/P_WSI/配置服务器环境.md",
     "各种语言/java",
     "各种语言",
@@ -244,7 +245,6 @@
     "深度学习/李宏毅机器学习/hw4.md",
     "深度学习/李宏毅机器学习/hw2.md",
     "深度学习/李宏毅机器学习/hw1.md",
-    "深度学习/李宏毅机器学习/L2-What to do if my network fails to train.md",
     "debug记录",
     "深度学习/李宏毅机器学习",
     "各种语言/python_tutorial",
