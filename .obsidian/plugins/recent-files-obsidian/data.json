@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "12_Java While Loop",
-      "path": "各种语言/java/12_Java While Loop.md"
+      "basename": "13_Java For Loop",
+      "path": "各种语言/java/13_Java For Loop.md"
     },
     {
       "basename": "11_Java Switch",
       "path": "各种语言/java/11_Java Switch.md"
+    },
+    {
+      "basename": "12_Java While Loop",
+      "path": "各种语言/java/12_Java While Loop.md"
     },
     {
       "basename": "10_Java If ... Else",
@@ -195,10 +199,6 @@
     {
       "basename": "13_Python Dictionary",
       "path": "各种语言/python_tutorial/13_Python Dictionary.md"
-    },
-    {
-      "basename": "12_Python Sets",
-      "path": "各种语言/python_tutorial/12_Python Sets.md"
     }
   ],
   "omittedPaths": [],
