@@ -1,68 +1,76 @@
 {
   "recentFiles": [
     {
-      "basename": "15_Java Arrays",
-      "path": "各种语言/java/15_Java Arrays.md"
+      "basename": "未命名",
+      "path": "各种语言/java/java_methods/未命名.md"
     },
     {
-      "basename": "14_Java Break and Continue",
-      "path": "各种语言/java/14_Java Break and Continue.md"
-    },
-    {
-      "basename": "13_Java For Loop",
-      "path": "各种语言/java/13_Java For Loop.md"
-    },
-    {
-      "basename": "11_Java Switch",
-      "path": "各种语言/java/11_Java Switch.md"
-    },
-    {
-      "basename": "12_Java While Loop",
-      "path": "各种语言/java/12_Java While Loop.md"
-    },
-    {
-      "basename": "10_Java If ... Else",
-      "path": "各种语言/java/10_Java If ... Else.md"
-    },
-    {
-      "basename": "9_Java Booleans",
-      "path": "各种语言/java/9_Java Booleans.md"
-    },
-    {
-      "basename": "8_Java Math",
-      "path": "各种语言/java/8_Java Math.md"
-    },
-    {
-      "basename": "7_Java Strings",
-      "path": "各种语言/java/7_Java Strings.md"
-    },
-    {
-      "basename": "6_Java Operators",
-      "path": "各种语言/java/6_Java Operators.md"
-    },
-    {
-      "basename": "5_Java Type Casting",
-      "path": "各种语言/java/5_Java Type Casting.md"
-    },
-    {
-      "basename": "4_Java Data Types",
-      "path": "各种语言/java/4_Java Data Types.md"
-    },
-    {
-      "basename": "3_Java Variables",
-      "path": "各种语言/java/3_Java Variables.md"
-    },
-    {
-      "basename": "2_Java Comments",
-      "path": "各种语言/java/2_Java Comments.md"
-    },
-    {
-      "basename": "1_Java Output",
-      "path": "各种语言/java/1_Java Output.md"
+      "basename": "0_Java Methods",
+      "path": "各种语言/java/java_methods/0_Java Methods.md"
     },
     {
       "basename": "0_Java Get Started",
-      "path": "各种语言/java/0_Java Get Started.md"
+      "path": "各种语言/java/java_tutorial/0_Java Get Started.md"
+    },
+    {
+      "basename": "15_Java Arrays",
+      "path": "各种语言/java/java_tutorial/15_Java Arrays.md"
+    },
+    {
+      "basename": "14_Java Break and Continue",
+      "path": "各种语言/java/java_tutorial/14_Java Break and Continue.md"
+    },
+    {
+      "basename": "13_Java For Loop",
+      "path": "各种语言/java/java_tutorial/13_Java For Loop.md"
+    },
+    {
+      "basename": "11_Java Switch",
+      "path": "各种语言/java/java_tutorial/11_Java Switch.md"
+    },
+    {
+      "basename": "12_Java While Loop",
+      "path": "各种语言/java/java_tutorial/12_Java While Loop.md"
+    },
+    {
+      "basename": "10_Java If ... Else",
+      "path": "各种语言/java/java_tutorial/10_Java If ... Else.md"
+    },
+    {
+      "basename": "9_Java Booleans",
+      "path": "各种语言/java/java_tutorial/9_Java Booleans.md"
+    },
+    {
+      "basename": "8_Java Math",
+      "path": "各种语言/java/java_tutorial/8_Java Math.md"
+    },
+    {
+      "basename": "7_Java Strings",
+      "path": "各种语言/java/java_tutorial/7_Java Strings.md"
+    },
+    {
+      "basename": "6_Java Operators",
+      "path": "各种语言/java/java_tutorial/6_Java Operators.md"
+    },
+    {
+      "basename": "5_Java Type Casting",
+      "path": "各种语言/java/java_tutorial/5_Java Type Casting.md"
+    },
+    {
+      "basename": "4_Java Data Types",
+      "path": "各种语言/java/java_tutorial/4_Java Data Types.md"
+    },
+    {
+      "basename": "3_Java Variables",
+      "path": "各种语言/java/java_tutorial/3_Java Variables.md"
+    },
+    {
+      "basename": "2_Java Comments",
+      "path": "各种语言/java/java_tutorial/2_Java Comments.md"
+    },
+    {
+      "basename": "1_Java Output",
+      "path": "各种语言/java/java_tutorial/1_Java Output.md"
     },
     {
       "basename": "配置服务器环境",
@@ -191,14 +199,6 @@
     {
       "basename": "18_Python Lambda",
       "path": "各种语言/python_tutorial/18_Python Lambda.md"
-    },
-    {
-      "basename": "16_Python For Loops",
-      "path": "各种语言/python_tutorial/16_Python For Loops.md"
-    },
-    {
-      "basename": "15_Python While Loops",
-      "path": "各种语言/python_tutorial/15_Python While Loops.md"
     }
   ],
   "omittedPaths": [],
