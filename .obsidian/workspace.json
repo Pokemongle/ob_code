@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "8d93faa609d902c1",
+        "id": "7d68dda13bc3c1db",
         "type": "tabs",
         "children": [
           {
-            "id": "f55863da05837fb8",
+            "id": "c35cda1322877d3e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "各种语言/java/12_Java While Loop.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "12_Java While Loop"
             }
           }
         ]
@@ -145,6 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "各种语言/java/12_Java While Loop.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -154,7 +159,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "12_Java While Loop 的反向链接列表"
             }
           },
           {
@@ -191,8 +196,10 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "f55863da05837fb8",
+  "active": "c35cda1322877d3e",
   "lastOpenFiles": [
+    "各种语言/java/12_Java While Loop.md",
+    "各种语言/java/11_Java Switch.md",
     "各种语言/java/10_Java If ... Else.md",
     "各种语言/java/9_Java Booleans.md",
     "各种语言/java/8_Java Math.md",
@@ -221,9 +228,7 @@
     "深度学习/李宏毅生成式ai/lecture2-提示工程&AI代理人.md",
     "01 日记/Mental Bumps.md",
     "().md",
-    "深度学习/李宏毅生成式ai/lecture1-课程内容说明.md",
     "深度学习/李宏毅生成式ai",
-    "MMECG/paper/TEACH MULTIMODAL LLMS TO COMPREHEND ELEC TROCARDIOGRAPHIC IMAGES.md",
     "MMECG/paper",
     "MMECG",
     "debug记录",
