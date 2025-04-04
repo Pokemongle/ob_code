@@ -1716,6 +1716,8 @@ doesn
 duplicate
 debug
 demonstrations
+diverse
+dbq
 list
 linear
 learning
@@ -2640,6 +2642,9 @@ saddle
 specify
 sensitive
 social
+shot
+suboptimal
+solutions
 algebra
 abs
 after
@@ -3001,6 +3006,7 @@ allowed
 assign
 args
 api
+already
 exercise
 ee
 edit
@@ -3543,6 +3549,7 @@ exe
 epoch
 extension
 examples
+effective
 min
 make
 mini
@@ -5016,6 +5023,7 @@ File
 Fetching
 Fast
 Fails
+Few
 things
 to
 transcript
@@ -6352,6 +6360,7 @@ formats
 fetch
 forwarding
 feeling
+few
 MIT
 Morning
 Min
@@ -8026,6 +8035,8 @@ points
 parent
 popular
 proxies
+perfect
+prompting
 hrs
 hr
 house
@@ -8416,6 +8427,7 @@ happen
 haven
 hand
 holidays
+hrh
 English
 Evening
 Electrical
@@ -9295,6 +9307,7 @@ represented
 reference
 region
 regression
+reasoning
 School
 Science
 Sour
@@ -10219,6 +10232,7 @@ indexed
 iterable
 inside
 inherit
+instruction
 but
 burpee
 brought
@@ -11945,6 +11959,9 @@ contain
 csdiy
 colab
 chatgpt
+complex
+crafting
+could
 Learn
 Li
 List
@@ -12270,6 +12287,7 @@ Loop
 Looping
 Language
 Loss
+Limitations
 Afternoon
 AI
 Achieved
@@ -13102,6 +13120,7 @@ window
 was
 world
 why
+wrong
 Computer
 Changsha
 Ctrl
@@ -14302,6 +14321,7 @@ ZSK
 ZpR
 ZxC
 Ziyue
+Zero
 Guizhou
 Get
 Gives
@@ -15383,6 +15403,7 @@ Path
 Pascal
 Polymorphism
 Prompt
+Prompting
 yesterday
 year
 yield
@@ -21771,6 +21792,7 @@ zIg
 zfF
 zeE
 zyxiong
+zero
 Yr
 YI
 YJ

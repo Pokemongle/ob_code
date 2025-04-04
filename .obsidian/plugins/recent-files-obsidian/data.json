@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "small talk",
-      "path": "01 日记/small talk.md"
+      "basename": "Java Get Started",
+      "path": "各种语言/java/Java Get Started.md"
     },
     {
-      "basename": "0. Zero-shot Prompting",
-      "path": "深度学习/Prompt Engineering Guide/Prompting Techniques/0. Zero-shot Prompting.md"
+      "basename": "配置服务器环境",
+      "path": "hku/P_WSI/配置服务器环境.md"
+    },
+    {
+      "basename": "related docs",
+      "path": "hku/P_WSI/related docs.md"
+    },
+    {
+      "basename": "12.18-12.24",
+      "path": "hku/P_WSI/12.18-12.24.md"
+    },
+    {
+      "basename": "lecture5-训练不了人工智能可以训练自己（下）",
+      "path": "深度学习/李宏毅生成式ai/lecture5-训练不了人工智能可以训练自己（下）.md"
     },
     {
       "basename": "2. Chain-of-Thought(CoT) Prompting",
@@ -15,6 +27,14 @@
     {
       "basename": "1. Few-Shot Prompting",
       "path": "深度学习/Prompt Engineering Guide/Prompting Techniques/1. Few-Shot Prompting.md"
+    },
+    {
+      "basename": "small talk",
+      "path": "01 日记/small talk.md"
+    },
+    {
+      "basename": "0. Zero-shot Prompting",
+      "path": "深度学习/Prompt Engineering Guide/Prompting Techniques/0. Zero-shot Prompting.md"
     },
     {
       "basename": "hw1",
@@ -42,35 +62,23 @@
     },
     {
       "basename": "17_Python Functions",
-      "path": "深度学习/python_tutorial/17_Python Functions.md"
+      "path": "各种语言/python_tutorial/17_Python Functions.md"
     },
     {
       "basename": "23_Python Polymorphism",
-      "path": "深度学习/python_tutorial/23_Python Polymorphism.md"
+      "path": "各种语言/python_tutorial/23_Python Polymorphism.md"
     },
     {
       "basename": "26_Python Datetime",
-      "path": "深度学习/python_tutorial/26_Python Datetime.md"
+      "path": "各种语言/python_tutorial/26_Python Datetime.md"
     },
     {
       "basename": "25_Python Modules",
-      "path": "深度学习/python_tutorial/25_Python Modules.md"
+      "path": "各种语言/python_tutorial/25_Python Modules.md"
     },
     {
       "basename": "3_Python Variables",
-      "path": "深度学习/python_tutorial/3_Python Variables.md"
-    },
-    {
-      "basename": "related docs",
-      "path": "hku/P_WSI/related docs.md"
-    },
-    {
-      "basename": "12.18-12.24",
-      "path": "hku/P_WSI/12.18-12.24.md"
-    },
-    {
-      "basename": "配置服务器环境",
-      "path": "hku/P_WSI/配置服务器环境.md"
+      "path": "各种语言/python_tutorial/3_Python Variables.md"
     },
     {
       "basename": "hw4",
@@ -102,55 +110,55 @@
     },
     {
       "basename": "24_Python Scope",
-      "path": "深度学习/python_tutorial/24_Python Scope.md"
+      "path": "各种语言/python_tutorial/24_Python Scope.md"
     },
     {
       "basename": "22_Python Iterators",
-      "path": "深度学习/python_tutorial/22_Python Iterators.md"
+      "path": "各种语言/python_tutorial/22_Python Iterators.md"
     },
     {
       "basename": "21_Python Inheritance",
-      "path": "深度学习/python_tutorial/21_Python Inheritance.md"
+      "path": "各种语言/python_tutorial/21_Python Inheritance.md"
     },
     {
       "basename": "20_Python Classes and Objects",
-      "path": "深度学习/python_tutorial/20_Python Classes and Objects.md"
+      "path": "各种语言/python_tutorial/20_Python Classes and Objects.md"
     },
     {
       "basename": "19_Python Arrays",
-      "path": "深度学习/python_tutorial/19_Python Arrays.md"
+      "path": "各种语言/python_tutorial/19_Python Arrays.md"
     },
     {
       "basename": "18_Python Lambda",
-      "path": "深度学习/python_tutorial/18_Python Lambda.md"
+      "path": "各种语言/python_tutorial/18_Python Lambda.md"
     },
     {
       "basename": "16_Python For Loops",
-      "path": "深度学习/python_tutorial/16_Python For Loops.md"
+      "path": "各种语言/python_tutorial/16_Python For Loops.md"
     },
     {
       "basename": "15_Python While Loops",
-      "path": "深度学习/python_tutorial/15_Python While Loops.md"
+      "path": "各种语言/python_tutorial/15_Python While Loops.md"
     },
     {
       "basename": "14_Python If ... Else",
-      "path": "深度学习/python_tutorial/14_Python If ... Else.md"
+      "path": "各种语言/python_tutorial/14_Python If ... Else.md"
     },
     {
       "basename": "13_Python Dictionary",
-      "path": "深度学习/python_tutorial/13_Python Dictionary.md"
+      "path": "各种语言/python_tutorial/13_Python Dictionary.md"
     },
     {
       "basename": "12_Python Sets",
-      "path": "深度学习/python_tutorial/12_Python Sets.md"
+      "path": "各种语言/python_tutorial/12_Python Sets.md"
     },
     {
       "basename": "11_Python Tuples",
-      "path": "深度学习/python_tutorial/11_Python Tuples.md"
+      "path": "各种语言/python_tutorial/11_Python Tuples.md"
     },
     {
       "basename": "10_Python Lists",
-      "path": "深度学习/python_tutorial/10_Python Lists.md"
+      "path": "各种语言/python_tutorial/10_Python Lists.md"
     },
     {
       "basename": "2025-01-07",
@@ -162,43 +170,35 @@
     },
     {
       "basename": "9_Python Operators",
-      "path": "深度学习/python_tutorial/9_Python Operators.md"
+      "path": "各种语言/python_tutorial/9_Python Operators.md"
     },
     {
       "basename": "8_Python Booleans",
-      "path": "深度学习/python_tutorial/8_Python Booleans.md"
+      "path": "各种语言/python_tutorial/8_Python Booleans.md"
     },
     {
       "basename": "7_Python Strings",
-      "path": "深度学习/python_tutorial/7_Python Strings.md"
+      "path": "各种语言/python_tutorial/7_Python Strings.md"
     },
     {
       "basename": "6_Python Casting",
-      "path": "深度学习/python_tutorial/6_Python Casting.md"
+      "path": "各种语言/python_tutorial/6_Python Casting.md"
     },
     {
       "basename": "5_Python Numbers",
-      "path": "深度学习/python_tutorial/5_Python Numbers.md"
+      "path": "各种语言/python_tutorial/5_Python Numbers.md"
     },
     {
       "basename": "4_Python Data Types",
-      "path": "深度学习/python_tutorial/4_Python Data Types.md"
+      "path": "各种语言/python_tutorial/4_Python Data Types.md"
     },
     {
       "basename": "2_Python Comments",
-      "path": "深度学习/python_tutorial/2_Python Comments.md"
+      "path": "各种语言/python_tutorial/2_Python Comments.md"
     },
     {
       "basename": "1_Python Syntax",
-      "path": "深度学习/python_tutorial/1_Python Syntax.md"
-    },
-    {
-      "basename": "0_Python Get Started",
-      "path": "深度学习/python_tutorial/0_Python Get Started.md"
-    },
-    {
-      "basename": "3 Git Branching",
-      "path": "必学工具/Git/ProGit/3 Git Branching.md"
+      "path": "各种语言/python_tutorial/1_Python Syntax.md"
     }
   ],
   "omittedPaths": [],
