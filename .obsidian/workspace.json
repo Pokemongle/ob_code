@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "497436a24180d89f",
+        "id": "963699eef0fdd17c",
         "type": "tabs",
         "children": [
           {
-            "id": "45c79e94815e3a31",
+            "id": "7d373f7631f7b4c8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "深度学习/动手学深度学习.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "动手学深度学习"
             }
           }
         ]
@@ -144,6 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "深度学习/动手学深度学习.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -153,7 +158,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "动手学深度学习 的反向链接列表"
             }
           },
           {
@@ -190,24 +195,24 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "45c79e94815e3a31",
+  "active": "3a8201c8c12fa4cb",
   "lastOpenFiles": [
+    "各种语言/java/java_classes/5_Java Modifiers.md",
+    "各种语言/java/java_classes/4_Java Constructors.md",
+    "各种语言/java/java_classes/3_Java Class Methods.md",
+    "各种语言/java/java_classes/2_Java Class Attributes.md",
     "各种语言/java/java_classes/1_Java Classes and Objects.md",
     "各种语言/java/java_classes/0_Java OOP.md",
     "各种语言/java/java_methods/4_Java Recursion.md",
-    "各种语言/java/java_classes",
     "各种语言/java/java_methods/3_Java Scope.md",
     "各种语言/java/java_methods/2_Java Method Overloading.md",
     "各种语言/java/java_methods/1_Java Method Parameters.md",
     "各种语言/java/java_methods/0_Java Methods.md",
-    "各种语言/java/java_tutorial/0_Java Get Started.md",
-    "各种语言/java/java_methods",
-    "各种语言/java/java_tutorial",
     "各种语言/java/java_tutorial/15_Java Arrays.md",
     "各种语言/java/java_tutorial/14_Java Break and Continue.md",
     "各种语言/java/java_tutorial/13_Java For Loop.md",
-    "各种语言/java/java_tutorial/11_Java Switch.md",
     "各种语言/java/java_tutorial/12_Java While Loop.md",
+    "各种语言/java/java_tutorial/11_Java Switch.md",
     "各种语言/java/java_tutorial/10_Java If ... Else.md",
     "各种语言/java/java_tutorial/9_Java Booleans.md",
     "各种语言/java/java_tutorial/8_Java Math.md",
@@ -218,11 +223,11 @@
     "各种语言/java/java_tutorial/3_Java Variables.md",
     "各种语言/java/java_tutorial/2_Java Comments.md",
     "各种语言/java/java_tutorial/1_Java Output.md",
-    "hku/P_WSI/配置服务器环境.md",
+    "各种语言/java/java_classes",
+    "各种语言/java/java_methods",
+    "各种语言/java/java_tutorial",
     "各种语言/java",
     "各种语言",
-    "hku/P_WSI/related docs.md",
-    "hku/P_WSI/12.18-12.24.md",
     "深度学习/Prompt Engineering Guide/Prompting Techniques",
     "深度学习/Prompt Engineering Guide",
     "深度学习/李宏毅生成式ai",

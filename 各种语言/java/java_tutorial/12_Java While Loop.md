@@ -8,7 +8,8 @@ while (i < 5) {
 ```
 # Java Do/While Loop
 ```java
-int i = 0;do {
+int i = 0;
+do {
   System.out.println(i);
   i++;
 }

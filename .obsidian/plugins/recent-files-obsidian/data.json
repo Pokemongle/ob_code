@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "动手学深度学习",
+      "path": "深度学习/动手学深度学习.md"
+    },
+    {
+      "basename": "5_Java Modifiers",
+      "path": "各种语言/java/java_classes/5_Java Modifiers.md"
+    },
+    {
+      "basename": "4_Java Constructors",
+      "path": "各种语言/java/java_classes/4_Java Constructors.md"
+    },
+    {
+      "basename": "3_Java Class Methods",
+      "path": "各种语言/java/java_classes/3_Java Class Methods.md"
+    },
+    {
+      "basename": "2_Java Class Attributes",
+      "path": "各种语言/java/java_classes/2_Java Class Attributes.md"
+    },
+    {
       "basename": "1_Java Classes and Objects",
       "path": "各种语言/java/java_classes/1_Java Classes and Objects.md"
     },
@@ -29,10 +49,6 @@
       "path": "各种语言/java/java_methods/0_Java Methods.md"
     },
     {
-      "basename": "0_Java Get Started",
-      "path": "各种语言/java/java_tutorial/0_Java Get Started.md"
-    },
-    {
       "basename": "15_Java Arrays",
       "path": "各种语言/java/java_tutorial/15_Java Arrays.md"
     },
@@ -45,12 +61,12 @@
       "path": "各种语言/java/java_tutorial/13_Java For Loop.md"
     },
     {
-      "basename": "11_Java Switch",
-      "path": "各种语言/java/java_tutorial/11_Java Switch.md"
-    },
-    {
       "basename": "12_Java While Loop",
       "path": "各种语言/java/java_tutorial/12_Java While Loop.md"
+    },
+    {
+      "basename": "11_Java Switch",
+      "path": "各种语言/java/java_tutorial/11_Java Switch.md"
     },
     {
       "basename": "10_Java If ... Else",
@@ -91,6 +107,14 @@
     {
       "basename": "1_Java Output",
       "path": "各种语言/java/java_tutorial/1_Java Output.md"
+    },
+    {
+      "basename": "0_Java Get Started",
+      "path": "各种语言/java/java_tutorial/0_Java Get Started.md"
+    },
+    {
+      "basename": "6_Java Encapsulation",
+      "path": "各种语言/java/java_classes/6_Java Encapsulation.md"
     },
     {
       "basename": "配置服务器环境",
@@ -175,30 +199,6 @@
     {
       "basename": "hw2",
       "path": "深度学习/李宏毅机器学习/hw2.md"
-    },
-    {
-      "basename": "hw1",
-      "path": "深度学习/李宏毅机器学习/hw1.md"
-    },
-    {
-      "basename": "L2-What to do if my network fails to train",
-      "path": "深度学习/李宏毅机器学习/L2-What to do if my network fails to train.md"
-    },
-    {
-      "basename": "pycharm terminal没有conda环境",
-      "path": "debug记录/pycharm terminal没有conda环境.md"
-    },
-    {
-      "basename": "动手学深度学习",
-      "path": "深度学习/动手学深度学习.md"
-    },
-    {
-      "basename": "ch1_Introduction",
-      "path": "深度学习/UMich_DL_CV/ch1_Introduction.md"
-    },
-    {
-      "basename": "24_Python Scope",
-      "path": "各种语言/python_tutorial/24_Python Scope.md"
     }
   ],
   "omittedPaths": [],
