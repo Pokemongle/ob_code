@@ -1,6 +1,42 @@
 {
   "recentFiles": [
     {
+      "basename": "25_Python Modules",
+      "path": "各种语言/python_tutorial/25_Python Modules.md"
+    },
+    {
+      "basename": "24_Python Scope",
+      "path": "各种语言/python_tutorial/24_Python Scope.md"
+    },
+    {
+      "basename": "13_Python Dictionary",
+      "path": "各种语言/python_tutorial/13_Python Dictionary.md"
+    },
+    {
+      "basename": "related docs",
+      "path": "hku/P_WSI/related docs.md"
+    },
+    {
+      "basename": "配置服务器环境",
+      "path": "hku/P_WSI/配置服务器环境.md"
+    },
+    {
+      "basename": "hw3",
+      "path": "深度学习/李宏毅生成式ai/hw3.md"
+    },
+    {
+      "basename": "lecture1-课程内容说明",
+      "path": "深度学习/李宏毅生成式ai/lecture1-课程内容说明.md"
+    },
+    {
+      "basename": "lecture2-提示工程&AI代理人",
+      "path": "深度学习/李宏毅生成式ai/lecture2-提示工程&AI代理人.md"
+    },
+    {
+      "basename": "hw1",
+      "path": "深度学习/李宏毅生成式ai/hw1.md"
+    },
+    {
       "basename": "动手学深度学习",
       "path": "深度学习/动手学深度学习.md"
     },
@@ -117,14 +153,6 @@
       "path": "各种语言/java/java_classes/6_Java Encapsulation.md"
     },
     {
-      "basename": "配置服务器环境",
-      "path": "hku/P_WSI/配置服务器环境.md"
-    },
-    {
-      "basename": "related docs",
-      "path": "hku/P_WSI/related docs.md"
-    },
-    {
       "basename": "12.18-12.24",
       "path": "hku/P_WSI/12.18-12.24.md"
     },
@@ -149,24 +177,8 @@
       "path": "深度学习/Prompt Engineering Guide/Prompting Techniques/0. Zero-shot Prompting.md"
     },
     {
-      "basename": "hw1",
-      "path": "深度学习/李宏毅生成式ai/hw1.md"
-    },
-    {
-      "basename": "hw3",
-      "path": "深度学习/李宏毅生成式ai/hw3.md"
-    },
-    {
-      "basename": "lecture2-提示工程&AI代理人",
-      "path": "深度学习/李宏毅生成式ai/lecture2-提示工程&AI代理人.md"
-    },
-    {
       "basename": "Mental Bumps",
       "path": "01 日记/Mental Bumps.md"
-    },
-    {
-      "basename": "lecture1-课程内容说明",
-      "path": "深度学习/李宏毅生成式ai/lecture1-课程内容说明.md"
     },
     {
       "basename": "TEACH MULTIMODAL LLMS TO COMPREHEND ELEC TROCARDIOGRAPHIC IMAGES",
@@ -185,20 +197,8 @@
       "path": "各种语言/python_tutorial/26_Python Datetime.md"
     },
     {
-      "basename": "25_Python Modules",
-      "path": "各种语言/python_tutorial/25_Python Modules.md"
-    },
-    {
       "basename": "3_Python Variables",
       "path": "各种语言/python_tutorial/3_Python Variables.md"
-    },
-    {
-      "basename": "hw4",
-      "path": "深度学习/李宏毅机器学习/hw4.md"
-    },
-    {
-      "basename": "hw2",
-      "path": "深度学习/李宏毅机器学习/hw2.md"
     }
   ],
   "omittedPaths": [],
