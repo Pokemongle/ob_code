@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "各种语言/python_tutorial/25_Python Modules.md",
+                "file": "各种语言/java/java_classes/6_Java Encapsulation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "25_Python Modules"
+              "title": "6_Java Encapsulation"
             }
           }
         ]
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "各种语言/python_tutorial/25_Python Modules.md",
+                "file": "各种语言/java/java_classes/6_Java Encapsulation.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -158,7 +158,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "25_Python Modules 的反向链接列表"
+              "title": "6_Java Encapsulation 的反向链接列表"
             }
           },
           {
@@ -197,6 +197,7 @@
   },
   "active": "7d373f7631f7b4c8",
   "lastOpenFiles": [
+    "各种语言/python_tutorial/25_Python Modules.md",
     "各种语言/python_tutorial/24_Python Scope.md",
     "各种语言/python_tutorial/13_Python Dictionary.md",
     "hku/P_WSI/related docs.md",
@@ -222,7 +223,6 @@
     "各种语言/java/java_tutorial/13_Java For Loop.md",
     "各种语言/java/java_tutorial/12_Java While Loop.md",
     "各种语言/java/java_tutorial/11_Java Switch.md",
-    "各种语言/java/java_tutorial/10_Java If ... Else.md",
     "各种语言/java/java_classes",
     "各种语言/java/java_methods",
     "各种语言/java/java_tutorial",
