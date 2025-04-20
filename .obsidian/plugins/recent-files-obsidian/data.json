@@ -1,28 +1,48 @@
 {
   "recentFiles": [
     {
-      "basename": "6_Java Encapsulation",
-      "path": "各种语言/java/java_classes/6_Java Encapsulation.md"
+      "basename": "Python RegEx",
+      "path": "各种语言/python_tutorial/advanced/Python RegEx.md"
     },
     {
-      "basename": "25_Python Modules",
-      "path": "各种语言/python_tutorial/25_Python Modules.md"
-    },
-    {
-      "basename": "24_Python Scope",
-      "path": "各种语言/python_tutorial/24_Python Scope.md"
-    },
-    {
-      "basename": "13_Python Dictionary",
-      "path": "各种语言/python_tutorial/13_Python Dictionary.md"
+      "basename": "0_Python Get Started",
+      "path": "各种语言/python_tutorial/basics/0_Python Get Started.md"
     },
     {
       "basename": "related docs",
       "path": "hku/P_WSI/related docs.md"
     },
     {
+      "basename": "6_Java Encapsulation",
+      "path": "各种语言/java/java_classes/6_Java Encapsulation.md"
+    },
+    {
+      "basename": "12.18-12.24",
+      "path": "hku/P_WSI/12.18-12.24.md"
+    },
+    {
       "basename": "配置服务器环境",
       "path": "hku/P_WSI/配置服务器环境.md"
+    },
+    {
+      "basename": "7_Java Packages_API",
+      "path": "各种语言/java/java_classes/7_Java Packages_API.md"
+    },
+    {
+      "basename": "5_Java Modifiers",
+      "path": "各种语言/java/java_classes/5_Java Modifiers.md"
+    },
+    {
+      "basename": "25_Python Modules",
+      "path": "各种语言/python_tutorial/basics/25_Python Modules.md"
+    },
+    {
+      "basename": "24_Python Scope",
+      "path": "各种语言/python_tutorial/basics/24_Python Scope.md"
+    },
+    {
+      "basename": "13_Python Dictionary",
+      "path": "各种语言/python_tutorial/basics/13_Python Dictionary.md"
     },
     {
       "basename": "hw3",
@@ -43,10 +63,6 @@
     {
       "basename": "动手学深度学习",
       "path": "深度学习/动手学深度学习.md"
-    },
-    {
-      "basename": "5_Java Modifiers",
-      "path": "各种语言/java/java_classes/5_Java Modifiers.md"
     },
     {
       "basename": "4_Java Constructors",
@@ -153,10 +169,6 @@
       "path": "各种语言/java/java_tutorial/0_Java Get Started.md"
     },
     {
-      "basename": "12.18-12.24",
-      "path": "hku/P_WSI/12.18-12.24.md"
-    },
-    {
       "basename": "lecture5-训练不了人工智能可以训练自己（下）",
       "path": "深度学习/李宏毅生成式ai/lecture5-训练不了人工智能可以训练自己（下）.md"
     },
@@ -186,19 +198,7 @@
     },
     {
       "basename": "17_Python Functions",
-      "path": "各种语言/python_tutorial/17_Python Functions.md"
-    },
-    {
-      "basename": "23_Python Polymorphism",
-      "path": "各种语言/python_tutorial/23_Python Polymorphism.md"
-    },
-    {
-      "basename": "26_Python Datetime",
-      "path": "各种语言/python_tutorial/26_Python Datetime.md"
-    },
-    {
-      "basename": "3_Python Variables",
-      "path": "各种语言/python_tutorial/3_Python Variables.md"
+      "path": "各种语言/python_tutorial/basics/17_Python Functions.md"
     }
   ],
   "omittedPaths": [],
