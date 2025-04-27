@@ -5,6 +5,10 @@
       "path": "各种语言/python_tutorial/advanced/Python RegEx.md"
     },
     {
+      "basename": "2 Working with text data",
+      "path": "深度学习/llm/llm_from_scratch/2 Working with text data.md"
+    },
+    {
       "basename": "0_Python Get Started",
       "path": "各种语言/python_tutorial/basics/0_Python Get Started.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "TEACH MULTIMODAL LLMS TO COMPREHEND ELEC TROCARDIOGRAPHIC IMAGES",
       "path": "MMECG/paper/TEACH MULTIMODAL LLMS TO COMPREHEND ELEC TROCARDIOGRAPHIC IMAGES.md"
-    },
-    {
-      "basename": "17_Python Functions",
-      "path": "各种语言/python_tutorial/basics/17_Python Functions.md"
     }
   ],
   "omittedPaths": [],

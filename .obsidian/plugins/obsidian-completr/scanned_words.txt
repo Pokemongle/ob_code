@@ -2129,6 +2129,7 @@ lxy
 lowercase
 larger
 locally
+literal
 study
 surgery
 send
@@ -2670,6 +2671,10 @@ superclasses
 skipped
 serializing
 sure
+signals
+sequence
+str
+specified
 algebra
 abs
 after
@@ -3586,6 +3591,8 @@ effective
 except
 escape
 either
+ends
+exactly
 min
 make
 mini
@@ -4247,6 +4254,7 @@ modifier
 meaning
 modifiers
 memory
+matches
 oxygen
 other
 ok
@@ -4673,6 +4681,7 @@ operators
 oriented
 overloading
 overridden
+occurrences
 Funny
 Finally
 First
@@ -7350,6 +7359,7 @@ Rain
 Reserved
 Rectangle
 Real
+RULES
 Do
 Day
 Did
@@ -8120,6 +8130,7 @@ packages
 provided
 pairs
 public
+prepare
 hrs
 hr
 house
@@ -9402,6 +9413,8 @@ recommended
 refer
 rather
 referred
+regular
+returns
 School
 Science
 Sour
@@ -12089,6 +12102,8 @@ constructors
 chapters
 containing
 cached
+considered
+characters
 Learn
 Li
 List
