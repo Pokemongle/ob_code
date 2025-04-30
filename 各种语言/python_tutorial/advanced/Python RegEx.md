@@ -16,6 +16,8 @@ the RULES
 	![image.png](https://cdn.jsdelivr.net/gh/Pokemongle/img_bed_0@main/img/202504201624784.png)
 > a "raw string" is a str where the `\` in it is considered literal instead of escape characters 
 
+`\w` equals to `[A-Za-z0-9_]`
+
 `.`: any character except `\n`
 	`he..o`
 `^`: start with
@@ -94,3 +96,38 @@ print(re.findall(r"\d{3,4}-\d{1,10}|\d{8,12}", text))
 - 是否有内部制约关系
 
 # 3. RegEx的语法规则
+![image.png](https://cdn.jsdelivr.net/gh/Pokemongle/img_bed_0@main/img/202504271548898.png)
+
+![image.png](https://cdn.jsdelivr.net/gh/Pokemongle/img_bed_0@main/img/202504271548925.png)
+
+![image.png](https://cdn.jsdelivr.net/gh/Pokemongle/img_bed_0@main/img/202504271550216.png)
+
+![image.png](https://cdn.jsdelivr.net/gh/Pokemongle/img_bed_0@main/img/202504271552253.png)
+
+![image.png](https://cdn.jsdelivr.net/gh/Pokemongle/img_bed_0@main/img/202504271557311.png)
+
+![image.png](https://cdn.jsdelivr.net/gh/Pokemongle/img_bed_0@main/img/202504271557141.png)
+
+![image.png](https://cdn.jsdelivr.net/gh/Pokemongle/img_bed_0@main/img/202504271558087.png)
+
+# 4. Python re module
+## 查找
+- search，只返回一个
+```python
+text = "abc, Abc, ABC"
+m = re.search(r"abc", text)
+print(dir(m))
+print(m.group())
+
+text = "David's phone number is 13588033064, another one is 19083956724, she's favorite numbers are 01234567891, her home number is 0571-70169033"
+m = re.search(r"(\d{4})-(\d{8})", text)
+print(m.groups())
+```
+- match，只返回一个，从头开始匹配
+- findall，返回字符串
+- 返回 Match 迭代器
+## 替换
+- sub
+- subn 返回替换后的 str 和替换次数
+## 分割
+- split
