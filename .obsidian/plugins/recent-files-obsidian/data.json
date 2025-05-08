@@ -2,11 +2,15 @@
   "recentFiles": [
     {
       "basename": "Python RegEx",
-      "path": "各种语言/python_tutorial/advanced/Python RegEx.md"
+      "path": "深度学习/llm/llm_from_scratch/Python RegEx.md"
     },
     {
       "basename": "2 Working with text data",
       "path": "深度学习/llm/llm_from_scratch/2 Working with text data.md"
+    },
+    {
+      "basename": "Python RegEx",
+      "path": "各种语言/python_tutorial/advanced/Python RegEx.md"
     },
     {
       "basename": "0_Python Get Started",
@@ -195,10 +199,6 @@
     {
       "basename": "Mental Bumps",
       "path": "01 日记/Mental Bumps.md"
-    },
-    {
-      "basename": "TEACH MULTIMODAL LLMS TO COMPREHEND ELEC TROCARDIOGRAPHIC IMAGES",
-      "path": "MMECG/paper/TEACH MULTIMODAL LLMS TO COMPREHEND ELEC TROCARDIOGRAPHIC IMAGES.md"
     }
   ],
   "omittedPaths": [],

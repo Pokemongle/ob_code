@@ -1274,6 +1274,7 @@ Through
 There
 Though
 Ternary
+Tokenizing
 do
 dl
 dinner
@@ -2675,6 +2676,8 @@ signals
 sequence
 str
 specified
+search
+subn
 algebra
 abs
 after
@@ -3593,6 +3596,8 @@ escape
 either
 ends
 exactly
+embeddings
+embedding
 min
 make
 mini
@@ -5552,6 +5557,7 @@ train
 typically
 technique
 thread
+tokens
 game
 gloves
 going
@@ -6427,6 +6433,7 @@ forwarding
 feeling
 few
 functionality
+findall
 MIT
 Morning
 Min
@@ -6930,6 +6937,7 @@ Math
 Modify
 Modifiers
 Modifier
+Match
 Record
 Review
 RA
@@ -7360,6 +7368,7 @@ Reserved
 Rectangle
 Real
 RULES
+RegEx
 Do
 Day
 Did
@@ -12104,6 +12113,7 @@ containing
 cached
 considered
 characters
+convert
 Learn
 Li
 List
@@ -16414,6 +16424,7 @@ view
 valid
 validation
 void
+vector
 IRCC
 Installing
 Interactive
@@ -18179,6 +18190,7 @@ Unstaging
 Unmodifying
 Unpack
 Update
+Understanding
 View
 VIA
 VFS
