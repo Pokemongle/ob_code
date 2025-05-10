@@ -7,16 +7,12 @@
 # 2.2 Tokenizing text
 ![image.png](https://cdn.jsdelivr.net/gh/Pokemongle/img_bed_0@main/img/202504271456513.png)
 
-1. read the txt file
-```python
-with open("the_text.txt", "r", encoding="utf-8") as f:
-	raw_text = f.read()
-	print(len(raw_text))
-```
-2. split the txt on whitespace characters 
-```python
-result = re.split(r'(\s)',raw_text)
-```
-> r' (\s)' will keep the whitespace characters as tokens
-> r '\s' will eliminate the whitespace characters 
+## Input text → tokenized text
+1. 首先 
+	`with open(file_path, "r", encoding="utf-8") as f`
+	`raw_text = f.read()`
+	给它整个读进来
+2. 然后用 `re.split` 和特殊的 pattern 切分，注意保留特殊字符
+3. 最后用 `.strip()` 按情况去掉空白
 
+## tokenized text → token IDs
