@@ -5,6 +5,10 @@
       "path": "深度学习/llm/llm_from_scratch/2 Working with text data.md"
     },
     {
+      "basename": "13_Python Dictionary",
+      "path": "各种语言/python_tutorial/basics/13_Python Dictionary.md"
+    },
+    {
       "basename": "Python RegEx",
       "path": "深度学习/llm/llm_from_scratch/Python RegEx.md"
     },
@@ -47,10 +51,6 @@
     {
       "basename": "24_Python Scope",
       "path": "各种语言/python_tutorial/basics/24_Python Scope.md"
-    },
-    {
-      "basename": "13_Python Dictionary",
-      "path": "各种语言/python_tutorial/basics/13_Python Dictionary.md"
     },
     {
       "basename": "hw3",

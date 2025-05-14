@@ -5558,6 +5558,8 @@ typically
 technique
 thread
 tokens
+tokenized
+token
 game
 gloves
 going
@@ -8140,6 +8142,7 @@ provided
 pairs
 public
 prepare
+pattern
 hrs
 hr
 house
@@ -16884,6 +16887,8 @@ Identifiers
 Integer
 Int
 Inside
+Input
+IDs
 One
 Objects
 Optional
