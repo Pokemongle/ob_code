@@ -32,3 +32,15 @@
 
 # 2.5 Byte pair Encoding
 ![image.png](https://cdn.jsdelivr.net/gh/Pokemongle/img_bed_0@main/img/202505141624154.png)
+如图所示，不按照预定的词汇分割，而是几个 char 的组合，这样就不需要 `<|unk|>` 这种特殊字符
+
+# 2.6 Data sampling with a sliding window
+![image.png](https://cdn.jsdelivr.net/gh/Pokemongle/img_bed_0@main/img/202505141724000.png)
+llm 基于上文预测下一个单词，看不到之后的单词
+
+# 2.7 Creating token embeddings
+`torch.nn.Embedding(vocab_size, output_dim)`
+词典映射到 embedding 空间，选定 embedding 的 dimension 
+
+# 2.8 Encoding word positions 
+给 `torch.nn.Embeddings` 输入 `torch.arange(context_length)` 就会获得随机的 pos_embeddings

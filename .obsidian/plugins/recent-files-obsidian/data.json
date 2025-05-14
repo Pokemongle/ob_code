@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "3_Coding attention mechanisms",
+      "path": "深度学习/llm/llm_from_scratch/3_Coding attention mechanisms.md"
+    },
+    {
       "basename": "2 Working with text data",
       "path": "深度学习/llm/llm_from_scratch/2 Working with text data.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "0. Zero-shot Prompting",
       "path": "深度学习/Prompt Engineering Guide/Prompting Techniques/0. Zero-shot Prompting.md"
-    },
-    {
-      "basename": "Mental Bumps",
-      "path": "01 日记/Mental Bumps.md"
     }
   ],
   "omittedPaths": [],
