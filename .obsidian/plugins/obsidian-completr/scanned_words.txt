@@ -1731,6 +1731,8 @@ declared
 does
 duplicates
 declare
+decode
+dimension
 list
 linear
 learning
@@ -2678,6 +2680,10 @@ str
 specified
 search
 subn
+sorted
+sampling
+sliding
+sequences
 algebra
 abs
 after
@@ -3598,6 +3604,7 @@ ends
 exactly
 embeddings
 embedding
+encode
 min
 make
 mini
@@ -4260,6 +4267,7 @@ meaning
 modifiers
 memory
 matches
+modeling
 oxygen
 other
 ok
@@ -5560,6 +5568,7 @@ thread
 tokens
 tokenized
 token
+tokenizer
 game
 gloves
 going
@@ -8143,6 +8152,9 @@ pairs
 public
 prepare
 pattern
+pair
+positions
+problem
 hrs
 hr
 house
@@ -16428,6 +16440,7 @@ valid
 validation
 void
 vector
+vocab
 IRCC
 Installing
 Interactive

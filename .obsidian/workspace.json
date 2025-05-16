@@ -99,7 +99,8 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -211,7 +212,7 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "cfe34fcb0bab9702",
+  "active": "1e6893e5de55476c",
   "lastOpenFiles": [
     "深度学习/llm/llm_from_scratch/2 Working with text data.md",
     "深度学习/llm/llm_from_scratch/3_Coding attention mechanisms.md",
