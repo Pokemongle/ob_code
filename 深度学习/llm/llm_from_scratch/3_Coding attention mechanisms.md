@@ -15,3 +15,4 @@ token2对所有的 token（包括自己）分别进行点乘，得到维度为4�
 - 先 `super().__init__()`
 - 返回 `context_vec`
 
+# 3.5 Hiding future words with causal Attention
