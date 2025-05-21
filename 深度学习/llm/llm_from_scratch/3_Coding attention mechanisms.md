@@ -16,3 +16,10 @@ token2对所有的 token（包括自己）分别进行点乘，得到维度为4�
 - 返回 `context_vec`
 
 # 3.5 Hiding future words with causal Attention
+mask 的构建
+1. 提取矩阵对角线上方的元素为1，其余为0
+	`torch.triu(torch.ones(context_length, context_length), diagonal=1)`
+2. 根据构造的矩阵对 attn_scores 矩阵进行填充
+	`attn_scores = attn_scores.masked_fill(self.mask.bool()[: num_tokens, : num_tokens], -torch.inf) `
+	这样可以便捷地使用 softmax 函数
+	

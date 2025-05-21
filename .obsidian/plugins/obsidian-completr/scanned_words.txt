@@ -1733,6 +1733,7 @@ duplicates
 declare
 decode
 dimension
+dot
 list
 linear
 learning
@@ -2684,6 +2685,7 @@ sorted
 sampling
 sliding
 sequences
+simplified
 algebra
 abs
 after
@@ -3054,6 +3056,8 @@ abstract
 abstraction
 attribute
 achieve
+attention
+atten
 exercise
 ee
 edit
@@ -5569,6 +5573,7 @@ tokens
 tokenized
 token
 tokenizer
+trainable
 game
 gloves
 going
@@ -6445,6 +6450,7 @@ feeling
 few
 functionality
 findall
+future
 MIT
 Morning
 Min
@@ -9439,6 +9445,7 @@ rather
 referred
 regular
 returns
+rnn
 School
 Science
 Sour
@@ -12129,6 +12136,8 @@ cached
 considered
 characters
 convert
+context
+causal
 Learn
 Li
 List
@@ -13297,6 +13306,8 @@ wrong
 whitespace
 whereas
 writing
+weights
+weight
 Computer
 Changsha
 Ctrl
@@ -14060,6 +14071,7 @@ History
 Has
 Help
 Hand
+Hiding
 Zhao
 ZB
 Zn
@@ -16441,6 +16453,7 @@ validation
 void
 vector
 vocab
+vec
 IRCC
 Installing
 Interactive
@@ -20742,6 +20755,7 @@ quantification
 quick
 quite
 quotes
+qkv
 XFS
 XML
 XObject
