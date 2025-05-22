@@ -2686,6 +2686,8 @@ sampling
 sliding
 sequences
 simplified
+scores
+softmax
 algebra
 abs
 after
@@ -3058,6 +3060,7 @@ attribute
 achieve
 attention
 atten
+attn
 exercise
 ee
 edit
@@ -4272,6 +4275,7 @@ modifiers
 memory
 matches
 modeling
+mask
 oxygen
 other
 ok
