@@ -180,7 +180,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 237.5
+    "width": 237.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,7 +196,7 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "fffcc9945173914a",
+  "active": "a3600a73cf14345c",
   "lastOpenFiles": [
     "深度学习/llm/llm_from_scratch/4_Implementing a GPT.md",
     "hku/P_WSI/TITAN精读.md",
