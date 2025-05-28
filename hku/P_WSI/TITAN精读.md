@@ -69,8 +69,8 @@ TITAN(Transformer-based pathology Image and Text Alignment Network)
 		- 使用 coca 策略将 PathChat 生成的 caption 和 ROI 对齐
 		- pretrain TITANv 
 
-# Results 
-# Comparison with benchmark
+# Results（孔雀开屏环节）
+## Comparison with benchmark
 
 | 模型       | 预训练策略      | patch-level encoder | 数据规模               |
 | -------- | ---------- | ------------------- | ------------------ |
@@ -80,13 +80,21 @@ TITAN(Transformer-based pathology Image and Text Alignment Network)
 | CHIEF    | 监督对比学习     | 256×256,10×         | 0.18×              |
 另外还和 meanpooling 对比
 
-2 Classification tasks 
+Tasks: 
 - ROI-level cancer subtyping
-	- TCGA-UT-8K
-	- 32 labels 
+	- TCGA-UT-8K dataset
+	- 32 classes
 	- 25495 ROIs, each of 8192×8192px, 20×
-- slide-level OncoTree code subtyping
-	- TCGA-OT
-	- 46 labels 
+- slide-level OncoTree code classification
+	- TCGA-OT dataset
+	- 46 classes
 	- 11186 WSIs 
 - 除了 CHIEF 其他模型预训练都没有使用 TCGA 数据集
+
+1. pretrain TITANv 时使用 Mass-340K数据的size对结果的影响
+![image.png](https://cdn.jsdelivr.net/gh/Pokemongle/img_bed_0@main/img/202505281825192.png)
+对于TITANv：数据量越大结果越好
+对于其它的 baseline：PRISM>GigaPath>CHIEF，也是数据量越大结果越好（但是没有控制变量，能这样对比吗）
+结论：
+	数据量越大结果越好，使用100%的 Mass-340K数据
+	TITAN 和 TITANv 的参数量比 PRISM 和 GigaPath 少，但是结果优于这两个模型，更高效

@@ -105,12 +105,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "hku/P_WSI/TITAN精读.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "TITAN精读 的大纲"
             }
           },
           {
@@ -136,8 +137,7 @@
               "title": "Calendar"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "400a551cfac57a4f",
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hku/P_WSI/related docs.md",
+                "file": "hku/P_WSI/TITAN精读.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "related docs 的反向链接列表"
+              "title": "TITAN精读 的反向链接列表"
             }
           },
           {
@@ -180,8 +180,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 237.5,
-    "collapsed": true
+    "width": 237.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,7 +195,7 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "a3600a73cf14345c",
+  "active": "fffcc9945173914a",
   "lastOpenFiles": [
     "深度学习/llm/llm_from_scratch/4_Implementing a GPT.md",
     "hku/P_WSI/TITAN精读.md",
