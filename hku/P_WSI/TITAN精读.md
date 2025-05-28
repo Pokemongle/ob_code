@@ -29,7 +29,7 @@ TITAN(Transformer-based pathology Image and Text Alignment Network)
 ![image.png](https://cdn.jsdelivr.net/gh/Pokemongle/img_bed_0@main/img/202505281548864.png)
 
 
-# Results 
+# Method
 ## data
 - private dataset Mass-340K
 	- 335645 WSIs for TITANv (stage1)
@@ -43,11 +43,50 @@ TITAN(Transformer-based pathology Image and Text Alignment Network)
 ## Scaling self-supervised learning from histology patches to whole slide images
 3-stage pretrain:
 - Stage 1: Vision-only Unimodal Pretraining
+	![image.png](https://cdn.jsdelivr.net/gh/Pokemongle/img_bed_0@main/img/202505281730399.png)
 	- data: 335645 WSIs 
 	- method
 		- 传统的 ViT：输入原始图像切割出来的 patch
 		- TITANv 的slide encoder 使用 patch encoder 预先提取的 patch 特征并且保留原始的 patch 2D 分布位置，加入位置编码
 		- iBOT (Image BERT) 框架，mask 部分图像并让模型预测，进行视觉自监督预训练
-	- challenges
+	- challenges and solutions
 		- token 长且多样（>10^4 at slide-level, while 196-256 at patch level）。WSI 图像比较大，每张大小差异大，所以patch多数量级差距大
-		- 
+			- WSI → 512×512px 20x patches
+			- use CONCHv1.5
+		- WSI 的 augmentation
+			- randomly sample a 8192×8192px ROI for each epoch
+			- randomly sample 2 global (14×14) and 10 local (6×6) crops from the ROI for iBOT
+			- vertical and horizontal flipping
+			- posterize feature augmentation
+		- WSI 的 position encoding 
+			- 2D ALiBi (attention with linear bias)
+- Stage 2&3: 
+	![image.png](https://cdn.jsdelivr.net/gh/Pokemongle/img_bed_0@main/img/202505281752523.png)
+	- data: 
+		- 423,122 pairs of 8K×8K ROIs and captions
+		- 182,862 pairs of WSIs and corresponding pathology reports
+	- method
+		- 使用 coca 策略将 PathChat 生成的 caption 和 ROI 对齐
+		- pretrain TITANv 
+
+# Results 
+# Comparison with benchmark
+
+| 模型       | 预训练策略      | patch-level encoder | 数据规模               |
+| -------- | ---------- | ------------------- | ------------------ |
+| TITAN    | 视觉-语言对齐    | 多分辨率                | (private)Mass-340K |
+| PRISM    | WSI-报告对比学习 | 256×256, 20×        | 1.7×               |
+| GigaPath | 掩蔽图像重建     | 256×256, 20×        | 0.49×              |
+| CHIEF    | 监督对比学习     | 256×256,10×         | 0.18×              |
+另外还和 meanpooling 对比
+
+2 Classification tasks 
+- ROI-level cancer subtyping
+	- TCGA-UT-8K
+	- 32 labels 
+	- 25495 ROIs, each of 8192×8192px, 20×
+- slide-level OncoTree code subtyping
+	- TCGA-OT
+	- 46 labels 
+	- 11186 WSIs 
+- 除了 CHIEF 其他模型预训练都没有使用 TCGA 数据集
