@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "TITAN精读",
+      "path": "hku/P_WSI/TITAN精读.md"
+    },
+    {
       "basename": "4_Implementing a GPT",
       "path": "深度学习/llm/llm_from_scratch/4_Implementing a GPT.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "1. Few-Shot Prompting",
       "path": "深度学习/Prompt Engineering Guide/Prompting Techniques/1. Few-Shot Prompting.md"
-    },
-    {
-      "basename": "small talk",
-      "path": "01 日记/small talk.md"
     }
   ],
   "omittedPaths": [],
