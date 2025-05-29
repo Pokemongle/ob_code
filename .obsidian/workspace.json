@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hku/P_WSI/TITAN精读.md",
+                "file": "hku/P_WSI/TITAN.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TITAN精读"
+              "title": "TITAN"
             }
           },
           {
@@ -35,7 +35,8 @@
               "title": "病理学特征提取器"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -119,13 +120,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "hku/P_WSI/TITAN精读.md",
+                "file": "hku/P_WSI/病理学特征提取器.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "TITAN精读 的大纲"
+              "title": "病理学特征提取器 的大纲"
             }
           },
           {
@@ -163,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hku/P_WSI/TITAN精读.md",
+                "file": "hku/P_WSI/病理学特征提取器.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -173,7 +174,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "TITAN精读 的反向链接列表"
+              "title": "病理学特征提取器 的反向链接列表"
             }
           },
           {
@@ -210,10 +211,10 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "a3600a73cf14345c",
+  "active": "9e234b0004f9f7a5",
   "lastOpenFiles": [
+    "hku/P_WSI/TITAN.md",
     "hku/P_WSI/病理学特征提取器.md",
-    "hku/P_WSI/TITAN精读.md",
     "深度学习/llm/llm_from_scratch/4_Implementing a GPT.md",
     "深度学习/llm/llm_from_scratch/3_Coding attention mechanisms.md",
     "深度学习/llm/llm_from_scratch/2 Working with text data.md",
