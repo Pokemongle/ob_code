@@ -5,6 +5,10 @@
       "path": "hku/P_WSI/TITAN精读.md"
     },
     {
+      "basename": "病理学特征提取器",
+      "path": "hku/P_WSI/病理学特征提取器.md"
+    },
+    {
       "basename": "4_Implementing a GPT",
       "path": "深度学习/llm/llm_from_scratch/4_Implementing a GPT.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2. Chain-of-Thought(CoT) Prompting",
       "path": "深度学习/Prompt Engineering Guide/Prompting Techniques/2. Chain-of-Thought(CoT) Prompting.md"
-    },
-    {
-      "basename": "1. Few-Shot Prompting",
-      "path": "深度学习/Prompt Engineering Guide/Prompting Techniques/1. Few-Shot Prompting.md"
     }
   ],
   "omittedPaths": [],
