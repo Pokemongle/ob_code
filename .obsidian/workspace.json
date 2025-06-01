@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hku/P_WSI/病理学特征提取器.md",
+                "file": "other/6_week_roadmap.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "病理学特征提取器"
+              "title": "6_week_roadmap"
             }
           }
         ],
@@ -103,8 +103,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 294.5,
-    "collapsed": true
+    "width": 294.5
   },
   "right": {
     "id": "1bd954b4346845fe",
@@ -213,8 +212,9 @@
   },
   "active": "9e234b0004f9f7a5",
   "lastOpenFiles": [
-    "hku/P_WSI/TITAN.md",
+    "other/6_week_roadmap.md",
     "hku/P_WSI/病理学特征提取器.md",
+    "hku/P_WSI/TITAN.md",
     "深度学习/llm/llm_from_scratch/4_Implementing a GPT.md",
     "深度学习/llm/llm_from_scratch/3_Coding attention mechanisms.md",
     "深度学习/llm/llm_from_scratch/2 Working with text data.md",
@@ -242,7 +242,6 @@
     "各种语言/java/java_classes/4_Java Constructors.md",
     "各种语言/java/java_classes/3_Java Class Methods.md",
     "各种语言/java/java_classes/2_Java Class Attributes.md",
-    "各种语言/java/java_classes/1_Java Classes and Objects.md",
     "各种语言/java/java_classes",
     "各种语言/java/java_methods",
     "各种语言/java/java_tutorial",

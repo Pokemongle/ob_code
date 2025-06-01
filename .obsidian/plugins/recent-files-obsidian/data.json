@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "6_week_roadmap",
+      "path": "other/6_week_roadmap.md"
+    },
+    {
       "basename": "病理学特征提取器",
       "path": "hku/P_WSI/病理学特征提取器.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "lecture5-训练不了人工智能可以训练自己（下）",
       "path": "深度学习/李宏毅生成式ai/lecture5-训练不了人工智能可以训练自己（下）.md"
-    },
-    {
-      "basename": "2. Chain-of-Thought(CoT) Prompting",
-      "path": "深度学习/Prompt Engineering Guide/Prompting Techniques/2. Chain-of-Thought(CoT) Prompting.md"
     }
   ],
   "omittedPaths": [],
