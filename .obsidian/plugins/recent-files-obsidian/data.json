@@ -1,16 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "6_week_roadmap",
-      "path": "other/6_week_roadmap.md"
+      "basename": "1. Advanced Market Structure Course",
+      "path": "other/smc trading strategy/1. Advanced Market Structure Course.md"
+    },
+    {
+      "basename": "TITAN",
+      "path": "hku/P_WSI/TITAN.md"
+    },
+    {
+      "basename": "生存分析",
+      "path": "hku/P_WSI/生存分析.md"
+    },
+    {
+      "basename": "related docs",
+      "path": "hku/P_WSI/related docs.md"
+    },
+    {
+      "basename": "12.18-12.24",
+      "path": "hku/P_WSI/12.18-12.24.md"
     },
     {
       "basename": "病理学特征提取器",
       "path": "hku/P_WSI/病理学特征提取器.md"
     },
     {
-      "basename": "TITAN",
-      "path": "hku/P_WSI/TITAN.md"
+      "basename": "配置服务器环境",
+      "path": "hku/P_WSI/配置服务器环境.md"
+    },
+    {
+      "basename": "6_week_roadmap",
+      "path": "other/6_week_roadmap.md"
     },
     {
       "basename": "4_Implementing a GPT",
@@ -41,20 +61,8 @@
       "path": "各种语言/python_tutorial/basics/0_Python Get Started.md"
     },
     {
-      "basename": "related docs",
-      "path": "hku/P_WSI/related docs.md"
-    },
-    {
       "basename": "6_Java Encapsulation",
       "path": "各种语言/java/java_classes/6_Java Encapsulation.md"
-    },
-    {
-      "basename": "12.18-12.24",
-      "path": "hku/P_WSI/12.18-12.24.md"
-    },
-    {
-      "basename": "配置服务器环境",
-      "path": "hku/P_WSI/配置服务器环境.md"
     },
     {
       "basename": "7_Java Packages_API",
@@ -191,14 +199,6 @@
     {
       "basename": "1_Java Output",
       "path": "各种语言/java/java_tutorial/1_Java Output.md"
-    },
-    {
-      "basename": "0_Java Get Started",
-      "path": "各种语言/java/java_tutorial/0_Java Get Started.md"
-    },
-    {
-      "basename": "lecture5-训练不了人工智能可以训练自己（下）",
-      "path": "深度学习/李宏毅生成式ai/lecture5-训练不了人工智能可以训练自己（下）.md"
     }
   ],
   "omittedPaths": [],
