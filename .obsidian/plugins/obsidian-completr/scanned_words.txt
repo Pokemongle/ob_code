@@ -1290,6 +1290,7 @@ TITANL
 Topics
 Trees
 Trending
+Than
 do
 dl
 dinner
@@ -1758,6 +1759,7 @@ depth
 depending
 dimensionality
 downtrend
+dimensions
 list
 linear
 learning
@@ -5186,6 +5188,7 @@ FlexiViT
 Focus
 Forests
 Forward
+Faster
 things
 to
 transcript
@@ -5668,6 +5671,7 @@ tree
 transfer
 trained
 trying
+traditional
 game
 gloves
 going
@@ -6555,6 +6559,7 @@ foundation
 flipping
 focusing
 focus
+faster
 MIT
 Morning
 Min
@@ -7891,6 +7896,7 @@ Deepen
 Dive
 Decision
 Document
+Dimensions
 plastic
 piano
 print
@@ -10043,6 +10049,7 @@ Supervised
 SVMs
 Support
 SVM
+Scalars
 is
 instant
 into

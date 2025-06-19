@@ -1,6 +1,38 @@
 {
   "recentFiles": [
     {
+      "basename": "5_NumPy Data Types",
+      "path": "5_NumPy Data Types.md"
+    },
+    {
+      "basename": "4_NumPy Array Slicing",
+      "path": "各种语言/python_tutorial/numpy/NumPy Tutorial/4_NumPy Array Slicing.md"
+    },
+    {
+      "basename": "2_NumPy Creating Arrays",
+      "path": "各种语言/python_tutorial/numpy/NumPy Tutorial/2_NumPy Creating Arrays.md"
+    },
+    {
+      "basename": "3_NumPy Array Indexing",
+      "path": "各种语言/python_tutorial/numpy/NumPy Tutorial/3_NumPy Array Indexing.md"
+    },
+    {
+      "basename": "1_NumPy Getting Started",
+      "path": "各种语言/python_tutorial/numpy/NumPy Tutorial/1_NumPy Getting Started.md"
+    },
+    {
+      "basename": "Python RegEx",
+      "path": "各种语言/python_tutorial/advanced/Python RegEx.md"
+    },
+    {
+      "basename": "ch1_Introduction",
+      "path": "深度学习/UMich_DL_CV/ch1_Introduction.md"
+    },
+    {
+      "basename": "Prediction of severity and treatment outcome for ASD from fMRI",
+      "path": "phd_application/2018/Prediction of severity and treatment outcome for ASD from fMRI.md"
+    },
+    {
       "basename": "1. Advanced Market Structure Course",
       "path": "other/smc trading strategy/1. Advanced Market Structure Course.md"
     },
@@ -51,10 +83,6 @@
     {
       "basename": "Python RegEx",
       "path": "深度学习/llm/llm_from_scratch/Python RegEx.md"
-    },
-    {
-      "basename": "Python RegEx",
-      "path": "各种语言/python_tutorial/advanced/Python RegEx.md"
     },
     {
       "basename": "0_Python Get Started",
@@ -171,34 +199,6 @@
     {
       "basename": "8_Java Math",
       "path": "各种语言/java/java_tutorial/8_Java Math.md"
-    },
-    {
-      "basename": "7_Java Strings",
-      "path": "各种语言/java/java_tutorial/7_Java Strings.md"
-    },
-    {
-      "basename": "6_Java Operators",
-      "path": "各种语言/java/java_tutorial/6_Java Operators.md"
-    },
-    {
-      "basename": "5_Java Type Casting",
-      "path": "各种语言/java/java_tutorial/5_Java Type Casting.md"
-    },
-    {
-      "basename": "4_Java Data Types",
-      "path": "各种语言/java/java_tutorial/4_Java Data Types.md"
-    },
-    {
-      "basename": "3_Java Variables",
-      "path": "各种语言/java/java_tutorial/3_Java Variables.md"
-    },
-    {
-      "basename": "2_Java Comments",
-      "path": "各种语言/java/java_tutorial/2_Java Comments.md"
-    },
-    {
-      "basename": "1_Java Output",
-      "path": "各种语言/java/java_tutorial/1_Java Output.md"
     }
   ],
   "omittedPaths": [],
