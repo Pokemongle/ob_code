@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "8_NumPy Array Reshaping",
+      "path": "各种语言/python_tutorial/numpy/NumPy Tutorial/8_NumPy Array Reshaping.md"
+    },
+    {
+      "basename": "7_NumPy Array Shape",
+      "path": "各种语言/python_tutorial/numpy/NumPy Tutorial/7_NumPy Array Shape.md"
+    },
+    {
       "basename": "6_NumPy Array Copy vs View",
       "path": "各种语言/python_tutorial/numpy/NumPy Tutorial/6_NumPy Array Copy vs View.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "11_Java Switch",
       "path": "各种语言/java/java_tutorial/11_Java Switch.md"
-    },
-    {
-      "basename": "10_Java If ... Else",
-      "path": "各种语言/java/java_tutorial/10_Java If ... Else.md"
-    },
-    {
-      "basename": "9_Java Booleans",
-      "path": "各种语言/java/java_tutorial/9_Java Booleans.md"
     }
   ],
   "omittedPaths": [],
