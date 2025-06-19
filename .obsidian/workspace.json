@@ -8,31 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ebb7f11c8395f166",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "各种语言/python_tutorial/numpy/NumPy Tutorial/4_NumPy Array Slicing.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "4_NumPy Array Slicing"
-            }
-          },
-          {
             "id": "458529d0e840e18d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5_NumPy Data Types.md",
+                "file": "各种语言/python_tutorial/numpy/NumPy Tutorial/5_NumPy Data Types.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "5_NumPy Data Types"
+            }
+          },
+          {
+            "id": "ae2a1a33452575b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "各种语言/python_tutorial/numpy/NumPy Tutorial/6_NumPy Array Copy vs View.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "6_NumPy Array Copy vs View"
             }
           }
         ],
@@ -211,10 +211,11 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "458529d0e840e18d",
+  "active": "ae2a1a33452575b6",
   "lastOpenFiles": [
+    "各种语言/python_tutorial/numpy/NumPy Tutorial/5_NumPy Data Types.md",
+    "各种语言/python_tutorial/numpy/NumPy Tutorial/6_NumPy Array Copy vs View.md",
     "各种语言/python_tutorial/numpy/NumPy Tutorial/4_NumPy Array Slicing.md",
-    "5_NumPy Data Types.md",
     "各种语言/python_tutorial/numpy/NumPy Tutorial/2_NumPy Creating Arrays.md",
     "各种语言/python_tutorial/numpy/NumPy Tutorial/3_NumPy Array Indexing.md",
     "各种语言/python_tutorial/numpy/NumPy Tutorial/1_NumPy Getting Started.md",
@@ -247,7 +248,6 @@
     "各种语言/python_tutorial/basics",
     "各种语言/java/java_classes/6_Java Encapsulation.md",
     "各种语言/java/java_classes/7_Java Packages_API.md",
-    "各种语言/java/java_classes/5_Java Modifiers.md",
     "各种语言/java/java_classes",
     "未命名.canvas",
     "attachment/Pasted image 20230729013601.png"

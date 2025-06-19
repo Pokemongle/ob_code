@@ -1,8 +1,12 @@
 {
   "recentFiles": [
     {
+      "basename": "6_NumPy Array Copy vs View",
+      "path": "各种语言/python_tutorial/numpy/NumPy Tutorial/6_NumPy Array Copy vs View.md"
+    },
+    {
       "basename": "5_NumPy Data Types",
-      "path": "5_NumPy Data Types.md"
+      "path": "各种语言/python_tutorial/numpy/NumPy Tutorial/5_NumPy Data Types.md"
     },
     {
       "basename": "4_NumPy Array Slicing",
@@ -195,10 +199,6 @@
     {
       "basename": "9_Java Booleans",
       "path": "各种语言/java/java_tutorial/9_Java Booleans.md"
-    },
-    {
-      "basename": "8_Java Math",
-      "path": "各种语言/java/java_tutorial/8_Java Math.md"
     }
   ],
   "omittedPaths": [],
