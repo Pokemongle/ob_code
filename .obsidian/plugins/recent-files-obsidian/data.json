@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "7_NumPy Array Shape",
+      "path": "各种语言/python_tutorial/numpy/NumPy Tutorial/7_NumPy Array Shape.md"
+    },
+    {
+      "basename": "3_Seaborn",
+      "path": "各种语言/python_tutorial/numpy/NumPy Random/3_Seaborn.md"
+    },
+    {
       "basename": "2_Random Permutations",
       "path": "各种语言/python_tutorial/numpy/NumPy Random/2_Random Permutations.md"
     },
@@ -39,10 +47,6 @@
     {
       "basename": "8_NumPy Array Reshaping",
       "path": "各种语言/python_tutorial/numpy/NumPy Tutorial/8_NumPy Array Reshaping.md"
-    },
-    {
-      "basename": "7_NumPy Array Shape",
-      "path": "各种语言/python_tutorial/numpy/NumPy Tutorial/7_NumPy Array Shape.md"
     },
     {
       "basename": "6_NumPy Array Copy vs View",
@@ -191,14 +195,6 @@
     {
       "basename": "1_Java Classes and Objects",
       "path": "各种语言/java/java_classes/1_Java Classes and Objects.md"
-    },
-    {
-      "basename": "0_Java OOP",
-      "path": "各种语言/java/java_classes/0_Java OOP.md"
-    },
-    {
-      "basename": "4_Java Recursion",
-      "path": "各种语言/java/java_methods/4_Java Recursion.md"
     }
   ],
   "omittedPaths": [],
