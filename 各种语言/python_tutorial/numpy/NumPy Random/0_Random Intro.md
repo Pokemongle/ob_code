@@ -12,7 +12,7 @@ generate random from an array
 	`x = np.array([1, 3, 5, 7, 9])`
 	`y = random.choice(x, size=(2))`
 
-summary 
+# summary 
 `from numpy import random`
 `random.randint(100, size=(2, 3))`
 `random.rand(SIZE)`

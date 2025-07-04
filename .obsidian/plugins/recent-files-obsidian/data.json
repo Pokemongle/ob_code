@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "2_Random Permutations",
+      "path": "各种语言/python_tutorial/numpy/NumPy Random/2_Random Permutations.md"
+    },
+    {
+      "basename": "1_Random Data Distribution",
+      "path": "各种语言/python_tutorial/numpy/NumPy Random/1_Random Data Distribution.md"
+    },
+    {
       "basename": "0_Random Intro",
       "path": "各种语言/python_tutorial/numpy/NumPy Random/0_Random Intro.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "4_Java Recursion",
       "path": "各种语言/java/java_methods/4_Java Recursion.md"
-    },
-    {
-      "basename": "3_Java Scope",
-      "path": "各种语言/java/java_methods/3_Java Scope.md"
-    },
-    {
-      "basename": "2_Java Method Overloading",
-      "path": "各种语言/java/java_methods/2_Java Method Overloading.md"
     }
   ],
   "omittedPaths": [],
