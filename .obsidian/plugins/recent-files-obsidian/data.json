@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "10_NumPy Joining Array",
+      "path": "各种语言/python_tutorial/numpy/NumPy Tutorial/10_NumPy Joining Array.md"
+    },
+    {
+      "basename": "9_NumPy Array Iterating",
+      "path": "各种语言/python_tutorial/numpy/NumPy Tutorial/9_NumPy Array Iterating.md"
+    },
+    {
       "basename": "8_NumPy Array Reshaping",
       "path": "各种语言/python_tutorial/numpy/NumPy Tutorial/8_NumPy Array Reshaping.md"
     },
@@ -21,12 +29,12 @@
       "path": "各种语言/python_tutorial/numpy/NumPy Tutorial/4_NumPy Array Slicing.md"
     },
     {
-      "basename": "2_NumPy Creating Arrays",
-      "path": "各种语言/python_tutorial/numpy/NumPy Tutorial/2_NumPy Creating Arrays.md"
-    },
-    {
       "basename": "3_NumPy Array Indexing",
       "path": "各种语言/python_tutorial/numpy/NumPy Tutorial/3_NumPy Array Indexing.md"
+    },
+    {
+      "basename": "2_NumPy Creating Arrays",
+      "path": "各种语言/python_tutorial/numpy/NumPy Tutorial/2_NumPy Creating Arrays.md"
     },
     {
       "basename": "1_NumPy Getting Started",
@@ -191,14 +199,6 @@
     {
       "basename": "13_Java For Loop",
       "path": "各种语言/java/java_tutorial/13_Java For Loop.md"
-    },
-    {
-      "basename": "12_Java While Loop",
-      "path": "各种语言/java/java_tutorial/12_Java While Loop.md"
-    },
-    {
-      "basename": "11_Java Switch",
-      "path": "各种语言/java/java_tutorial/11_Java Switch.md"
     }
   ],
   "omittedPaths": [],
