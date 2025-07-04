@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "11_NumPy Splitting Array",
+      "path": "各种语言/python_tutorial/numpy/NumPy Tutorial/11_NumPy Splitting Array.md"
+    },
+    {
       "basename": "10_NumPy Joining Array",
       "path": "各种语言/python_tutorial/numpy/NumPy Tutorial/10_NumPy Joining Array.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "14_Java Break and Continue",
       "path": "各种语言/java/java_tutorial/14_Java Break and Continue.md"
-    },
-    {
-      "basename": "13_Java For Loop",
-      "path": "各种语言/java/java_tutorial/13_Java For Loop.md"
     }
   ],
   "omittedPaths": [],
