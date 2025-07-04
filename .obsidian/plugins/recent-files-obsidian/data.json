@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "0_Random Intro",
+      "path": "各种语言/python_tutorial/numpy/NumPy Random/0_Random Intro.md"
+    },
+    {
       "basename": "14_NumPy Filter Array",
       "path": "各种语言/python_tutorial/numpy/NumPy Tutorial/14_NumPy Filter Array.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2_Java Method Overloading",
       "path": "各种语言/java/java_methods/2_Java Method Overloading.md"
-    },
-    {
-      "basename": "1_Java Method Parameters",
-      "path": "各种语言/java/java_methods/1_Java Method Parameters.md"
     }
   ],
   "omittedPaths": [],
