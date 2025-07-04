@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "14_NumPy Filter Array",
+      "path": "各种语言/python_tutorial/numpy/NumPy Tutorial/14_NumPy Filter Array.md"
+    },
+    {
       "basename": "13_NumPy Sorting Arrays",
       "path": "各种语言/python_tutorial/numpy/NumPy Tutorial/13_NumPy Sorting Arrays.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "1_Java Method Parameters",
       "path": "各种语言/java/java_methods/1_Java Method Parameters.md"
-    },
-    {
-      "basename": "0_Java Methods",
-      "path": "各种语言/java/java_methods/0_Java Methods.md"
     }
   ],
   "omittedPaths": [],
