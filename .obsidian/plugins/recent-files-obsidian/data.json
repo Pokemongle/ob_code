@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2_NumPy Creating Arrays",
+      "path": "各种语言/python_tutorial/numpy/NumPy Tutorial/2_NumPy Creating Arrays.md"
+    },
+    {
       "basename": "7_NumPy Array Shape",
       "path": "各种语言/python_tutorial/numpy/NumPy Tutorial/7_NumPy Array Shape.md"
     },
@@ -63,10 +67,6 @@
     {
       "basename": "3_NumPy Array Indexing",
       "path": "各种语言/python_tutorial/numpy/NumPy Tutorial/3_NumPy Array Indexing.md"
-    },
-    {
-      "basename": "2_NumPy Creating Arrays",
-      "path": "各种语言/python_tutorial/numpy/NumPy Tutorial/2_NumPy Creating Arrays.md"
     },
     {
       "basename": "1_NumPy Getting Started",

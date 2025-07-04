@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "各种语言/python_tutorial/numpy/NumPy Tutorial/7_NumPy Array Shape.md",
+                "file": "各种语言/python_tutorial/numpy/NumPy Tutorial/2_NumPy Creating Arrays.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7_NumPy Array Shape"
+              "title": "2_NumPy Creating Arrays"
             }
           }
         ]
@@ -195,8 +195,9 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "3a8201c8c12fa4cb",
+  "active": "45f85b0c8f6050db",
   "lastOpenFiles": [
+    "各种语言/python_tutorial/numpy/NumPy Tutorial/7_NumPy Array Shape.md",
     "各种语言/python_tutorial/numpy/code/ufuncs.ipynb",
     "各种语言/python_tutorial/numpy/code/random_1.py",
     "各种语言/python_tutorial/numpy/code/intro.py",
@@ -207,7 +208,6 @@
     "各种语言/python_tutorial/numpy/numpy",
     "编程入门/Python/numpy/ufuncs.ipynb",
     "编程入门/Python/numpy/random_1.py",
-    "编程入门/Python/numpy/intro.py",
     "各种语言/python_tutorial/numpy/Numpy ufuncs/0_ufunc intro.md",
     "各种语言/python_tutorial/numpy/NumPy Random/3_Seaborn.md",
     "各种语言/python_tutorial/numpy/NumPy Random/2_Random Permutations.md",
@@ -220,7 +220,6 @@
     "各种语言/python_tutorial/numpy/NumPy Tutorial/10_NumPy Joining Array.md",
     "各种语言/python_tutorial/numpy/NumPy Tutorial/9_NumPy Array Iterating.md",
     "各种语言/python_tutorial/numpy/NumPy Tutorial/8_NumPy Array Reshaping.md",
-    "各种语言/python_tutorial/numpy/NumPy Tutorial/7_NumPy Array Shape.md",
     "各种语言/python_tutorial/numpy/NumPy Tutorial/6_NumPy Array Copy vs View.md",
     "各种语言/python_tutorial/numpy/NumPy Tutorial/5_NumPy Data Types.md",
     "各种语言/python_tutorial/numpy/NumPy Tutorial/4_NumPy Array Slicing.md",

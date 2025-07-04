@@ -12,4 +12,4 @@
 	- `print(arr.ndim)`
 
 # Higher Dimensional Arrays 
-`arr = np.array([1,2,3,4], ndimn=5)`
+`arr = np.array([1,2,3,4], ndmin=5)`
